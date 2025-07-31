@@ -103,12 +103,13 @@ countries.forEach(country => {
 
         // updates meta tags
         document.querySelector("title").innerHTML = "Desiertos de Noticias Locales &mdash; " + name;
-        document.querySelector("[property='og:title']").setAttribute("title", "Desiertos de Noticias Locales &mdash; " + name);
+        document.querySelector("[property='og:title']").setAttribute("content", "Desiertos de Noticias Locales — " + name);
 
-        document.querySelector("[name='description']").innerHTML = `${name} (${country_names[country]}): ${narrative.TITLE}`;
+        document.querySelector("[name='description']").setAttribute("content", `${name} (${country_names[country]}): ${narrative.TITLE}`);
         document.querySelector("[property='og:description']").setAttribute("content", `${name} (${country_names[country]}): ${narrative.TITLE}`);
 
         document.querySelector("[property='og:url']").setAttribute("content", url);
+        document.querySelector("[property='og:image']").setAttribute("content", url + '/map.png');
 
         // builds URL to fetch map from Mapbox Image API
 

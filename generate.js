@@ -1,17 +1,19 @@
 const fs = require('fs');
 const path = require('path');
 const { JSDOM } = require('jsdom');
-const fetch = require("node-fetch");
 
-async function download_image(url, filepath) {
+async function download_image(img_url, filepath) {
     
-const response = await fetch(url);
-if (!response.ok) {
-    throw new Error(`Failed to fetch image: ${response.statusText}`);
-}
+    const response = await fetch(img_url);
+    if (!response.ok) {
+        throw new Error(`Failed to fetch image: ${response.statusText}`);
+    }
 
-const buffer = await response.buffer();
-fs.writeFileSync(filepath, buffer);
+    console.log(response);
+
+    const arrayBuffer = await response.arrayBuffer();
+    const buffer = Buffer.from(arrayBuffer);
+    fs.writeFileSync(filepath, buffer);
 
 }
 
@@ -111,23 +113,25 @@ countries.forEach(country => {
         // builds URL to fetch map from Mapbox Image API
 
         // #[lon(min),lat(min),lon(max),lat(max)]
-        const img_bbox = `[${mini_data.BBOX.minx},${mini_data.BBOX.miny},${mini_data.BBOX.maxx},${mini_data.BBOX.maxy}]`;
+        const img_bbox = `%5B${provincia_data.BBOX.minx},${provincia_data.BBOX.miny},${provincia_data.BBOX.maxx},${provincia_data.BBOX.maxy}%5D`;
 
         let img_url = "https://api.mapbox.com/styles/v1/";
 
-        img_url += countries_layers[country] + "/static";
+        img_url += countries_layers[country] + "/static/";
         img_url += img_bbox;
         img_url += "/600x600/?padding=25&access_token=pk.eyJ1IjoidGlhZ29tYnAiLCJhIjoiY2thdjJmajYzMHR1YzJ5b2huM2pscjdreCJ9.oT7nAiasQnIMjhUB-VFvmw";
-        img_url += `&setfilter=[%22==%22,%22KEY%22,%22${mini_data.BASIC_INFO.KEY}%22]`;
+        img_url += `&setfilter=%5B%22==%22,%22KEY%22,%22${provincia_data.BASIC_INFO.KEY}%22%5D`;
         img_url += `&layer_id=${country}-provincia-border`;
+
+        console.log(img_url);
 
         //  Save map image in folder
         const image_path = path.join(unit_dir, "map.png");
         try {
             await download_image(img_url, image_path);
-            console.log(`Downloaded map for ${mini_data.BASIC_INFO.KEY}`);
+            console.log(`Downloaded map for ${provincia_data.BASIC_INFO.KEY}`);
         } catch (err) {
-            console.error(`Failed to get map for ${mini_data.BASIC_INFO.KEY}:`, err.message);
+            console.error(`Failed to get map for ${provincia_data.BASIC_INFO.KEY}:`, err.message);
         }
         
         // writes the HTML file.

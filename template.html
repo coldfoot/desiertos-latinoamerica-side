@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desiertos de Noticias Locales</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="secondary-pages-wrapper">
+
+    <header class="top-bar-secondary-pages">
+
+        <div class="logo-wrapper">
+        <a href="https://fundaciongabo.org/">
+            <img src="../../img/marca-gabo-branco2.svg" alt="Logo de Fundación Gabo" class="logo">
+        </a>
+        </div>
+
+        <div class="title-wrapper">
+        <h1 class="title"><a href="../../index.html">Desiertos de Noticias Locales</a></h1>
+        </div>
+
+        <button class="btn-menu" data-state="burger">
+            <svg class="btn-menu-img" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <line x1="5" x2="35" y1="10" y2="10" class="line-top"></line>
+                <line x1="5" x2="35" y1="20" y2="20" class="line-mid"></line>
+                <line x1="5" x2="35" y1="30" y2="30" class="line-bottom"></line>
+            </svg>
+        </button>
+
+        <div class="btn-menu-content">
+            <ul>
+                <li><a href="../../index.html">Introducción</a></li>
+                <li><a href="../../dashboard/index.html">⁠Mapa interactivo</a></li>
+                <li><a href="../../metodologia/index.html">⁠Metodología</a></li>
+                <li><a href="../../creditos/index.html">⁠Créditos</a></li>
+            </ul>
+        </div>
+
+    </header>
+
+    <div class="container-relato-static">
+
+        <div class="modal-relato-wrapper-text">
+
+            <h2 class="static-page-place-name">Place name</h2>
+
+            <img src="map.png" alt="Mapa de la provincia" class="static-page-map">
+
+            <h4 class="chapeu-relato">Informe | 
+                <span class="chapeu-relato-author" data-relato-modal-campo="AUTHOR">Author</span></h4>
+            <h3 data-relato-modal-campo="TITLE">Informe</h3>
+            <!-- <h3 data-relato-modal-campo="TITLE">Relato de investigación</h3> -->
+            <p data-relato-modal-campo="TEASER">Teaser</p>
+            <div data-relato-modal-campo="RELATO" class="relato-modal-content">Relato</div>
+
+            <div class="logo-wrapper-modal">
+                <img src="../../img/logo-gabo.png" alt="Logo de Fundación Gabo" class="logo">
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="../../script-btn.js"></script>
+    
+</body>
+</html>

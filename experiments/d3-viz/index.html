@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DESIERTOS - D3 Experiment</title>
+    <meta property="og:description" id="og-description" content="Explora visualizaciones interactivas de datos sobre desiertos y periodismo local en Latinoamérica.">
+    <meta property="og:title" id="og-title" content="DESIERTOS - D3 Experiment">
+    
+    <!-- Custom font from main project -->
+    <style>
+        @font-face {
+            font-family: 'buendia';
+            src: url('../../fonts/buendia-regular.woff2') format('woff2'),
+                 url('../../fonts/buendia-regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        @font-face {
+            font-family: 'buendia';
+            src: url('../../fonts/buendia-italic.woff2') format('woff2'),
+                 url('../../fonts/buendia-italic.woff') format('woff');
+            font-weight: normal;
+            font-style: italic;
+        }
+    </style>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="main">
+        <div class="controls">
+            <div class="primary-controls">
+                <label for="country-select">País:</label>
+                <select id="country-select" class="selector"></select>
+                <label for="level-select">Nivel:</label>
+                <select id="level-select" class="selector"></select>
+            </div>
+            <div class="secondary-controls">
+                <form id="unit-form" autocomplete="off" spellcheck="false">
+                    <fieldset>
+                        <label for="unit-search">Unidad:</label>
+                        <div class="container-search">
+                            <input type="search" id="unit-search" name="q" list="unit-options" placeholder="Buscar unidad...">
+                        </div>
+                        <datalist id="unit-options"></datalist>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+        
+        <div class="draw-section">
+            <button id="draw-button" class="draw-button">¡Dibujar!</button>
+            <button id="share-button" class="share-button">Compartir</button>
+        </div>
+        
+        <div id="chart"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script src="draw.js"></script>
+    <script src="script.js"></script>
+    
+</body>
+</html> 

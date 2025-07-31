@@ -1,0 +1,1119 @@
+0,1,2,3,4,5,6,7,8,9,10
+chile,Antofagasta,"Antofagasta, Antofagasta",401096.0,30718.0,18.0,81.0,22283.11111,4951.802469,379.2345679,BOSQUE
+chile,Antofagasta,"Calama, Antofagasta",166334.0,15597.0,7.0,23.0,23762.0,7231.913043,678.1304348,SEMIBOSQUE
+chile,Antofagasta,"María Elena, Antofagasta",4834.0,12197.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Antofagasta,"Mejillones, Antofagasta",14084.0,3804.0,2.0,4.0,7042.0,3521.0,951.0,SEMIBOSQUE
+chile,Antofagasta,"Ollagüe, Antofagasta",256.0,2964.0,1.0,1.0,256.0,256.0,2964.0,DESIERTO
+chile,Antofagasta,"San Pedro de Atacama, Antofagasta",9843.0,23439.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Antofagasta,"Sierra Gorda, Antofagasta",1472.0,12886.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Antofagasta,"Taltal, Antofagasta",12097.0,20405.0,2.0,4.0,6048.5,3024.25,5101.25,SEMIDESIERTO
+chile,Antofagasta,"Tocopilla, Antofagasta",25400.0,4039.0,1.0,2.0,25400.0,12700.0,2019.5,DESIERTO
+chile,Araucanía,"Angol, Araucanía",53022.0,1194.0,8.0,20.0,6627.75,2651.1,59.7,BOSQUE
+chile,Araucanía,"Carahue, Araucanía",24957.0,1341.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Cholchol, Araucanía",13167.0,428.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Collipulli, Araucanía",24303.0,1296.0,3.0,3.0,8101.0,8101.0,432.0,SEMIBOSQUE
+chile,Araucanía,"Cunco, Araucanía",19177.0,1907.0,1.0,1.0,19177.0,19177.0,1907.0,SEMIDESIERTO
+chile,Araucanía,"Curacautín, Araucanía",18536.0,1664.0,2.0,2.0,9268.0,9268.0,832.0,SEMIDESIERTO
+chile,Araucanía,"Curarrehue, Araucanía",7733.0,1171.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Ercilla, Araucanía",7730.0,500.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Freire, Araucanía",26164.0,935.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Galvarino, Araucanía",12710.0,568.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Gorbea, Araucanía",14148.0,695.0,1.0,1.0,14148.0,14148.0,695.0,SEMIDESIERTO
+chile,Araucanía,"Lautaro, Araucanía",41936.0,901.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Loncoche, Araucanía",25158.0,977.0,1.0,1.0,25158.0,25158.0,977.0,SEMIDESIERTO
+chile,Araucanía,"Lonquimay, Araucanía",10247.0,3914.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Los Sauces, Araucanía",7348.0,850.0,1.0,1.0,7348.0,7348.0,850.0,SEMIDESIERTO
+chile,Araucanía,"Lumaco, Araucanía",9253.0,1119.0,2.0,5.0,4626.5,1850.6,223.8,SEMIDESIERTO
+chile,Araucanía,"Melipeuco, Araucanía",6796.0,1107.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Nueva Imperial, Araucanía",33988.0,733.0,3.0,3.0,11329.33333,11329.33333,244.3333333,SEMIBOSQUE
+chile,Araucanía,"Padre Las Casas, Araucanía",80656.0,401.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Perquenco, Araucanía",7438.0,331.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Pitrufquén, Araucanía",27041.0,581.0,2.0,3.0,13520.5,9013.666667,193.6666667,SEMIDESIERTO
+chile,Araucanía,"Pucón, Araucanía",32321.0,1249.0,2.0,5.0,16160.5,6464.2,249.8,SEMIDESIERTO
+chile,Araucanía,"Puerto Saavedra, Araucanía",12184.0,401.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Purén, Araucanía",10686.0,465.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Renaico, Araucanía",12877.0,267.0,1.0,2.0,12877.0,6438.5,133.5,DESIERTO
+chile,Araucanía,"Temuco, Araucanía",292518.0,464.0,20.0,71.0,14625.9,4119.971831,6.535211268,BOSQUE
+chile,Araucanía,"Teodoro Schmidt, Araucanía",15639.0,650.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Toltén, Araucanía",10041.0,860.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Traiguén, Araucanía",18873.0,908.0,2.0,7.0,9436.5,2696.142857,129.7142857,SEMIBOSQUE
+chile,Araucanía,"Victoria, Araucanía",34464.0,1256.0,5.0,10.0,6892.8,3446.4,125.6,SEMIBOSQUE
+chile,Araucanía,"Vilcún, Araucanía",31575.0,1421.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Araucanía,"Villarrica, Araucanía",67737.0,1291.0,1.0,5.0,67737.0,13547.4,258.2,SEMIDESIERTO
+chile,Arica y Parinacota,"Arica, Arica y Parinacota",241653.0,4799.0,12.0,30.0,20137.75,8055.1,159.9666667,SEMIBOSQUE
+chile,Arica y Parinacota,"Camarones, Arica y Parinacota",861.0,3927.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Arica y Parinacota,"General Lagos, Arica y Parinacota",508.0,2244.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Arica,"Putre, Arica y Parinacota",1547.0,5903.0,1.0,1.0,1547.0,1547.0,5903.0,SEMIDESIERTO
+chile,Atacama,"Alto del Carmen, Atacama",4788.0,5939.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Atacama,"Caldera, Atacama",18805.0,4667.0,4.0,7.0,4701.25,2686.428571,666.7142857,SEMIDESIERTO
+chile,Atacama,"Chañaral, Atacama",12345.0,16681.0,6.0,8.0,2057.5,1543.125,2085.125,SEMIBOSQUE
+chile,Atacama,"Copiapó, Atacama",168831.0,5772.0,18.0,44.0,9379.5,3837.068182,131.1818182,BOSQUE
+chile,Atacama,"Diego de Almagro, Atacama",11397.0,18664.0,2.0,3.0,5698.5,3799.0,6221.333333,SEMIDESIERTO
+chile,Atacama,"Freirina, Atacama",7577.0,3578.0,2.0,4.0,3788.5,1894.25,894.5,SEMIDESIERTO
+chile,Atacama,"Huasco, Atacama",9369.0,1601.0,3.0,3.0,3123.0,3123.0,533.6666667,SEMIDESIERTO
+chile,Atacama,"Tierra Amarilla, Atacama",11846.0,11191.0,2.0,5.0,5923.0,2369.2,2238.2,SEMIDESIERTO
+chile,Atacama,"Vallenar, Atacama",54222.0,7084.0,6.0,9.0,9037.0,6024.666667,787.1111111,SEMIBOSQUE
+chile,Aysén,"Aysén, Aysén",23170.0,29796.0,4.0,10.0,5792.5,2317.0,2979.6,SEMIBOSQUE
+chile,Aysén,"Chile Chico, Aysén",4905.0,5737.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Aysén,"Cisnes, Aysén",5137.0,16093.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Aysén,"Cochrane, Aysén",3458.0,8599.0,1.0,1.0,3458.0,3458.0,8599.0,SEMIDESIERTO
+chile,Aysén,"Coyhaique, Aysén",57823.0,7290.0,8.0,25.0,7227.875,2312.92,291.6,BOSQUE
+chile,Aysén,"Guaitecas, Aysén",1598.0,620.0,1.0,1.0,1598.0,1598.0,620.0,SEMIDESIERTO
+chile,Aysén,"Lago Verde, Aysén",779.0,5422.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Aysén,"O'Higgins, Aysén",647.0,8182.0,1.0,3.0,647.0,215.6666667,2727.333333,SEMIDESIERTO
+chile,Aysén,"Río Ibáñez, Aysén",2723.0,5997.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Aysén,"Tortel, Aysén",585.0,19710.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Alto Biobío, Biobío",6016.0,2125.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Antuco, Biobío",4373.0,1884.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Arauco, Biobío",37163.0,956.0,3.0,4.0,12387.66667,9290.75,239.0,SEMIDESIERTO
+chile,Biobío,"Cabrero, Biobío",31256.0,640.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Cañete, Biobío",34640.0,760.0,4.0,5.0,8660.0,6928.0,152.0,SEMIBOSQUE
+chile,Biobío,"Chiguayante, Biobío",85822.0,72.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Concepción, Biobío",230275.0,222.0,23.0,174.0,10011.95652,1323.41954,1.275862069,BOSQUE
+chile,Biobío,"Contulmo, Biobío",5905.0,962.0,1.0,1.0,5905.0,5905.0,962.0,SEMIDESIERTO
+chile,Biobío,"Coronel, Biobío",123648.0,279.0,3.0,4.0,41216.0,30912.0,69.75,SEMIBOSQUE
+chile,Biobío,"Curanilahue, Biobío",31119.0,994.0,5.0,9.0,6223.8,3457.666667,110.4444444,SEMIBOSQUE
+chile,Biobío,"Florida, Biobío",12958.0,609.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Hualpén, Biobío",87731.0,54.0,1.0,1.0,87731.0,87731.0,54.0,DESIERTO
+chile,Biobío,"Hualqui, Biobío",25795.0,531.0,1.0,1.0,25795.0,25795.0,531.0,DESIERTO
+chile,Biobío,"Laja, Biobío",23706.0,340.0,3.0,3.0,7902.0,7902.0,113.3333333,SEMIDESIERTO
+chile,Biobío,"Lebu, Biobío",25246.0,561.0,3.0,3.0,8415.333333,8415.333333,187.0,SEMIDESIERTO
+chile,Biobío,"Los Álamos, Biobío",21950.0,599.0,1.0,2.0,21950.0,10975.0,299.5,SEMIDESIERTO
+chile,Biobío,"Los Ángeles, Biobío",219441.0,1748.0,10.0,31.0,21944.1,7078.741935,56.38709677,BOSQUE
+chile,Biobío,"Lota, Biobío",39980.0,136.0,2.0,8.0,19990.0,4997.5,17.0,SEMIBOSQUE
+chile,Biobío,"Mulchén, Biobío",29036.0,1925.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Nacimiento, Biobío",26140.0,935.0,1.0,1.0,26140.0,26140.0,935.0,DESIERTO
+chile,Biobío,"Negrete, Biobío",10723.0,157.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Penco, Biobío",48971.0,108.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Quilaco, Biobío",4440.0,1124.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Quilleco, Biobío",9700.0,1122.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"San Pedro de la Paz, Biobío",150992.0,113.0,2.0,4.0,75496.0,37748.0,28.25,SEMIDESIERTO
+chile,Biobío,"San Rosendo, Biobío",3575.0,92.0,1.0,1.0,3575.0,3575.0,92.0,SEMIBOSQUE
+chile,Biobío,"Santa Bárbara, Biobío",14075.0,1255.0,2.0,2.0,7037.5,7037.5,627.5,SEMIDESIERTO
+chile,Biobío,"Santa Juana, Biobío",14947.0,731.0,1.0,1.0,14947.0,14947.0,731.0,SEMIDESIERTO
+chile,Biobío,"Talcahuano, Biobío",147322.0,92.0,1.0,2.0,147322.0,73661.0,46.0,DESIERTO
+chile,Biobío,"Tirúa, Biobío",10208.0,624.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Biobío,"Tomé, Biobío",56907.0,495.0,2.0,2.0,28453.5,28453.5,247.5,SEMIDESIERTO
+chile,Biobío,"Tucapel, Biobío",15729.0,915.0,2.0,5.0,7864.5,3145.8,183.0,SEMIDESIERTO
+chile,Biobío,"Yumbel, Biobío",23170.0,727.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Coquimbo,"Andacollo, Coquimbo",11566.0,310.0,2.0,9.0,5783.0,1285.111111,34.44444444,SEMIDESIERTO
+chile,Coquimbo,"Canela, Coquimbo",9639.0,2197.0,1.0,1.0,9639.0,9639.0,2197.0,SEMIDESIERTO
+chile,Coquimbo,"Combarbalá, Coquimbo",12954.0,1896.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Coquimbo,"Coquimbo, Coquimbo",263719.0,1429.0,5.0,28.0,52743.8,9418.535714,51.03571429,BOSQUE
+chile,Coquimbo,"Illapel, Coquimbo",32009.0,2629.0,3.0,5.0,10669.66667,6401.8,525.8,SEMIDESIERTO
+chile,Coquimbo,"La Higuera, Coquimbo",4335.0,4158.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Coquimbo,"La Serena, Coquimbo",250141.0,1893.0,19.0,74.0,13165.31579,3380.283784,25.58108108,BOSQUE
+chile,Coquimbo,"Los Vilos, Coquimbo",22879.0,1861.0,5.0,9.0,4575.8,2542.111111,206.7777778,BOSQUE
+chile,Coquimbo,"Monte Patria, Coquimbo",29997.0,4366.0,1.0,1.0,29997.0,29997.0,4366.0,DESIERTO
+chile,Coquimbo,"Ovalle, Coquimbo",118696.0,3835.0,5.0,12.0,23739.2,9891.333333,319.5833333,SEMIBOSQUE
+chile,Coquimbo,"Paihuano, Coquimbo",4649.0,1495.0,1.0,1.0,4649.0,4649.0,1495.0,DESIERTO
+chile,Coquimbo,"Punitaqui, Coquimbo",12076.0,1339.0,2.0,2.0,6038.0,6038.0,669.5,SEMIDESIERTO
+chile,Coquimbo,"Río Hurtado, Coquimbo",4334.0,2117.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Coquimbo,"Salamanca, Coquimbo",27823.0,3445.0,6.0,6.0,4637.166667,4637.166667,574.1666667,SEMIBOSQUE
+chile,Coquimbo,"Vicuña, Coquimbo",28047.0,7610.0,3.0,18.0,9349.0,1558.166667,422.7777778,SEMIDESIERTO
+chile,Los Lagos,"Ancud, Los Lagos",40949.0,1752.0,6.0,14.0,6824.833333,2924.928571,125.1428571,SEMIBOSQUE
+chile,Los Lagos,"Calbuco, Los Lagos",36474.0,491.0,2.0,2.0,18237.0,18237.0,245.5,SEMIDESIERTO
+chile,Los Lagos,"Castro, Los Lagos",46997.0,473.0,10.0,25.0,4699.7,1879.88,18.92,BOSQUE
+chile,Los Lagos,"Chaitén, Los Lagos",4025.0,8471.0,3.0,4.0,1341.666667,1006.25,2117.75,SEMIBOSQUE
+chile,Los Lagos,"Chonchi, Los Lagos",16078.0,1362.0,1.0,1.0,16078.0,16078.0,1362.0,DESIERTO
+chile,Los Lagos,"Cochamó, Los Lagos",4199.0,3911.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Curaco de Vélez, Los Lagos",3662.0,80.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Dalcahue, Los Lagos",14894.0,1239.0,1.0,2.0,14894.0,7447.0,619.5,SEMIDESIERTO
+chile,Los Lagos,"Fresia, Los Lagos",12320.0,1278.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Frutillar, Los Lagos",22554.0,831.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Futaleufú, Los Lagos",3062.0,1280.0,4.0,4.0,765.5,765.5,320.0,SEMIBOSQUE
+chile,Los Lagos,"Hualaihué, Los Lagos",9480.0,2788.0,1.0,2.0,9480.0,4740.0,1394.0,SEMIDESIERTO
+chile,Los Lagos,"Llanquihue, Los Lagos",18088.0,421.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Los Muermos, Los Lagos",17162.0,1246.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Maullín, Los Lagos",15063.0,861.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Osorno, Los Lagos",166455.0,951.0,8.0,28.0,20806.875,5944.821429,33.96428571,BOSQUE
+chile,Los Lagos,"Palena, Los Lagos",1903.0,2764.0,1.0,1.0,1903.0,1903.0,2764.0,SEMIDESIERTO
+chile,Los Lagos,"Puerto Montt, Los Lagos",277040.0,1673.0,10.0,34.0,27704.0,8148.235294,49.20588235,BOSQUE
+chile,Los Lagos,"Puerto Octay, Los Lagos",8865.0,1796.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Puerto Varas, Los Lagos",52942.0,4065.0,3.0,5.0,17647.33333,10588.4,813.0,SEMIBOSQUE
+chile,Los Lagos,"Puqueldón, Los Lagos",4048.0,97.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Purranque, Los Lagos",19542.0,1459.0,1.0,2.0,19542.0,9771.0,729.5,SEMIDESIERTO
+chile,Los Lagos,"Puyehue, Los Lagos",11712.0,1598.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Queilén, Los Lagos",5690.0,333.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"Quemchi, Los Lagos",28460.0,3244.0,1.0,2.0,28460.0,14230.0,1622.0,SEMIDESIERTO
+chile,Los Lagos,"Quellón, Los Lagos",8409.0,440.0,3.0,12.0,2803.0,700.75,36.66666667,SEMIBOSQUE
+chile,Los Lagos,"Quinchao, Los Lagos",7678.0,161.0,3.0,5.0,2559.333333,1535.6,32.2,SEMIDESIERTO
+chile,Los Lagos,"Río Negro, Los Lagos",13874.0,1266.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Lagos,"San Juan de la Costa, Los Lagos",7776.0,1557.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Region de Los Lagos,"San Pablo, Los Lagos",10883.0,637.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Ríos,"Corral, Los Ríos",5501.0,767.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Los Ríos,"Futrono, Los Ríos",15635.0,2121.0,2.0,2.0,7817.5,7817.5,1060.5,SEMIDESIERTO
+chile,Los Ríos,"La Unión, Los Ríos",38907.0,2137.0,6.0,12.0,6484.5,3242.25,178.0833333,SEMIBOSQUE
+chile,Los Ríos,"Lago Ranco, Los Ríos",10527.0,1763.0,2.0,4.0,5263.5,2631.75,440.75,DESIERTO
+chile,Los Ríos,"Lanco, Los Ríos",16876.0,532.0,8.0,11.0,2109.5,1534.181818,48.36363636,SEMIBOSQUE
+chile,Los Ríos,"Los Lagos, Los Ríos",21431.0,1791.0,2.0,3.0,10715.5,7143.666667,597.0,SEMIBOSQUE
+chile,Los Ríos,"Máfil, Los Ríos",8074.0,583.0,1.0,1.0,8074.0,8074.0,583.0,DESIERTO
+chile,Los Ríos,"Mariquina, Los Ríos",22973.0,1321.0,3.0,4.0,7657.666667,5743.25,330.25,SEMIBOSQUE
+chile,Los Ríos,"Paillaco, Los Ríos",19802.0,896.0,6.0,6.0,3300.333333,3300.333333,149.3333333,SEMIBOSQUE
+chile,Los Ríos,"Panguipulli, Los Ríos",35098.0,3292.0,9.0,14.0,3899.777778,2507.0,235.1428571,BOSQUE
+chile,Los Ríos,"Río Bueno, Los Ríos",33363.0,2212.0,8.0,13.0,4170.375,2566.384615,170.1538462,BOSQUE
+chile,Los Ríos,"Valdivia, Los Ríos",170043.0,1016.0,23.0,51.0,7393.173913,3334.176471,19.92156863,BOSQUE
+chile,Magallanes,"Cabo de Hornos, Magallanes",1750.0,21551.0,1.0,1.0,1750.0,1750.0,21551.0,Desierto
+chile,Magallanes,"Laguna Blanca, Magallanes",269.0,3696.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Magallanes,"Natales, Magallanes",24152.0,49924.0,4.0,9.0,6038.0,2683.555556,5547.111111,Semibosque
+chile,Magallanes,"Porvenir, Magallanes",6809.0,9707.0,1.0,2.0,6809.0,3404.5,4853.5,Semidesierto
+chile,Magallanes,"Primavera, Magallanes",431.0,6530.0,1.0,1.0,431.0,431.0,6530.0,Semidesierto
+chile,Magallanes,"Punta Arenas, Magallanes",132363.0,17846.0,19.0,64.0,6966.473684,2068.171875,278.84375,Bosque
+chile,Magallanes,"Río Verde, Magallanes",102.0,17248.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Magallanes,"San Gregorio, Magallanes",241.0,6884.0,1.0,1.0,241.0,241.0,6884.0,Semidesierto
+chile,Magallanes,"Timaukel, Magallanes",157.0,10759.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Magallanes,"Torres del Paine, Magallanes",203.0,6630.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Maule,"Cauquenes, Maule",42798.0,2126.0,4.0,7.0,10699.5,6114.0,303.7142857,SEMIBOSQUE
+chile,Maule,"Chanco, Maule",9446.0,530.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Colbún, Maule",22637.0,2900.0,1.0,1.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Constitución, Maule",47004.0,1344.0,6.0,11.0,7834.0,4273.090909,122.1818182,SEMIBOSQUE
+chile,Maule,"Curepto, Maule",9519.0,1074.0,1.0,4.0,9519.0,2379.75,268.5,SEMIDESIERTO
+chile,Maule,"Curicó, Maule",159968.0,1328.0,13.0,60.0,12305.23077,2666.133333,22.13333333,BOSQUE
+chile,Maule,"Empedrado, Maule",3990.0,565.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Hualañé, Maule",10775.0,629.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Licantén, Maule",6892.0,273.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Linares, Maule",96744.0,1466.0,8.0,12.0,12093.0,8062.0,122.1666667,SEMIBOSQUE
+chile,Maule,"Longaví, Maule",33299.0,1454.0,1.0,1.0,33299.0,33299.0,1454.0,SEMIDESIERTO
+chile,Maule,"Maule, Maule",61081.0,238.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Molina, Maule",48949.0,1552.0,1.0,1.0,48949.0,48949.0,1552.0,DESIERTO
+chile,Maule,"Pelarco, Maule",45323.0,1638.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Pelluhue, Maule",9229.0,332.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Pencahue, Maule",8578.0,371.0,1.0,6.0,8578.0,1429.666667,61.83333333,SEMIDESIERTO
+chile,Maule,"Parral, Maule",9181.0,957.0,1.0,1.0,9181.0,9181.0,957.0,DESIERTO
+chile,Maule,"Rauco, Maule",11266.0,309.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Retiro, Maule",22310.0,827.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Río Claro, Maule",14276.0,431.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Romeral, Maule",17233.0,1597.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Sagrada Familia, Maule",19427.0,549.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"San Clemente, Maule",47380.0,4504.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"San Javier, Maule",49559.0,1313.0,3.0,5.0,16519.66667,9911.8,262.6,SEMIBOSQUE
+chile,Maule,"San Rafael, Maule",11230.0,264.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Talca, Maule",232131.0,232.0,11.0,35.0,21102.81818,6632.314286,6.628571429,BOSQUE
+chile,Maule,"Teno, Maule",30113.0,618.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Vichuquén, Maule",4716.0,426.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Villa Alegre, Maule",17919.0,190.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Maule,"Yerbas Buenas, Maule",20035.0,262.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Ñuble,"Bulnes, Ñuble",23863.0,425.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Chillán, Ñuble",190382.0,511.0,12.0,42.0,15865.16667,4532.904762,12.16666667,Bosque
+chile,Ñuble,"Chillán Viejo, Ñuble",32688.0,292.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Cobquecura, Ñuble",5495.0,570.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Coelemu, Ñuble",15895.0,342.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Coihueco, Ñuble",29766.0,1777.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"El Carmen, Ñuble",13186.0,664.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Ninhue, Ñuble",5763.0,401.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Ñiquén, Ñuble",12797.0,493.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Pemuco, Ñuble",8930.0,563.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Pinto, Ñuble",12502.0,1164.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Portezuelo, Ñuble",5203.0,282.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Quillón, Ñuble",19165.0,423.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Quirihue, Ñuble",11746.0,589.0,1.0,2.0,11746.0,5873.0,294.5,Semidesierto
+chile,Ñuble,"Ránquil, Ñuble",6508.0,248.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"San Carlos, Ñuble",55847.0,874.0,1.0,5.0,55847.0,11169.4,174.8,Semidesierto
+chile,Ñuble,"San Fabián, Ñuble",5245.0,1568.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"San Ignacio, Ñuble",17405.0,364.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"San Nicolás, Ñuble",15099.0,491.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Trehuaco, Ñuble",6124.0,313.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,Ñuble,"Yungay, Ñuble",18680.0,824.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Chépica, O'Higgins",15668.0,503.0,1.0,1.0,15668.0,15668.0,503.0,Semidesierto
+chile,O'Higgins,"Chimbarongo, O'Higgins",37258.0,498.0,1.0,2.0,37258.0,18629.0,249.0,Desierto
+chile,O'Higgins,"Codegua, O'Higgins",13955.0,287.0,3.0,6.0,4651.666667,2325.833333,47.83333333,Semibosque
+chile,O'Higgins,"Coinco, O'Higgins",7916.0,98.0,1.0,1.0,7916.0,7916.0,98.0,Desierto
+chile,O'Higgins,"Coltauco, O'Higgins",21373.0,225.0,1.0,3.0,21373.0,7124.333333,75.0,Semidesierto
+chile,O'Higgins,"Doñihue, O'Higgins",21925.0,78.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Graneros, O'Higgins",35938.0,113.0,2.0,5.0,17969.0,7187.6,22.6,Semibosque
+chile,O'Higgins,"La Estrella, O'Higgins",4609.0,435.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Las Cabras, O'Higgins",27554.0,749.0,2.0,4.0,13777.0,6888.5,187.25,Semidesierto
+chile,O'Higgins,"Litueche, O'Higgins",8852.0,619.0,4.0,11.0,2213.0,804.7272727,56.27272727,Semibosque
+chile,O'Higgins,"Lolol, O'Higgins",7791.0,597.0,1.0,1.0,7791.0,7791.0,597.0,Desierto
+chile,O'Higgins,"Machalí, O'Higgins",60875.0,2586.0,5.0,12.0,12175.0,5072.916667,215.5,Bosque
+chile,O'Higgins,"Malloa, O'Higgins",13882.0,113.0,1.0,2.0,13882.0,6941.0,56.5,Desierto
+chile,O'Higgins,"Marchigüe, O'Higgins",8715.0,660.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Mostazal, O'Higgins",27394.0,524.0,1.0,1.0,27394.0,27394.0,524.0,Desierto
+chile,O'Higgins,"Nancagua, O'Higgins",18723.0,111.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Navidad, O'Higgins",8885.0,300.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Olivar, O'Higgins",13901.0,45.0,1.0,2.0,13901.0,6950.5,22.5,Semidesierto
+chile,O'Higgins,"Palmilla, O'Higgins",13060.0,237.0,1.0,3.0,13060.0,4353.333333,79.0,Semidesierto
+chile,O'Higgins,"Paredones, O'Higgins",7228.0,562.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Peralillo, O'Higgins",12493.0,283.0,1.0,1.0,12493.0,12493.0,283.0,Semidesierto
+chile,O'Higgins,"Peumo, O'Higgins",14243.0,153.0,2.0,7.0,7121.5,2034.714286,21.85714286,Semidesierto
+chile,O'Higgins,"Pichidegua, O'Higgins",20363.0,320.0,1.0,1.0,20363.0,20363.0,320.0,Semidesierto
+chile,O'Higgins,"Pichilemu, O'Higgins",19847.0,749.0,6.0,10.0,3307.833333,1984.7,74.9,Bosque
+chile,O'Higgins,"Placilla, O'Higgins",9438.0,147.0,2.0,3.0,4719.0,3146.0,49.0,Semidesierto
+chile,O'Higgins,"Pumanque, O'Higgins",4559.0,441.0,1.0,2.0,4559.0,2279.5,220.5,Semidesierto
+chile,O'Higgins,"Quinta de Tilcoco, O'Higgins",13558.0,93.0,0.0,0.0,0.0,0.0,0.0,Desierto
+chile,O'Higgins,"Rancagua, O'Higgins",257744.0,260.0,24.0,68.0,10739.33333,3790.352941,3.823529412,Bosque
+chile,O'Higgins,"Rengo, O'Higgins",63620.0,592.0,7.0,14.0,9088.571429,4544.285714,42.28571429,Bosque
+chile,O'Higgins,"Requínoa, O'Higgins",29508.0,673.0,1.0,4.0,29508.0,7377.0,168.25,Desierto
+chile,O'Higgins,"San Fernando, O'Higgins",75585.0,2441.0,6.0,22.0,12597.5,3435.681818,110.9545455,Bosque
+chile,O'Higgins,"San Vicente de Tagua Tagua, O'Higgins",49559.0,476.0,5.0,11.0,9911.8,4505.363636,43.27272727,Bosque
+chile,O'Higgins,"Santa Cruz, O'Higgins",41209.0,420.0,8.0,15.0,5151.125,2747.266667,28.0,Bosque
+chile,Región Metropolitana,"Alhué, Región Metropolitana",7768.0,845.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Región Metropolitana,"Buin, Región Metropolitana",116969.0,214.0,1.0,3.0,116969.0,38989.66667,71.33333333,DESIERTO
+chile,Región Metropolitana,"Calera de Tango, Región Metropolitana",25491.0,73.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Región Metropolitana,"Colina, Región Metropolitana",173293.0,971.0,4.0,11.0,43323.25,15753.90909,88.27272727,SEMIBOSQUE
+chile,Región Metropolitana,"Curacaví, Región Metropolitana",35165.0,693.0,3.0,17.0,11721.66667,2068.529412,40.76470588,BOSQUE
+chile,Región Metropolitana,"El Monte, Región Metropolitana",37497.0,118.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Región Metropolitana,"Isla de Maipo, Región Metropolitana",39274.0,189.0,2.0,6.0,19637.0,6545.666667,31.5,SEMIDESIERTO
+chile,Región Metropolitana,"Lampa, Región Metropolitana",145160.0,452.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Región Metropolitana,"Maipú, Región Metropolitana",503635.0,133.0,4.0,23.0,125908.75,21897.17391,5.782608696,SEMIBOSQUE
+chile,Región Metropolitana,"María Pinto, Región Metropolitana",15352.0,395.0,1.0,1.0,15352.0,15352.0,395.0,SEMIDESIERTO
+chile,Región Metropolitana,"Melipilla, Región Metropolitana",136325.0,1345.0,3.0,11.0,45441.66667,12393.18182,122.2727273,SEMIBOSQUE
+chile,Región Metropolitana,"Paine, Región Metropolitana",78828.0,678.0,4.0,9.0,19707.0,8758.666667,75.33333333,SEMIDESIERTO
+chile,Región Metropolitana,"Padre Hurtado, Región Metropolitana",81243.0,81.0,1.0,1.0,81243.0,81243.0,81.0,DESIERTO
+chile,Región Metropolitana,"Peñaflor, Región Metropolitana",94402.0,69.0,1.0,1.0,94402.0,94402.0,69.0,DESIERTO
+chile,Región Metropolitana,"Pirque, Región Metropolitana",29060.0,445.0,2.0,4.0,14530.0,7265.0,111.25,SEMIDESIERTO
+chile,Región Metropolitana,"Puente Alto, Región Metropolitana",568086.0,88.0,6.0,18.0,94681.0,31560.33333,4.888888889,BOSQUE
+chile,Región Metropolitana,"San Bernardo, Región Metropolitana",306371.0,155.0,1.0,1.0,306371.0,306371.0,155.0,DESIERTO
+chile,Región Metropolitana,"San José de Maipo, Región Metropolitana",17441.0,4995.0,3.0,9.0,5813.666667,1937.888889,555.0,SEMIBOSQUE
+chile,Región Metropolitana,"San Pedro, Región Metropolitana",11108.0,788.0,1.0,2.0,11108.0,5554.0,394.0,SEMIDESIERTO
+chile,Región Metropolitana,"Talagante, Región Metropolitana",76429.0,126.0,2.0,6.0,38214.5,12738.16667,21.0,SEMIBOSQUE
+chile,Metropolitana,"Til Til, Región Metropolitana",19742.0,653.0,1.0,1.0,19742.0,19742.0,653.0,SEMIDESIERTO
+chile,Tarapacá,"Alto Hospicio, Tarapacá",142086.0,573.0,7.0,13.0,20298.0,10929.69231,44.07692308,SEMIDESIERTO
+chile,Tarapacá,"Camiña, Tarapacá",1335.0,2200.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Tarapacá,"Colchane, Tarapacá",790.0,4016.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Tarapacá,"Huara, Tarapacá",2858.0,10475.0,1.0,1.0,2858.0,2858.0,10475.0,SEMIDESIERTO
+chile,Tarapacá,"Iquique, Tarapacá",199587.0,2262.0,31.0,139.0,6438.290323,1435.877698,16.27338129,BOSQUE
+chile,Tarapacá,"Pica, Tarapacá",6272.0,8934.0,3.0,8.0,2090.666667,784.0,1116.75,SEMIDESIERTO
+chile,Tarapacá,"Pozo Almonte, Tarapacá",16878.0,13766.0,6.0,22.0,2813.0,767.1818182,625.7272727,SEMIBOSQUE
+chile,Valparaíso,"Algarrobo, Valparaíso",16076.0,176.0,1.0,3.0,16076.0,5358.666667,58.66666667,SEMIDESIERTO
+chile,Valparaíso,"Cabildo, Valparaíso",20015.0,1455.0,2.0,4.0,10007.5,5003.75,363.75,SEMIDESIERTO
+chile,Valparaíso,"La Calera, Valparaíso",50631.0,61.0,4.0,10.0,12657.75,5063.1,6.1,SEMIBOSQUE
+chile,Valparaíso,"Calle Larga, Valparaíso",16597.0,322.0,1.0,1.0,16597.0,16597.0,322.0,DESIERTO
+chile,Valparaíso,"Cartagena, Valparaíso",24599.0,246.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Valparaíso,"Casablanca, Valparaíso",29876.0,953.0,3.0,8.0,9958.666667,3734.5,119.125,SEMIDESIERTO
+chile,Valparaíso,"Catemu, Valparaíso",13760.0,362.0,1.0,2.0,13760.0,6880.0,181.0,DESIERTO
+chile,Valparaíso,"Concón, Valparaíso",48294.0,76.0,3.0,4.0,16098.0,12073.5,19.0,SEMIDESIERTO
+chile,Valparaíso,"El Quisco, Valparaíso",18971.0,51.0,3.0,6.0,6323.666667,3161.833333,8.5,SEMIBOSQUE
+chile,Valparaíso,"El Tabo, Valparaíso",16260.0,99.0,2.0,2.0,8130.0,8130.0,49.5,SEMIDESIERTO
+chile,Valparaíso,"Hijuelas, Valparaíso",19286.0,267.0,1.0,5.0,19286.0,3857.2,53.4,DESIERTO
+chile,Valparaíso,"Isla de Pascua, Valparaíso",4800.0,164.0,2.0,3.0,2400.0,1600.0,54.66666667,SEMIBOSQUE
+chile,Valparaíso,"Juan Fernández, Valparaíso",904.0,148.0,1.0,1.0,904.0,904.0,148.0,DESIERTO
+chile,Valparaíso,"La Cruz, Valparaíso",24939.0,78.0,1.0,2.0,24939.0,12469.5,39.0,SEMIDESIERTO
+chile,Valparaíso,"La Ligua, Valparaíso",39270.0,1163.0,4.0,7.0,9817.5,5610.0,166.1428571,SEMIBOSQUE
+chile,Valparaíso,"Limache, Valparaíso",56145.0,294.0,5.0,19.0,11229.0,2955.0,15.47368421,SEMIBOSQUE
+chile,Valparaíso,"Llay Llay, Valparaíso",25484.0,349.0,2.0,2.0,12742.0,12742.0,174.5,SEMIDESIERTO
+chile,Valparaíso,"Los Andes, Valparaíso",63440.0,1248.0,6.0,14.0,10573.33333,4531.428571,89.14285714,SEMIBOSQUE
+chile,Valparaíso,"Nogales, Valparaíso",22136.0,405.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Valparaíso,"Olmué, Valparaíso",19778.0,232.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Valparaíso,"Panquehue, Valparaíso",7269.0,122.0,1.0,1.0,7269.0,7269.0,122.0,DESIERTO
+chile,Valparaíso,"Papudo, Valparaíso",7561.0,166.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Valparaíso,"Petorca, Valparaíso",10206.0,1517.0,2.0,5.0,5103.0,2041.2,303.4,SEMIDESIERTO
+chile,Valparaíso,"Puchuncaví, Valparaíso",22539.0,300.0,2.0,4.0,11269.5,5634.75,75.0,SEMIDESIERTO
+chile,Valparaíso,"Putaendo, Valparaíso",17336.0,1474.0,3.0,3.0,5778.666667,5778.666667,491.3333333,SEMIBOSQUE
+chile,Valparaíso,"Quillota, Valparaíso",96753.0,302.0,7.0,26.0,13821.85714,3721.269231,11.61538462,BOSQUE
+chile,Valparaíso,"Quilpué, Valparaíso",162559.0,537.0,7.0,9.0,23222.71429,18062.11111,59.66666667,SEMIDESIERTO
+chile,Valparaíso,"Quintero, Valparaíso",35754.0,148.0,3.0,11.0,11918.0,3250.363636,13.45454545,SEMIDESIERTO
+chile,Valparaíso,"Rinconada, Valparaíso",11855.0,123.0,1.0,1.0,11855.0,11855.0,123.0,DESIERTO
+chile,Valparaíso,"San Antonio, Valparaíso",96770.0,405.0,11.0,36.0,8797.272727,2688.055556,11.25,BOSQUE
+chile,Valparaíso,"San Esteban, Valparaíso",20112.0,1362.0,1.0,1.0,20112.0,20112.0,1362.0,SEMIDESIERTO
+chile,Valparaíso,"San Felipe, Valparaíso",80413.0,186.0,5.0,14.0,16082.6,5743.785714,13.28571429,SEMIBOSQUE
+chile,Valparaíso,"Santa María, Valparaíso",15134.0,166.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Valparaíso,"Santo Domingo, Valparaíso",13171.0,536.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+chile,Valparaíso,"Valparaíso, Valparaíso",284938.0,402.0,22.0,90.0,12951.72727,3165.977778,4.466666667,BOSQUE
+chile,Valparaíso,"Villa Alemana, Valparaíso",139571.0,97.0,3.0,9.0,46523.66667,15507.88889,10.77777778,SEMIDESIERTO
+chile,Valparaíso,"Viña del Mar, Valparaíso",334871.0,122.0,11.0,39.0,30442.81818,8586.435897,3.128205128,BOSQUE
+chile,Valparaíso,"Zapallar, Valparaíso",7980.0,288.0,1.0,1.0,7980.0,7980.0,288.0,DESIERTO
+peru,Amazonas,"Bagua, Amazonas",85835.0,5652.72,3.0,21.0,28611.66667,4087.380952,269.1771429,SEMIDESIERTO
+peru,Amazonas,"Bongará, Amazonas",26449.0,2869.65,1.0,2.0,26449.0,13224.5,1434.825,DESIERTO
+peru,Amazonas,"Chachapoyas, Amazonas",64058.0,3312.37,10.0,42.0,6405.8,1525.190476,78.86595238,BOSQUE
+peru,Amazonas,"Condorcanqui, Amazonas",52082.0,17975.39,1.0,3.0,52082.0,17360.66667,5991.796667,DESIERTO
+peru,Amazonas,"Luya, Amazonas",47081.0,3236.68,2.0,5.0,23540.5,9416.2,647.336,DESIERTO
+peru,Amazonas,"Rodríguez de Mendoza, Amazonas",34099.0,2359.39,1.0,1.0,34099.0,34099.0,2359.39,DESIERTO
+peru,Amazonas,"Utcubamba, Amazonas",119879.0,3842.93,3.0,14.0,39959.66667,8562.785714,274.495,DESIERTO
+peru,Áncash,"Asunción, Áncash",7457.0,528.66,1.0,5.0,7457.0,1491.4,105.732,DESIERTO
+peru,Áncash,"Bolognesi, Áncash",22902.0,3154.8,2.0,21.0,11451.0,1090.571429,150.2285714,SEMIDESIERTO
+peru,Áncash,"Carhuaz, Áncash",50669.0,803.95,1.0,1.0,50669.0,50669.0,803.95,DESIERTO
+peru,Áncash,"Carlos Fermín Fitzcarrald, Áncash",17925.0,624.25,2.0,3.0,8962.5,5975.0,208.0833333,SEMIDESIERTO
+peru,Áncash,"Casma, Áncash",59605.0,2261.03,2.0,8.0,29802.5,7450.625,282.62875,SEMIDESIERTO
+peru,Áncash,"Huaraz, Áncash",190612.0,2492.91,3.0,20.0,63537.33333,9530.6,124.6455,DESIERTO
+peru,Áncash,"Huarmey, Áncash",33718.0,3908.42,3.0,8.0,11239.33333,4214.75,488.5525,SEMIBOSQUE
+peru,Áncash,"Huaylas-Caraz, Áncash",56853.0,2292.78,1.0,2.0,56853.0,28426.5,1146.39,DESIERTO
+peru,Áncash,"Pallasca, Áncash",23461.0,2101.21,1.0,4.0,23461.0,5865.25,525.3025,DESIERTO
+peru,Áncash,"Pomabamba, Áncash",26269.0,914.05,3.0,21.0,8756.333333,1250.904762,43.52619048,SEMIBOSQUE
+peru,Áncash,"Recuay, Áncash",17787.0,2304.19,1.0,3.0,17787.0,5929.0,768.0633333,SEMIDESIERTO
+peru,Áncash,"Santa, Áncash",483774.0,4008.61,20.0,74.0,24188.7,6537.486486,54.17040541,BOSQUE
+peru,Áncash,"Sihuas, Áncash, Áncash",28091.0,1455.97,1.0,4.0,28091.0,7022.75,363.9925,SEMIDESIERTO
+peru,Áncash,"Aija, Áncash",6170.0,696.72,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Áncash,"Antonio Raimondi, Áncash",13404.0,561.61,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Áncash,"Corongo, Áncash",7906.0,988.01,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Áncash,"Huari, Áncash",63382.0,2771.9,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Áncash,"Mariscal Luzuriaga, Áncash",21386.0,730.58,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Áncash,"Ocros, Áncash",6897.0,1945.07,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Áncash,"Yungay, Áncash",55888.0,1361.48,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Apurímac,"Abancay, Apurímac",121501.0,3447.13,6.0,13.0,20250.16667,9346.230769,265.1638462,SEMIBOSQUE
+peru,Apurímac,"Andahuaylas, Apurímac",151731.0,3987.0,9.0,49.0,16859.0,3096.55102,81.36734694,SEMIBOSQUE
+peru,Apurímac,"Antabamba, Apurímac",11429.0,3219.01,1.0,6.0,11429.0,1904.833333,536.5016667,SEMIDESIERTO
+peru,Apurímac,"Aymaraes, Apurímac",23276.0,4213.07,1.0,1.0,23276.0,23276.0,4213.07,DESIERTO
+peru,Apurímac,"Cotabambas, Apurímac",55526.0,2612.73,3.0,6.0,18508.66667,9254.333333,435.455,SEMIDESIERTO
+peru,Apurímac,"Chincheros, Apurímac",45494.0,1242.33,2.0,7.0,22747.0,6499.142857,177.4757143,SEMIDESIERTO
+peru,Apurímac,"Grau, Apurímac",20763.0,2174.52,2.0,6.0,10381.5,3460.5,362.42,SEMIDESIERTO
+peru,Arequipa,"Arequipa, Arequipa",1226404.0,9682.02,26.0,194.0,47169.38462,6321.670103,49.90731959,SEMIBOSQUE
+peru,Arequipa,"Camaná, Arequipa",63098.0,3997.73,6.0,19.0,10516.33333,3320.947368,210.4068421,SEMIBOSQUE
+peru,Arequipa,"Caraveli, Arequipa",44803.0,13139.45,2.0,7.0,22401.5,6400.428571,1877.064286,SEMIBOSQUE
+peru,Arequipa,"Castilla, Arequipa",34389.0,6914.48,3.0,7.0,11463.0,4912.714286,987.7828571,SEMIBOSQUE
+peru,Arequipa,"Caylloma, Arequipa",101277.0,14019.46,9.0,27.0,11253.0,3751.0,519.2392593,SEMIBOSQUE
+peru,Arequipa,"Condesuyos, Arequipa",16167.0,6958.4,5.0,12.0,3233.4,1347.25,579.8666667,SEMIBOSQUE
+peru,Arequipa,"Islay, Arequipa",55360.0,3886.03,4.0,16.0,13840.0,3460.0,242.876875,SEMIBOSQUE
+peru,Arequipa,"La Unión, Arequipa",12496.0,4746.4,2.0,7.0,6248.0,1785.142857,678.0571429,SEMIBOSQUE
+peru,Ayacucho,"Cangallo, Ayacucho",31822.0,1916.17,4.0,11.0,7955.5,2892.909091,174.1972727,SEMIBOSQUE
+peru,Ayacucho,"Huanca Sancos, Ayacucho",8113.0,2862.33,1.0,1.0,8113.0,8113.0,2862.33,SEMIDESIERTO
+peru,Ayacucho,"Huanta, Ayacucho",98088.0,3886.03,5.0,13.0,19617.6,7545.230769,298.9253846,SEMIBOSQUE
+peru,Ayacucho,"Huamanga, Ayacucho",324901.0,3061.83,24.0,83.0,13537.54167,3914.46988,36.88951807,BOSQUE
+peru,Ayacucho,"La Mar, Ayacucho",73649.0,4304.57,3.0,4.0,24549.66667,18412.25,1076.1425,SEMIDESIERTO
+peru,Ayacucho,"Lucanas, Ayacucho",50431.0,14494.64,2.0,3.0,25215.5,16810.33333,4831.546667,SEMIDESIERTO
+peru,Ayacucho,"Parinacochas, Ayacucho",29015.0,5968.32,3.0,9.0,9671.666667,3223.888889,663.1466667,SEMIBOSQUE
+peru,Ayacucho,"Paucar del Sara Sara, Ayacucho",9694.0,2096.92,3.0,7.0,3231.333333,1384.857143,299.56,BOSQUE
+peru,Ayacucho,"Sucre, Ayacucho",9013.0,1785.64,2.0,5.0,4506.5,1802.6,357.128,SEMIDESIERTO
+peru,Ayacucho,"Víctor Fajardo, Ayacucho",19318.0,2260.19,2.0,3.0,9659.0,6439.333333,753.3966667,SEMIBOSQUE
+peru,Ayacucho,"Vilcas Huaman, Ayacucho",16535.0,1178.16,1.0,1.0,16535.0,16535.0,1178.16,SEMIDESIERTO
+peru,Cajamarca,"Cajabamba, Cajamarca",83747.0,1807.64,1.0,6.0,83747.0,13957.83333,301.2733333,DESIERTO
+peru,Cajamarca,"Cajamarca, Cajamarca",392571.0,2979.78,19.0,77.0,20661.63158,5098.324675,38.69844156,BOSQUE
+peru,Cajamarca,"Celendín, Cajamarca",82965.0,2641.59,9.0,31.0,9218.333333,2676.290323,85.21258065,SEMIBOSQUE
+peru,Cajamarca,"Chota, Cajamarca",150552.0,3795.1,6.0,18.0,25092.0,8364.0,210.8388889,SEMIDESIERTO
+peru,Cajamarca,"Cutervo, Cajamarca",122594.0,3028.46,8.0,13.0,15324.25,9430.307692,232.9584615,SEMIBOSQUE
+peru,Cajamarca,"Hualgayoc, Cajamarca",82766.0,777.15,1.0,1.0,82766.0,82766.0,777.15,DESIERTO
+peru,Cajamarca,"Jaén, Cajamarca",205445.0,5232.57,10.0,38.0,20544.5,5406.447368,137.6992105,SEMIBOSQUE
+peru,Cajamarca,"San Ignacio, Cajamarca",146978.0,4990.3,3.0,6.0,48992.66667,24496.33333,831.7166667,DESIERTO
+peru,Cajamarca,"San Marcos, Cajamarca",52012.0,1362.32,1.0,9.0,52012.0,5779.111111,151.3688889,DESIERTO
+peru,Cajamarca,"San Miguel, Cajamarca",45681.0,2542.08,1.0,4.0,45681.0,11420.25,635.52,DESIERTO
+peru,Cajamarca,"San Pablo, Cajamarca",22225.0,672.29,1.0,1.0,22225.0,22225.0,672.29,DESIERTO
+peru,Cajamarca,"Santa Cruz, Cajamarca",37717.0,1417.93,2.0,3.0,11112.5,7408.333333,224.0966667,DESIERTO
+peru,Cajamarca,"Contumazá, Cajamarca",28964.0,2070.33,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Callao,"Bellavista, Callao",81428.0,4.57,1.0,3.0,81428.0,27142.66667,1.523333333,DESIERTO
+peru,Callao,"Callao, Callao",528405.0,45.65,11.0,64.0,48036.81818,8256.328125,0.71328125,BOSQUE
+peru,Callao,"Carmen de la Legua Reynoso, Callao",47071.0,2.12,1.0,1.0,47071.0,47071.0,2.12,DESIERTO
+peru,Callao,"La Perla, Callao",64612.0,2.7,2.0,8.0,32306.0,8076.5,0.3375,SEMIDESIERTO
+peru,Callao,"Ventanilla, Callao",391564.0,73.52,7.0,31.0,55937.71429,12631.09677,2.371612903,SEMIBOSQUE
+peru,Callao,"Mi Perú, Callao",54905.0,2.47,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Callao,"La Punta, Callao",3862.0,0.7,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Cusco,"Acomayo, Cusco",23732.0,948.22,2.0,8.0,11866.0,2966.5,118.5275,SEMIBOSQUE
+peru,Cusco,"Anta, Cusco",64097.0,1876.12,3.0,12.0,21365.66667,5341.416667,156.3433333,SEMIBOSQUE
+peru,Cusco,"Calca, Cusco",72114.0,4414.49,4.0,18.0,18028.5,4006.333333,245.2494444,SEMIBOSQUE
+peru,Cusco,"Cusco, Cusco",528541.0,2103.76,23.0,113.0,22980.04348,4677.353982,18.61734513,BOSQUE
+peru,Cusco,"Canas, Cusco",34487.0,3999.27,3.0,24.0,11495.66667,1436.958333,166.63625,SEMIBOSQUE
+peru,Cusco,"Canchis, Cusco",107333.0,5371.08,4.0,23.0,26833.25,4666.652174,233.5252174,SEMIDESIERTO
+peru,Cusco,"Chumbivilcas, Cusco",69763.0,617.0,3.0,7.0,23254.33333,9966.142857,88.14285714,SEMIDESIERTO
+peru,Cusco,"Espinar, Cusco",62140.0,5311.09,4.0,15.0,15535.0,4142.666667,354.0726667,SEMIBOSQUE
+peru,Cusco,"La Convención, Cusco",168389.0,30061.82,24.0,46.0,7016.208333,3660.630435,653.5178261,SEMIBOSQUE
+peru,Cusco,"Paruro, Cusco",26293.0,1984.42,1.0,2.0,26293.0,13146.5,992.21,SEMIDESIERTO
+peru,Cusco,"Paucartambo, Cusco",47866.0,6295.01,2.0,7.0,23933.0,6838.0,899.2871429,SEMIDESIERTO
+peru,Cusco,"Quispicanchi, Cusco",104148.0,7564.79,5.0,23.0,20829.6,4528.173913,328.903913,SEMIBOSQUE
+peru,Cusco,"Urubamba, Cusco",71691.0,1439.43,3.0,24.0,23897.0,2987.125,59.97625,SEMIBOSQUE
+peru,Huancavelica,"Acobamba, Huancavelica",34179.0,910.82,5.0,21.0,6835.8,1627.571429,43.37238095,SEMIBOSQUE
+peru,Huancavelica,"Angaraes, Huancavelica",51904.0,1959.03,2.0,7.0,25952.0,7414.857143,279.8614286,SEMIDESIERTO
+peru,Huancavelica,"Castrovirreyna, Huancavelica",13833.0,3984.62,1.0,3.0,13833.0,4611.0,1328.206667,DESIERTO
+peru,Huancavelica,"Churcampa, Huancavelica",32173.0,1218.42,1.0,3.0,32173.0,10724.33333,406.14,DESIERTO
+peru,Huancavelica,"Huancavelica, Huancavelica",118575.0,4215.56,11.0,47.0,10779.54545,2522.87234,89.69276596,BOSQUE
+peru,Huancavelica,"Huaytará, Huancavelica",17361.0,6458.39,1.0,1.0,17361.0,17361.0,6458.39,DESIERTO
+peru,Huancavelica,"Tayacaja, Huancavelica",82820.0,3384.63,6.0,19.0,13803.33333,4358.947368,178.1384211,SEMIBOSQUE
+peru,Huánuco,"Ambo, Huánuco",52348.0,1575.18,8.0,32.0,6543.5,1635.875,49.224375,BOSQUE
+peru,Huánuco,"Dos de Mayo, Huánuco",30239.0,1468.07,6.0,24.0,5039.833333,1259.958333,61.16958333,SEMIBOSQUE
+peru,Huánuco,"Huacaybamba, Huánuco",15644.0,1743.7,1.0,1.0,15644.0,15644.0,1743.7,SEMIDESIERTO
+peru,Huánuco,"Huamalíes, Huánuco",49585.0,3144.5,6.0,34.0,8264.166667,1458.382353,92.48529412,SEMIBOSQUE
+peru,Huánuco,"Huánuco, Huánuco",320269.0,3591.59,31.0,162.0,10331.25806,1976.969136,22.17030864,BOSQUE
+peru,Huánuco,"Lauricocha, Huánuco",15077.0,1860.89,2.0,5.0,7538.5,3015.4,372.178,SEMIDESIERTO
+peru,Huánuco,"Leoncio Prado, Huánuco",140453.0,4952.99,20.0,89.0,7022.65,1578.123596,55.65157303,BOSQUE
+peru,Huánuco,"Marañón, Huánuco",29277.0,4801.5,2.0,5.0,14638.5,5855.4,960.3,SEMIDESIERTO
+peru,Huánuco,"Pachitea, Huánuco",47812.0,3069.02,3.0,4.0,15937.33333,11953.0,767.255,SEMIDESIERTO
+peru,Huánuco,"Puerto Inca, Huánuco",37553.0,10086.56,2.0,5.0,18776.5,7510.6,2017.312,DESIERTO
+peru,Huánuco,"Yarowilca, Huánuco",16956.0,727.47,4.0,6.0,4239.0,2826.0,121.245,SEMIDESIERTO
+peru,Ica,"Chincha, Ica",273463.0,2987.35,22.0,94.0,12430.13636,2909.180851,31.78031915,BOSQUE
+peru,Ica,"Ica, Ica",467131.0,7894.05,25.0,68.0,18685.24,6869.573529,116.0889706,SEMIBOSQUE
+peru,Ica,"Nasca, Ica",82012.0,5234.08,4.0,13.0,20503.0,6308.615385,402.6215385,SEMIDESIERTO
+peru,Ica,"Palpa, Ica",15175.0,1232.88,1.0,1.0,15175.0,15175.0,1232.88,DESIERTO
+peru,Ica,"Pisco, Ica",182269.0,3957.15,2.0,5.0,91134.5,36453.8,791.43,SEMIDESIERTO
+peru,Junín,"Chanchamayo, Junín",166583.0,4725.48,2.0,8.0,83291.5,20822.875,590.685,DESIERTO
+peru,Junín,"Chupaca, Junín",58371.0,1153.05,4.0,8.0,14592.75,7296.375,144.13125,SEMIDESIERTO
+peru,Junín,"Concepción, Junín",58774.0,3067.52,2.0,2.0,29387.0,29387.0,1533.76,SEMIDESIERTO
+peru,Junín,"Huancayo, Junín",609721.0,3558.1,44.0,221.0,13857.29545,2758.918552,16.1,BOSQUE
+peru,Junín,"Jauja, Junín",87522.0,3749.1,3.0,4.0,29174.0,21880.5,937.275,DESIERTO
+peru,Junín,"Junín, Junín",21651.0,2487.31,1.0,1.0,21651.0,21651.0,2487.31,DESIERTO
+peru,Junín,"Satipo, Junín",244445.0,19219.48,12.0,12.0,20370.41667,20370.41667,1601.623333,SEMIBOSQUE
+peru,Junín,"Tarma, Junín",88605.0,2749.16,7.0,13.0,12657.85714,6815.769231,211.4738462,SEMIBOSQUE
+peru,Junín,"Yauli, Junín",38549.0,3617.35,4.0,5.0,9637.25,7709.8,723.47,SEMIDESIERTO
+peru,La Libertad,"Ascope, La Libertad",124944.0,2655.47,11.0,29.0,11358.54545,4308.413793,91.56793103,SEMIDESIERTO
+peru,La Libertad,"Bolívar, La Libertad",15913.0,1718.86,3.0,7.0,5304.333333,2273.285714,245.5514286,SEMIDESIERTO
+peru,La Libertad,"Chepén, La Libertad",88152.0,1142.43,13.0,24.0,6780.923077,3673.0,47.60125,SEMIDESIERTO
+peru,La Libertad,"Gran Chimú, La Libertad",28168.0,1284.77,7.0,9.0,4024.0,3129.777778,142.7522222,SEMIDESIERTO
+peru,La Libertad,"Julcán, La Libertad",30888.0,1101.39,4.0,25.0,7722.0,1235.52,44.0556,BOSQUE
+peru,La Libertad,"Otuzco, La Libertad",84971.0,2110.77,12.0,39.0,7080.916667,2178.74359,54.12230769,BOSQUE
+peru,La Libertad,"Pacasmayo, La Libertad",115939.0,1126.67,13.0,22.0,8918.384615,5269.954545,51.21227273,SEMIDESIERTO
+peru,La Libertad,"Pataz, La Libertad",86331.0,4226.53,5.0,12.0,17266.2,7194.25,352.2108333,DESIERTO
+peru,La Libertad,"Sánchez Carrión, La Libertad",173784.0,2486.38,9.0,25.0,19309.33333,6951.36,99.4552,SEMIDESIERTO
+peru,La Libertad,"Santiago de Chuco, La Libertad",55725.0,2658.96,8.0,18.0,6965.625,3095.833333,147.72,SEMIDESIERTO
+peru,La Libertad,"Trujillo, La Libertad",1162870.0,1768.65,56.0,231.0,20765.53571,5034.069264,7.656493506,SEMIBOSQUE
+peru,La Libertad,"Virú, La Libertad",109660.0,3214.54,8.0,25.0,13707.5,4386.4,128.5816,SEMIBOSQUE
+peru,Lambayeque,"Chiclayo, Lambayeque",876841.0,3288.07,38.0,88.0,23074.76316,9964.102273,37.36443182,BOSQUE
+peru,Lambayeque,"Ferreñafe, Lambayeque",108438.0,1578.6,3.0,6.0,36146.0,18073.0,263.1,DESIERTO
+peru,Lambayeque,"Lambayeque, Lambayeque",353715.0,9346.63,9.0,31.0,39301.66667,11410.16129,301.5041935,SEMIDESIERTO
+peru,Lima Metropolitana,"Ancón, Lima Metropolitana",100194.0,299.2,3.0,10.0,33398.0,10019.4,29.92,SEMIDESIERTO
+peru,Lima Metropolitana,"Ate, Lima Metropolitana",730256.0,77.7,11.0,26.0,66386.90909,28086.76923,2.988461538,SEMIBOSQUE
+peru,Lima Metropolitana,"Barranco, Lima Metropolitana",36968.0,3.3,2.0,10.0,18484.0,3696.8,0.33,SEMIBOSQUE
+peru,Lima Metropolitana,"Breña, Lima Metropolitana",96916.0,3.2,1.0,1.0,96916.0,96916.0,3.2,DESIERTO
+peru,Lima Metropolitana,"Carabayllo, Lima Metropolitana",446878.0,71.2,2.0,7.0,223439.0,63839.71429,10.17142857,DESIERTO
+peru,Lima Metropolitana,"Cercado de Lima, Lima Metropolitana",265991.0,346.9,8.0,326.0,33248.875,815.9233129,1.064110429,BOSQUE
+peru,Lima Metropolitana,"Chaclacayo, Lima Metropolitana",45963.0,22.0,5.0,8.0,9192.6,5745.375,2.75,BOSQUE
+peru,Lima Metropolitana,"Chorrillos, Lima Metropolitana",376076.0,39.5,1.0,10.0,376076.0,37607.6,3.95,DESIERTO
+peru,Lima Metropolitana,"Cieneguilla, Lima Metropolitana",41278.0,38.9,4.0,12.0,10319.5,3439.833333,3.241666667,BOSQUE
+peru,Lima Metropolitana,"Comas, Lima Metropolitana",596186.0,240.3,6.0,31.0,99364.33333,19231.80645,7.751612903,SEMIDESIERTO
+peru,Lima Metropolitana,"El Agustino, Lima Metropolitana",236577.0,48.8,2.0,7.0,118288.5,33796.71429,6.971428571,DESIERTO
+peru,Lima Metropolitana,"Jesús María, Lima Metropolitana",85952.0,12.5,7.0,138.0,12278.85714,622.8405797,0.09057971014,SEMIDESIERTO
+peru,Lima Metropolitana,"La Molina, Lima Metropolitana",169055.0,4.6,1.0,5.0,169055.0,33811.0,0.92,DESIERTO
+peru,Lima Metropolitana,"La Victoria, Lima Metropolitana",190290.0,65.8,3.0,216.0,63430.0,880.9722222,0.3046296296,SEMIBOSQUE
+peru,Lima Metropolitana,"Lince, Lima Metropolitana",63721.0,8.7,3.0,105.0,21240.33333,606.8666667,0.08285714286,SEMIDESIERTO
+peru,Lima Metropolitana,"Los Olivos, Lima Metropolitana",365339.0,3.0,1.0,15.0,365339.0,24355.93333,0.2,DESIERTO
+peru,Lima Metropolitana,"Lurigancho, Lima Metropolitana",319335.0,18.3,3.0,5.0,106445.0,63867.0,3.66,SEMIDESIERTO
+peru,Lima Metropolitana,"Lurín, Lima Metropolitana",118398.0,236.5,4.0,5.0,29599.5,23679.6,47.3,BOSQUE
+peru,Lima Metropolitana,"Magdalena del Mar, Lima Metropolitana",70296.0,181.1,2.0,9.0,35148.0,7810.666667,20.12222222,SEMIDESIERTO
+peru,Lima Metropolitana,"Miraflores, Lima Metropolitana",118009.0,3.6,3.0,28.0,39336.33333,4214.607143,0.1285714286,SEMIDESIERTO
+peru,Lima Metropolitana,"Pachacámac, Lima Metropolitana",162235.0,9.6,1.0,1.0,162235.0,162235.0,9.6,DESIERTO
+peru,Lima Metropolitana,"Pueblo Libre, Lima Metropolitana",101000.0,160.2,4.0,23.0,25250.0,4391.304348,6.965217391,BOSQUE
+peru,Lima Metropolitana,"Puente Piedra, Lima Metropolitana",428008.0,4.4,5.0,51.0,85601.6,8392.313725,0.0862745098,SEMIDESIERTO
+peru,Lima Metropolitana,"Punta Hermosa, Lima Metropolitana",24683.0,119.5,2.0,3.0,12341.5,8227.666667,39.83333333,SEMIDESIERTO
+peru,Lima Metropolitana,"Rímac, Lima Metropolitana",185245.0,11.9,1.0,3.0,185245.0,61748.33333,3.966666667,DESIERTO
+peru,Lima Metropolitana,"San Borja, Lima Metropolitana",134075.0,10.0,2.0,39.0,67037.5,3437.820513,0.2564102564,DESIERTO
+peru,Lima Metropolitana,"San Isidro, Lima Metropolitana",70840.0,11.1,6.0,145.0,11806.66667,488.5517241,0.07655172414,BOSQUE
+peru,Lima Metropolitana,"San Juan de Lurigancho, Lima Metropolitana",1264060.0,131.3,9.0,20.0,140451.1111,63203.0,6.565,SEMIDESIERTO
+peru,Lima Metropolitana,"San Juan de Miraflores, Lima Metropolitana",429975.0,24.0,3.0,13.0,143325.0,33075.0,1.846153846,DESIERTO
+peru,Lima Metropolitana,"San Martín de Porres, Lima Metropolitana",792514.0,36.9,5.0,98.0,158502.8,8086.877551,0.3765306122,SEMIDESIERTO
+peru,Lima Metropolitana,"San Miguel, Lima Metropolitana",186918.0,10.7,1.0,6.0,186918.0,31153.0,1.783333333,DESIERTO
+peru,Lima Metropolitana,"Santiago de Surco, Lima Metropolitana",431387.0,34.8,2.0,18.0,215693.5,23965.94444,1.933333333,DESIERTO
+peru,Lima Metropolitana,"Surquillo, Lima Metropolitana",104171.0,3.5,3.0,25.0,34723.66667,4166.84,0.14,SEMIDESIERTO
+peru,Lima Metropolitana,"Villa El Salvador, Lima Metropolitana",439013.0,35.5,4.0,16.0,109753.25,27438.3125,2.21875,SEMIDESIERTO
+peru,Lima Metropolitana,"Villa María del Triunfo, Lima Metropolitana",457802.0,70.6,2.0,3.0,228901.0,152600.6667,23.53333333,DESIERTO
+peru,Lima Metropolitana,"Independencia, Lima Metropolitana",233081.0,14.6,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Metropolitana,"Pucusana, Lima Metropolitana",18487.0,37.8,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Metropolitana,"Punta Negra, Lima Metropolitana",9349.0,130.5,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Metropolitana,"San Bartolo, Lima Metropolitana",9801.0,45.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Metropolitana,"San Luis, Lima Metropolitana",56691.0,3.5,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Metropolitana,"Santa Anita, Lima Metropolitana",231875.0,10.7,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Metropolitana,"Santa María del Mar, Lima Metropolitana",1284.0,9.8,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Metropolitana,"Santa Rosa, Lima Metropolitana",46236.0,21.5,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Lima Provincias,"Barranca, Lima Provincias",155025.0,1355.87,9.0,29.0,17225.0,5345.689655,46.75413793,SEMIDESIERTO
+peru,Lima Provincias,"Cajatambo, Lima Provincias",6152.0,1515.21,3.0,13.0,2050.666667,473.2307692,116.5546154,SEMIDESIERTO
+peru,Lima Provincias,"Canta, Lima Provincias",11449.0,1687.29,2.0,9.0,5724.5,1272.111111,187.4766667,SEMIDESIERTO
+peru,Lima Provincias,"Cañete, Lima Provincias",261008.0,4574.91,9.0,39.0,29000.88889,6692.512821,117.3053846,SEMIBOSQUE
+peru,Lima Provincias,"Huaral, Lima Provincias",200847.0,3655.7,14.0,33.0,14346.21429,6086.272727,110.7787879,SEMIBOSQUE
+peru,Lima Provincias,"Huarochirí, Lima Provincias",61586.0,5657.93,3.0,8.0,20528.66667,7698.25,707.24125,SEMIDESIERTO
+peru,Lima Provincias,"Huaura, Lima Provincias",249997.0,4891.92,11.0,35.0,22727.0,7142.771429,139.7691429,SEMIBOSQUE
+peru,Lima Provincias,"Oyón, Lima Provincias",16852.0,1886.05,2.0,5.0,8426.0,3370.4,377.21,SEMIBOSQUE
+peru,Lima Provincias,"Yauyos, Lima Provincias",18949.0,6901.58,4.0,10.0,4737.25,1894.9,690.158,DESIERTO
+peru,Loreto,"Alto Amazonas, Loreto",155236.0,18764.32,8.0,40.0,19404.5,3880.9,469.108,SEMIDESIERTO
+peru,Loreto,"Datem del Marañón, Loreto",60822.0,46609.9,5.0,23.0,12164.4,2644.434783,2026.517391,SEMIDESIERTO
+peru,Loreto,"Loreto, Loreto",73271.0,67434.12,16.0,64.0,4579.4375,1144.859375,1053.658125,SEMIDESIERTO
+peru,Loreto,"Mariscal Ramón Castilla, Loreto",59953.0,37412.94,2.0,7.0,29976.5,8564.714286,5344.705714,DESIERTO
+peru,Loreto,"Maynas, Loreto",559603.0,119859.4,26.0,174.0,21523.19231,3216.109195,688.8471264,BOSQUE
+peru,Loreto,"Putumayo, Loreto",9078.0,45928.0,1.0,1.0,9078.0,9078.0,45928.0,DESIERTO
+peru,Loreto,"Requena, Loreto",64100.0,49477.8,9.0,54.0,7122.222222,1187.037037,916.2555556,SEMIBOSQUE
+peru,Loreto,"Ucayali, Loreto",62821.0,29293.47,2.0,11.0,31410.5,5711.0,2663.042727,DESIERTO
+peru,Madre de Dios,"Manu, Madre de Dios",21200.0,27835.17,2.0,4.0,10600.0,5300.0,6958.7925,SEMIDESIERTO
+peru,Madre de Dios,"Tambopata, Madre de Dios",151561.0,36268.49,5.0,35.0,30312.2,4330.314286,1036.242571,SEMIDESIERTO
+peru,Madre de Dios,"Tahuamanu, Madre de Dios",12717.0,21196.88,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Moquegua,"General Sánchez Cerro, Moquegua",13614.0,5681.71,2.0,8.0,6807.0,1701.75,710.21375,SEMIBOSQUE
+peru,Moquegua,"Ilo, Moquegua",85806.0,1380.59,11.0,48.0,7800.545455,1787.625,28.76229167,BOSQUE
+peru,Moquegua,"Mariscal Nieto, Moquegua",97917.0,8671.58,9.0,51.0,10879.66667,1919.941176,170.0309804,BOSQUE
+peru,Pasco,"Daniel Alcides Carrión, Pasco",45421.0,1887.23,2.0,4.0,22710.5,11355.25,471.8075,SEMIBOSQUE
+peru,Pasco,"Oxapampa, Pasco",102429.0,17767.15,2.0,3.0,51214.5,34143.0,5922.383333,DESIERTO
+peru,Pasco,"Pasco, Pasco",121446.0,5373.88,20.0,69.0,6072.3,1760.086957,77.88231884,BOSQUE
+peru,Piura,"Huancabamba, Piura",117899.0,4254.14,3.0,8.0,39299.66667,14737.375,531.7675,DESIERTO
+peru,Piura,"Piura, Piura",929063.0,6211.16,29.0,115.0,32036.65517,8078.808696,54.01008696,BOSQUE
+peru,Piura,"Sechura, Piura",94207.0,6369.93,4.0,9.0,23551.75,10467.44444,707.77,SEMIDESIERTO
+peru,Piura,"Sullana, Piura",348478.0,5423.61,3.0,9.0,116159.3333,38719.77778,602.6233333,DESIERTO
+peru,Piura,"Talara, Piura",157511.0,2799.49,2.0,4.0,78755.5,39377.75,699.8725,DESIERTO
+peru,Piura,"Ayabaca, Piura",126550.0,5230.68,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Piura,"Morropón, Piura",174921.0,3817.92,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Piura,"Paita, Piura",154470.0,1784.24,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,Puno,"Azángaro, Puno",109293.0,4970.01,2.0,9.0,54646.5,12143.66667,552.2233333,DESIERTO
+peru,Puno,"Carabaya, Puno",79766.0,12266.4,2.0,5.0,39883.0,15953.2,2453.28,DESIERTO
+peru,Puno,"Chucuito, Puno",85265.0,3978.13,3.0,8.0,28421.66667,10658.125,497.26625,SEMIDESIERTO
+peru,Puno,"El Collao, Puno",64354.0,5600.51,2.0,5.0,32177.0,12870.8,1120.102,DESIERTO
+peru,Puno,"Huancané, Puno",57406.0,2805.85,1.0,2.0,57406.0,28703.0,1402.925,DESIERTO
+peru,Puno,"Lampa, Puno",41348.0,5791.73,2.0,12.0,20674.0,3445.666667,482.6441667,SEMIDESIERTO
+peru,Puno,"Melgar, Puno",68510.0,6446.85,4.0,21.0,17127.5,3262.380952,306.9928571,SEMIDESIERTO
+peru,Puno,"Puno, Puno",224425.0,6492.6,8.0,54.0,28053.125,4156.018519,120.2333333,BOSQUE
+peru,Puno,"San Antonio de Putina, Puno",33233.0,3207.38,2.0,5.0,16616.5,6646.6,641.476,DESIERTO
+peru,Puno,"San Román, Puno",353070.0,2277.63,4.0,24.0,88267.5,14711.25,94.90125,SEMIDESIERTO
+peru,Puno,"Sandia, Puno",54952.0,11862.41,1.0,4.0,54952.0,13738.0,2965.6025,DESIERTO
+peru,Puno,"Yunguyo, Puno",36286.0,290.21,2.0,5.0,18143.0,7257.2,58.042,SEMIDESIERTO
+peru,Puno,"Moho, Puno",18445.0,1003.81,0.0,0.0,0.0,0.0,0.0,DESIERTO
+peru,San Martín,"Bellavista, San Martín",62564.0,8050.9,3.0,9.0,20854.66667,6951.555556,894.5444444,SEMIDESIERTO
+peru,San Martín,"El Dorado, San Martín",44342.0,1298.14,2.0,6.0,22171.0,7390.333333,216.3566667,SEMIDESIERTO
+peru,San Martín,"Huallaga, San Martín",30906.0,2380.85,3.0,18.0,10302.0,1717.0,132.2694444,SEMIDESIERTO
+peru,San Martín,"Lamas, San Martín",89673.0,5040.67,4.0,16.0,22418.25,5604.5625,315.041875,SEMIBOSQUE
+peru,San Martín,"Mariscal Cáceres, San Martín",77023.0,14498.73,2.0,6.0,38511.5,12837.16667,2416.455,DESIERTO
+peru,San Martín,"Moyobamba, San Martín",135911.0,3772.31,4.0,15.0,33977.75,9060.733333,251.4873333,DESIERTO
+peru,San Martín,"Rioja, San Martín",44848.0,2171.41,4.0,11.0,11212.0,4077.090909,197.4009091,SEMIBOSQUE
+peru,San Martín,"Picota, San Martín",135554.0,2535.04,2.0,14.0,67777.0,9682.428571,181.0742857,DESIERTO
+peru,San Martín,"San Martín, San Martín",226393.0,5639.82,14.0,81.0,16170.92857,2794.975309,69.62740741,BOSQUE
+peru,San Martín,"Tocache, San Martín",77170.0,5865.44,2.0,7.0,38585.0,11024.28571,837.92,DESIERTO
+peru,Tacna,"Candarave, Tacna",6062.0,2261.1,3.0,8.0,2020.666667,757.75,282.6375,SEMIBOSQUE
+peru,Tacna,"Jorge Basadre, Tacna",13115.0,2928.56,2.0,14.0,6557.5,936.7857143,209.1828571,SEMIBOSQUE
+peru,Tacna,"Tacna, Tacna",358935.0,8066.11,9.0,64.0,39881.66667,5608.359375,126.0329688,SEMIDESIERTO
+peru,Tacna,"Tarata, Tacna",6110.0,2819.96,1.0,4.0,6110.0,1527.5,704.99,DESIERTO
+peru,Tumbes,"Contralmirante Villar, Tumbes",25361.0,2123.22,2.0,6.0,12680.5,4226.833333,353.87,SEMIDESIERTO
+peru,Tumbes,"Tumbes, Tumbes",175684.0,1800.15,11.0,50.0,15971.27273,3513.68,36.003,SEMIBOSQUE
+peru,Tumbes,"Zarumilla, Tumbes",58511.0,745.13,2.0,4.0,29255.5,14627.75,186.2825,SEMIDESIERTO
+peru,Ucayali,"Atalaya, Ucayali",63844.0,38914.29,4.0,5.0,15961.0,12768.8,7782.858,SEMIBOSQUE
+peru,Ucayali,"Coronel Portillo, Ucayali",466369.0,36815.39,15.0,123.0,31091.26667,3791.617886,299.3121138,BOSQUE
+peru,Ucayali,"Padre Abad, Ucayali",81541.0,8822.5,4.0,6.0,20385.25,13590.16667,1470.416667,SEMIDESIERTO
+peru,Ucayali,"Purús, Ucayali",3270.0,17847.76,1.0,1.0,3270.0,3270.0,17847.76,DESIERTO
+argentina,Buenos Aires (Conurbano),"Almirante Brown, Buenos Aires (Conurbano)",583209.0,129.3,13.0,50.0,44862.23077,11664.18,2.586,SEMIDESIERTO
+argentina,Buenos Aires (Conurbano),"Avellaneda, Buenos Aires (Conurbano)",367554.0,56.2,14.0,75.0,26253.85714,4900.72,0.7493333333,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Berazategui, Buenos Aires (Conurbano)",358712.0,220.2,15.0,40.0,23914.13333,8967.8,5.505,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Berisso, Buenos Aires (Conurbano)",100930.0,144.5,9.0,41.0,11214.44444,2461.707317,3.524390244,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Ensenada, Buenos Aires (Conurbano)",63997.0,113.5,5.0,35.0,12799.4,1828.485714,3.242857143,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Esteban Echeverría, Buenos Aires (Conurbano)",338480.0,121.3,10.0,42.0,33848.0,8059.047619,2.888095238,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Ezeiza, Buenos Aires (Conurbano)",201511.0,238.2,8.0,56.0,25188.875,3598.410714,4.253571429,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Florencio Varela, Buenos Aires (Conurbano)",496433.0,189.5,14.0,71.0,35459.5,6992.014085,2.669014085,BOSQUE
+argentina,Buenos Aires (Conurbano),"General Rodríguez, Buenos Aires (Conurbano)",142709.0,366.5,7.0,49.0,20387.0,2912.428571,7.479591837,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"General San Martín, Buenos Aires (Conurbano)",450518.0,56.5,11.0,102.0,40956.18182,4416.843137,0.5539215686,BOSQUE
+argentina,Buenos Aires (Conurbano),"Hurlingham, Buenos Aires (Conurbano)",185641.0,35.8,7.0,26.0,26520.14286,7140.038462,1.376923077,SEMIDESIERTO
+argentina,Buenos Aires (Conurbano),"Ituzaingó, Buenos Aires (Conurbano)",180232.0,38.1,6.0,96.0,30038.66667,1877.416667,0.396875,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"José C. Paz, Buenos Aires (Conurbano)",326992.0,50.2,6.0,13.0,54498.66667,25153.23077,3.861538462,DESIERTO
+argentina,Buenos Aires (Conurbano),"La Matanza, Buenos Aires (Conurbano)",1841247.0,327.4,21.0,208.0,87678.42857,8852.149038,1.574038462,BOSQUE
+argentina,Buenos Aires (Conurbano),"La Plata, Buenos Aires (Conurbano)",768547.0,892.8,22.0,364.0,34933.95455,2111.392857,2.452747253,BOSQUE
+argentina,Buenos Aires (Conurbano),"Lanús, Buenos Aires (Conurbano)",461267.0,50.2,12.0,30.0,38438.91667,15375.56667,1.673333333,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Lomas de Zamora, Buenos Aires (Conurbano)",690480.0,88.7,15.0,133.0,46032.0,5191.578947,0.6669172932,BOSQUE
+argentina,Buenos Aires (Conurbano),"Luján, Buenos Aires (Conurbano)",111251.0,771.3,10.0,58.0,11125.1,1918.12069,13.29827586,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Malvinas Argentinas, Buenos Aires (Conurbano)",350674.0,62.9,5.0,15.0,70134.8,23378.26667,4.193333333,DESIERTO
+argentina,Buenos Aires (Conurbano),"Marcos Paz, Buenos Aires (Conurbano)",67011.0,422.2,6.0,23.0,11168.5,2913.521739,18.35652174,SEMIDESIERTO
+argentina,Buenos Aires (Conurbano),"Merlo, Buenos Aires (Conurbano)",582486.0,174.1,9.0,15.0,64720.66667,38832.4,11.60666667,DESIERTO
+argentina,Buenos Aires (Conurbano),"Moreno, Buenos Aires (Conurbano)",576632.0,186.2,11.0,45.0,52421.09091,12814.04444,4.137777778,DESIERTO
+argentina,Buenos Aires (Conurbano),"Morón, Buenos Aires (Conurbano)",331183.0,55.1,16.0,97.0,20698.9375,3414.257732,0.5680412371,BOSQUE
+argentina,Buenos Aires (Conurbano),"Pilar, Buenos Aires (Conurbano)",394754.0,384.7,14.0,87.0,28196.71429,4537.402299,4.42183908,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Presidente Perón, Buenos Aires (Conurbano)",102106.0,122.0,5.0,6.0,20421.2,17017.66667,20.33333333,DESIERTO
+argentina,Buenos Aires (Conurbano),"Quilmes, Buenos Aires (Conurbano)",633391.0,91.6,19.0,89.0,33336.36842,7116.752809,1.029213483,BOSQUE
+argentina,Buenos Aires (Conurbano),"San Isidro, Buenos Aires (Conurbano)",297282.0,52.4,15.0,67.0,19818.8,4437.044776,0.7820895522,BOSQUE
+argentina,Buenos Aires (Conurbano),"San Miguel, Buenos Aires (Conurbano)",328835.0,82.8,14.0,40.0,23488.21429,8220.875,2.07,SEMIDESIERTO
+argentina,Buenos Aires (Conurbano),"San Vicente, Buenos Aires (Conurbano)",97929.0,660.8,9.0,22.0,10881.0,4451.318182,30.03636364,SEMIBOSQUE
+argentina,Buenos Aires (Conurbano),"Tigre, Buenos Aires (Conurbano)",446949.0,393.9,11.0,38.0,40631.72727,11761.81579,10.36578947,SEMIDESIERTO
+argentina,Buenos Aires (Conurbano),"Tres de Febrero, Buenos Aires (Conurbano)",364176.0,45.4,6.0,62.0,60696.0,5873.806452,0.7322580645,DESIERTO
+argentina,Buenos Aires (Conurbano),"Vicente López, Buenos Aires (Conurbano)",282280.0,34.5,16.0,362.0,17642.5,779.7790055,0.0953038674,BOSQUE
+argentina,Buenos Aires (Zona 2),"25 de Mayo, Buenos Aires (Zona 2)",35563.0,4789.1,5.0,27.0,7112.6,1317.148148,177.3740741,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"9 de Julio, Buenos Aires (Zona 2)",52607.0,4290.9,8.0,48.0,6575.875,1095.979167,89.39375,BOSQUE
+argentina,Buenos Aires (Zona 2),"Alberti, Buenos Aires (Zona 2)",12982.0,1122.6,1.0,8.0,12982.0,1622.75,140.325,DESIERTO
+argentina,Buenos Aires (Zona 2),"Arrecifes, Buenos Aires (Zona 2)",32215.0,1243.8,5.0,19.0,6443.0,1695.526316,65.46315789,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Baradero, Buenos Aires (Zona 2)",40002.0,1529.7,4.0,10.0,10000.5,4000.2,152.97,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Bragado, Buenos Aires (Zona 2)",46504.0,2198.5,9.0,27.0,5167.111111,1722.37037,81.42592593,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Brandsen, Buenos Aires (Zona 2)",32448.0,1114.2,5.0,27.0,6489.6,1201.777778,41.26666667,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Campana, Buenos Aires (Zona 2)",110566.0,986.3,5.0,21.0,22113.2,5265.047619,46.96666667,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Cañuelas, Buenos Aires (Zona 2)",70684.0,1186.2,7.0,23.0,10097.71429,3073.217391,51.57391304,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Capitán Sarmiento, Buenos Aires (Zona 2)",15965.0,548.9,3.0,10.0,5321.666667,1596.5,54.89,DESIERTO
+argentina,Buenos Aires (Zona 2),"Carmen de Areco, Buenos Aires (Zona 2)",17499.0,1061.4,3.0,7.0,5833.0,2499.857143,151.6285714,DESIERTO
+argentina,Buenos Aires (Zona 2),"Castelli, Buenos Aires (Zona 2)",9594.0,2112.9,3.0,16.0,3198.0,599.625,132.05625,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Chacabuco, Buenos Aires (Zona 2)",52729.0,2290.1,7.0,21.0,7532.714286,2510.904762,109.052381,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Chascomús, Buenos Aires (Zona 2)",42452.0,3159.2,6.0,32.0,7075.333333,1326.625,98.725,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Chivilcoy, Buenos Aires (Zona 2)",70839.0,2058.9,9.0,33.0,7871.0,2146.636364,62.39090909,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Colón, Buenos Aires (Zona 2)",27504.0,1000.9,4.0,7.0,6876.0,3929.142857,142.9857143,DESIERTO
+argentina,Buenos Aires (Zona 2),"Escobar, Buenos Aires (Zona 2)",256268.0,301.0,6.0,46.0,42711.33333,5571.043478,6.543478261,BOSQUE
+argentina,Buenos Aires (Zona 2),"Exaltación de la Cruz, Buenos Aires (Zona 2)",40159.0,636.5,8.0,25.0,5019.875,1606.36,25.46,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"General Arenales, Buenos Aires (Zona 2)",16350.0,1486.4,7.0,15.0,2335.714286,1090.0,99.09333333,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"General Belgrano, Buenos Aires (Zona 2)",20791.0,1857.5,5.0,14.0,4158.2,1485.071429,132.6785714,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"General Las Heras, Buenos Aires (Zona 2)",18022.0,751.3,4.0,11.0,4505.5,1638.363636,68.3,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"General Paz, Buenos Aires (Zona 2)",14207.0,1199.9,3.0,16.0,4735.666667,887.9375,74.99375,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"General Viamonte, Buenos Aires (Zona 2)",22649.0,2140.2,7.0,15.0,3235.571429,1509.933333,142.68,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Junín, Buenos Aires (Zona 2)",103787.0,2254.7,10.0,68.0,10378.7,1526.279412,33.15735294,BOSQUE
+argentina,Buenos Aires (Zona 2),"Las Flores, Buenos Aires (Zona 2)",27239.0,3341.0,3.0,20.0,9079.666667,1361.95,167.05,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Leandro N. Alem, Buenos Aires (Zona 2)",17266.0,1606.2,2.0,15.0,8633.0,1151.066667,107.08,DESIERTO
+argentina,Buenos Aires (Zona 2),"Lezama, Buenos Aires (Zona 2)",6221.0,1047.4,2.0,4.0,3110.5,1555.25,261.85,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Lobos, Buenos Aires (Zona 2)",41760.0,1725.5,10.0,27.0,4176.0,1546.666667,63.90740741,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Magdalena, Buenos Aires (Zona 2)",26613.0,1849.6,6.0,12.0,4435.5,2217.75,154.1333333,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Mercedes, Buenos Aires (Zona 2)",72980.0,1049.5,7.0,14.0,10425.71429,5212.857143,74.96428571,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Navarro, Buenos Aires (Zona 2)",19899.0,1619.5,4.0,12.0,4974.75,1658.25,134.9583333,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Pergamino, Buenos Aires (Zona 2)",115340.0,3004.7,8.0,54.0,14417.5,2135.925926,55.64259259,BOSQUE
+argentina,Buenos Aires (Zona 2),"Pila, Buenos Aires (Zona 2)",4642.0,3449.4,3.0,13.0,1547.333333,357.0769231,265.3384615,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Punta Indio, Buenos Aires (Zona 2)",12297.0,1605.4,4.0,26.0,3074.25,472.9615385,61.74615385,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Ramallo, Buenos Aires (Zona 2)",39730.0,1047.6,4.0,21.0,9932.5,1891.904762,49.88571429,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Rojas, Buenos Aires (Zona 2)",25627.0,2060.4,5.0,12.0,5125.4,2135.583333,171.7,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Roque Pérez, Buenos Aires (Zona 2)",13977.0,1556.2,4.0,9.0,3494.25,1553.0,172.9111111,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Saladillo, Buenos Aires (Zona 2)",35656.0,2706.4,9.0,21.0,3961.777778,1697.904762,128.8761905,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Salto, Buenos Aires (Zona 2)",39425.0,1611.1,3.0,4.0,13141.66667,9856.25,402.775,DESIERTO
+argentina,Buenos Aires (Zona 2),"San Andrés de Giles, Buenos Aires (Zona 2)",26510.0,1129.2,5.0,15.0,5302.0,1767.333333,75.28,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"San Antonio de Areco, Buenos Aires (Zona 2)",26897.0,861.8,4.0,7.0,6724.25,3842.428571,123.1142857,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"San Fernando, Buenos Aires (Zona 2)",171616.0,992.8,5.0,7.0,34323.2,24516.57143,141.8285714,DESIERTO
+argentina,Buenos Aires (Zona 2),"San Miguel del Monte, Buenos Aires (Zona 2)",24868.0,1875.6,7.0,24.0,3552.571429,1036.166667,78.15,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"San Nicolás de los Arroyos, Buenos Aires (Zona 2)",168041.0,680.6,4.0,18.0,42010.25,9335.611111,37.81111111,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"San Pedro, Buenos Aires (Zona 2)",68613.0,1356.5,5.0,11.0,13722.6,6237.545455,123.3181818,SEMIBOSQUE
+argentina,Buenos Aires (Zona 2),"Suipacha, Buenos Aires (Zona 2)",11786.0,943.0,2.0,7.0,5893.0,1683.714286,134.7142857,SEMIDESIERTO
+argentina,Buenos Aires (Zona 2),"Zárate, Buenos Aires (Zona 2)",132221.0,1185.1,5.0,18.0,26444.2,7345.611111,65.83888889,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Adolfo Alsina, Buenos Aires (Zona 3)",17552.0,5881.6,4.0,7.0,4388.0,2507.428571,840.2285714,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Adolfo Gonzales Chaves, Buenos Aires (Zona 3)",12914.0,3788.7,4.0,7.0,3228.5,1844.857143,541.2428571,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Ayacucho, Buenos Aires (Zona 3)",21977.0,6756.1,4.0,7.0,5494.25,3139.571429,965.1571429,DESIERTO
+argentina,Buenos Aires (Zona 3),"Azul, Buenos Aires (Zona 3)",75905.0,6537.8,6.0,22.0,12650.83333,3450.227273,297.1727273,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Bahía Blanca, Buenos Aires (Zona 3)",336557.0,2239.9,12.0,152.0,28046.41667,2214.190789,14.73618421,BOSQUE
+argentina,Buenos Aires (Zona 3),"Balcarce, Buenos Aires (Zona 3)",48982.0,4119.6,7.0,34.0,6997.428571,1440.647059,121.1647059,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Benito Juárez, Buenos Aires (Zona 3)",22292.0,5336.0,3.0,11.0,7430.666667,2026.545455,485.0909091,DESIERTO
+argentina,Buenos Aires (Zona 3),"Bolívar, Buenos Aires (Zona 3)",37594.0,4934.7,5.0,29.0,7518.8,1296.344828,170.162069,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Carlos Casares, Buenos Aires (Zona 3)",23100.0,2531.7,6.0,13.0,3850.0,1776.923077,194.7461538,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Carlos Tejedor, Buenos Aires (Zona 3)",14079.0,3912.2,3.0,8.0,4693.0,1759.875,489.025,DESIERTO
+argentina,Buenos Aires (Zona 3),"Carmen de Patagones, Buenos Aires (Zona 3)",37646.0,13564.4,6.0,49.0,6274.333333,768.2857143,276.8244898,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Coronel Dorrego, Buenos Aires (Zona 3)",15968.0,5844.9,4.0,11.0,3992.0,1451.636364,531.3545455,DESIERTO
+argentina,Buenos Aires (Zona 3),"Coronel Pringles, Buenos Aires (Zona 3)",24420.0,5256.7,4.0,14.0,6105.0,1744.285714,375.4785714,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Coronel Rosales, Buenos Aires (Zona 3)",67503.0,1289.9,5.0,14.0,13500.6,4821.642857,92.13571429,DESIERTO
+argentina,Buenos Aires (Zona 3),"Coronel Suárez, Buenos Aires (Zona 3)",42110.0,5984.1,6.0,23.0,7018.333333,1830.869565,260.1782609,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Daireaux, Buenos Aires (Zona 3)",18422.0,3822.8,4.0,13.0,4605.5,1417.076923,294.0615385,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Dolores, Buenos Aires (Zona 3)",32032.0,1977.5,6.0,17.0,5338.666667,1884.235294,116.3235294,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Florentino Ameghino, Buenos Aires (Zona 3)",10790.0,1812.8,5.0,12.0,2158.0,899.1666667,151.0666667,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"General Alvarado, Buenos Aires (Zona 3)",45526.0,1627.8,8.0,29.0,5690.75,1569.862069,56.13103448,BOSQUE
+argentina,Buenos Aires (Zona 3),"General Alvear, Buenos Aires (Zona 3)",12631.0,3366.4,6.0,21.0,2105.166667,601.4761905,160.3047619,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"General Guido, Buenos Aires (Zona 3)",3174.0,2326.4,2.0,7.0,1587.0,453.4285714,332.3428571,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"General La Madrid, Buenos Aires (Zona 3)",11618.0,4814.0,4.0,12.0,2904.5,968.1666667,401.1666667,DESIERTO
+argentina,Buenos Aires (Zona 3),"General Lavalle, Buenos Aires (Zona 3)",4870.0,2704.6,2.0,9.0,2435.0,541.1111111,300.5111111,DESIERTO
+argentina,Buenos Aires (Zona 3),"General Madariaga, Buenos Aires (Zona 3)",22624.0,2982.3,5.0,22.0,4524.8,1028.363636,135.5590909,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"General Pinto, Buenos Aires (Zona 3)",12941.0,2558.1,3.0,8.0,4313.666667,1617.625,319.7625,DESIERTO
+argentina,Buenos Aires (Zona 3),"General Pueyrredón, Buenos Aires (Zona 3)",667082.0,1462.3,19.0,223.0,35109.57895,2991.399103,6.557399103,BOSQUE
+argentina,Buenos Aires (Zona 3),"General Villegas, Buenos Aires (Zona 3)",35251.0,7261.7,5.0,25.0,7050.2,1410.04,290.468,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Guaminí, Buenos Aires (Zona 3)",11801.0,4824.2,2.0,2.0,5900.5,5900.5,2412.1,DESIERTO
+argentina,Buenos Aires (Zona 3),"Hipólito Yrigoyen, Buenos Aires (Zona 3)",10661.0,1645.3,2.0,2.0,5330.5,5330.5,822.65,DESIERTO
+argentina,Buenos Aires (Zona 3),"La Costa, Buenos Aires (Zona 3)",100689.0,233.9,17.0,57.0,5922.882353,1766.473684,4.103508772,BOSQUE
+argentina,Buenos Aires (Zona 3),"Laprida, Buenos Aires (Zona 3)",11646.0,3448.0,4.0,9.0,2911.5,1294.0,383.1111111,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Lincoln, Buenos Aires (Zona 3)",45506.0,5778.3,8.0,19.0,5688.25,2395.052632,304.1210526,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Lobería, Buenos Aires (Zona 3)",18243.0,4720.3,5.0,23.0,3648.6,793.173913,205.2304348,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Maipú, Buenos Aires (Zona 3)",11323.0,2604.0,3.0,18.0,3774.333333,629.0555556,144.6666667,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Mar Chiquita, Buenos Aires (Zona 3)",33110.0,3088.5,5.0,17.0,6622.0,1947.647059,181.6764706,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Monte Hermoso, Buenos Aires (Zona 3)",8465.0,200.3,5.0,8.0,1693.0,1058.125,25.0375,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Necochea, Buenos Aires (Zona 3)",102110.0,4566.1,16.0,38.0,6381.875,2687.105263,120.1605263,BOSQUE
+argentina,Buenos Aires (Zona 3),"Olavarría, Buenos Aires (Zona 3)",125751.0,7666.2,15.0,131.0,8383.4,959.9312977,58.52061069,BOSQUE
+argentina,Buenos Aires (Zona 3),"Pehuajó, Buenos Aires (Zona 3)",44783.0,4523.2,6.0,19.0,7463.833333,2357.0,238.0631579,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Pellegrini, Buenos Aires (Zona 3)",7143.0,1821.0,3.0,3.0,2381.0,2381.0,607.0,DESIERTO
+argentina,Buenos Aires (Zona 3),"Pinamar, Buenos Aires (Zona 3)",39449.0,65.7,8.0,27.0,4931.125,1461.074074,2.433333333,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Puan, Buenos Aires (Zona 3)",16613.0,6376.3,3.0,3.0,5537.666667,5537.666667,2125.433333,DESIERTO
+argentina,Buenos Aires (Zona 3),"Rauch, Buenos Aires (Zona 3)",16635.0,4312.8,3.0,12.0,5545.0,1386.25,359.4,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Rivadavia, Buenos Aires (Zona 3)",19849.0,3955.0,3.0,12.0,6616.333333,1654.083333,329.5833333,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Saavedra, Buenos Aires (Zona 3)",22347.0,3546.2,4.0,6.0,5586.75,3724.5,591.0333333,DESIERTO
+argentina,Buenos Aires (Zona 3),"Salliqueló, Buenos Aires (Zona 3)",9427.0,796.4,4.0,9.0,2356.75,1047.444444,88.48888889,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"San Cayetano, Buenos Aires (Zona 3)",8994.0,2997.3,3.0,10.0,2998.0,899.4,299.73,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Tandil, Buenos Aires (Zona 3)",145575.0,4855.0,10.0,52.0,14557.5,2799.519231,93.36538462,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Tapalqué, Buenos Aires (Zona 3)",10783.0,4168.5,3.0,15.0,3594.333333,718.8666667,277.9,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Tordillo, Buenos Aires (Zona 3)",2542.0,1334.4,1.0,6.0,2542.0,423.6666667,222.4,DESIERTO
+argentina,Buenos Aires (Zona 3),"Tornquist, Buenos Aires (Zona 3)",14810.0,4160.2,6.0,15.0,2468.333333,987.3333333,277.3466667,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Trenque Lauquen, Buenos Aires (Zona 3)",49499.0,5498.3,5.0,17.0,9899.8,2911.705882,323.4294118,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Tres Arroyos, Buenos Aires (Zona 3)",62423.0,5927.2,7.0,26.0,8917.571429,2400.884615,227.9692308,SEMIBOSQUE
+argentina,Buenos Aires (Zona 3),"Tres Lomas, Buenos Aires (Zona 3)",9164.0,1252.0,3.0,7.0,3054.666667,1309.142857,178.8571429,SEMIDESIERTO
+argentina,Buenos Aires (Zona 3),"Villa Gesell, Buenos Aires (Zona 3)",37463.0,164.4,11.0,51.0,3405.727273,734.5686275,3.223529412,BOSQUE
+argentina,Buenos Aires (Zona 3),"Villarino, Buenos Aires (Zona 3)",32717.0,10399.0,6.0,6.0,5452.833333,5452.833333,1733.166667,DESIERTO
+argentina,Catamarca,"Ambato, Catamarca",5129.0,1820.0,3.0,12.0,1709.666667,427.4166667,151.6666667,SEMIDESIERTO
+argentina,Catamarca,"Ancasti, Catamarca",3302.0,1965.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Catamarca,"Andalgalá, Catamarca",19678.0,5438.0,5.0,20.0,3935.6,983.9,271.9,SEMIBOSQUE
+argentina,Catamarca,"Antofagasta de la Sierra, Catamarca",2022.0,28109.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Catamarca,"Belén, Catamarca",30569.0,12647.0,6.0,20.0,5094.833333,1528.45,632.35,SEMIBOSQUE
+argentina,Catamarca,"Capayán, Catamarca",19885.0,4343.0,1.0,3.0,19885.0,6628.333333,1447.666667,DESIERTO
+argentina,Catamarca,"Capital, Catamarca",186947.0,399.0,20.0,102.0,9347.35,1832.813725,3.911764706,SEMIBOSQUE
+argentina,Catamarca,"El Alto, Catamarca",4375.0,1915.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Catamarca,"Fray Mamerto Esquiú, Catamarca",14625.0,186.0,2.0,6.0,7312.5,2437.5,31.0,DESIERTO
+argentina,Catamarca,"La Paz, Catamarca",26370.0,8284.0,3.0,7.0,8790.0,3767.142857,1183.428571,DESIERTO
+argentina,Catamarca,"Paclín, Catamarca",4725.0,985.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Catamarca,"Pomán, Catamarca",12260.0,5013.0,2.0,13.0,6130.0,943.0769231,385.6153846,SEMIDESIERTO
+argentina,Catamarca,"Santa María, Catamarca",26929.0,5507.0,4.0,7.0,6732.25,3847.0,786.7142857,SEMIDESIERTO
+argentina,Catamarca,"Santa Rosa, Catamarca",13322.0,1593.0,1.0,1.0,13322.0,13322.0,1593.0,DESIERTO
+argentina,Catamarca,"Tinogasta, Catamarca",25395.0,22672.0,3.0,10.0,8465.0,2539.5,2267.2,SEMIDESIERTO
+argentina,Catamarca,"Valle Viejo, Catamarca",34029.0,610.0,4.0,25.0,8507.25,1361.16,24.4,SEMIDESIERTO
+argentina,Chaco,"Almirante Brown, Chaco",37851.0,17724.5,11.0,20.0,3441.0,1892.55,886.225,SEMIDESIERTO
+argentina,Chaco,"Bermejo, Chaco",28144.0,2557.5,11.0,26.0,2558.545455,1082.461538,98.36538462,SEMIDESIERTO
+argentina,Chaco,"Chacabuco, Chaco",34598.0,1514.1,5.0,13.0,6919.6,2661.384615,116.4692308,SEMIDESIERTO
+argentina,Chaco,"Comandante Fernández, Chaco",101960.0,1503.1,13.0,35.0,7843.076923,2913.142857,42.94571429,SEMIBOSQUE
+argentina,Chaco,"12 de Octubre, Chaco",23222.0,2754.0,6.0,7.0,3870.333333,3317.428571,393.4285714,DESIERTO
+argentina,Chaco,"2 de Abril, Chaco",8319.0,1596.4,1.0,2.0,8319.0,4159.5,798.2,DESIERTO
+argentina,Chaco,"Fray Justo Santa María de Oro, Chaco",10653.0,2229.1,5.0,14.0,2130.6,760.9285714,159.2214286,DESIERTO
+argentina,Chaco,"General Belgrano, Chaco",12807.0,1301.7,2.0,3.0,6403.5,4269.0,433.9,DESIERTO
+argentina,Chaco,"General Donovan, Chaco",15096.0,1519.1,11.0,32.0,1372.363636,471.75,47.471875,SEMIBOSQUE
+argentina,Chaco,"General Güemes, Chaco",68525.0,25764.4,12.0,18.0,5710.416667,3806.944444,1431.355556,DESIERTO
+argentina,Chaco,"Independencia, Chaco",21996.0,1923.7,3.0,7.0,7332.0,3142.285714,274.8142857,DESIERTO
+argentina,Chaco,"Libertad, Chaco",13807.0,1040.5,4.0,14.0,3451.75,986.2142857,74.32142857,DESIERTO
+argentina,Chaco,"Libertador General San Martín, Chaco",65686.0,7196.2,12.0,30.0,5473.833333,2189.533333,239.8733333,SEMIBOSQUE
+argentina,Chaco,"Maipú, Chaco",26416.0,2915.1,9.0,24.0,2935.111111,1100.666667,121.4625,DESIERTO
+argentina,Chaco,"Mayor Luis Jorge Fontana, Chaco",59965.0,3702.0,12.0,49.0,4997.083333,1223.77551,75.55102041,SEMIBOSQUE
+argentina,Chaco,"9 de Julio, Chaco",30258.0,2164.1,5.0,14.0,6051.6,2161.285714,154.5785714,DESIERTO
+argentina,Chaco,"O'Higgins, Chaco",21579.0,1566.8,4.0,5.0,5394.75,4315.8,313.36,DESIERTO
+argentina,Chaco,"Presidencia de la Plaza, Chaco",13956.0,2246.1,5.0,14.0,2791.2,996.8571429,160.4357143,SEMIDESIERTO
+argentina,Chaco,"1º de Mayo, Chaco",14279.0,1283.0,6.0,11.0,2379.833333,1298.090909,116.6363636,DESIERTO
+argentina,Chaco,"Quitilipi, Chaco",32642.0,1559.6,2.0,2.0,16321.0,16321.0,779.8,DESIERTO
+argentina,Chaco,"San Fernando, Chaco",416140.0,3553.6,19.0,230.0,21902.10526,1809.304348,15.45043478,BOSQUE
+argentina,Chaco,"San Lorenzo, Chaco",16062.0,2148.6,2.0,5.0,8031.0,3212.4,429.72,DESIERTO
+argentina,Chaco,"Sargento Cabral, Chaco",18793.0,1651.3,7.0,22.0,2684.714286,854.2272727,75.05909091,SEMIDESIERTO
+argentina,Chaco,"Tapenagá, Chaco",4059.0,5973.2,2.0,3.0,2029.5,1353.0,1991.066667,DESIERTO
+argentina,Chaco,"25 de Mayo, Chaco",32793.0,2375.7,8.0,15.0,4099.125,2186.2,158.38,SEMIDESIERTO
+argentina,Chubut,"Biedma, Chubut",103173.0,12893.0,9.0,62.0,11463.66667,1664.080645,207.9516129,SEMIBOSQUE
+argentina,Chubut,"Cushamen, Chubut",28209.0,16296.0,1.0,2.0,28209.0,14104.5,8148.0,DESIERTO
+argentina,Chubut,"Escalante, Chubut",215453.0,14273.0,16.0,128.0,13465.8125,1683.226563,111.5078125,SEMIBOSQUE
+argentina,Chubut,"Florentino Ameghino, Chubut",1786.0,15860.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Chubut,"Futaleufú, Chubut",50316.0,9153.0,10.0,56.0,5031.6,898.5,163.4464286,SEMIBOSQUE
+argentina,Chubut,"Gaiman, Chubut",12639.0,11619.0,1.0,1.0,12639.0,12639.0,11619.0,DESIERTO
+argentina,Chubut,"Gastre, Chubut",1195.0,15979.0,1.0,2.0,1195.0,597.5,7989.5,DESIERTO
+argentina,Chubut,"Languiñeo, Chubut",2884.0,14788.0,1.0,1.0,2884.0,2884.0,14788.0,DESIERTO
+argentina,Chubut,"Mártires, Chubut",754.0,15638.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Chubut,"Paso de Indios, Chubut",1886.0,22222.0,1.0,1.0,1886.0,1886.0,22222.0,DESIERTO
+argentina,Chubut,"Rawson, Chubut",145763.0,4135.0,17.0,133.0,8574.294118,1095.962406,31.09022556,SEMIBOSQUE
+argentina,Chubut,"Río Senguer, Chubut",6366.0,22869.0,4.0,34.0,1659.0,187.23,672.61,SEMIDESIERTO
+argentina,Chubut,"Sarmiento, Chubut",14596.0,14545.0,2.0,6.0,7298.0,2432.666667,2424.166667,DESIERTO
+argentina,Chubut,"Tehuelches, Chubut",5978.0,14596.0,2.0,9.0,2989.0,664.2222222,1621.777778,DESIERTO
+argentina,Chubut,"Telsen, Chubut",1623.0,19436.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Agronomía, Ciudad Autónoma de Buenos Aires",16930.0,2.2,2.0,11.0,8465.0,1539.090909,5.0,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Almagro, Ciudad Autónoma de Buenos Aires",142931.0,4.0,12.0,199.0,11910.91667,718.2462312,49.75,BOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Balvanera, Ciudad Autónoma de Buenos Aires",145373.0,4.3,9.0,116.0,16152.55556,1253.215517,26.97674419,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Barracas, Ciudad Autónoma de Buenos Aires",93959.0,7.9,4.0,7.0,23489.75,13422.71429,0.8860759494,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Belgrano, Ciudad Autónoma de Buenos Aires",144953.0,8.0,4.0,11.0,36238.25,13177.54545,1.375,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Boca, Ciudad Autónoma de Buenos Aires",47386.0,5.0,5.0,52.0,9477.2,911.2692308,10.4,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Boedo, Ciudad Autónoma de Buenos Aires",51340.0,2.6,4.0,23.0,12835.0,2232.173913,8.846153846,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Caballito, Ciudad Autónoma de Buenos Aires",203043.0,7.0,6.0,43.0,33840.5,4721.930233,6.142857143,BOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Chacarita, Ciudad Autónoma de Buenos Aires",29936.0,3.0,3.0,78.0,9978.666667,383.7948718,26.0,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Coghlan, Ciudad Autónoma de Buenos Aires",22022.0,1.2,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Colegiales, Ciudad Autónoma de Buenos Aires",60060.0,2.2,4.0,20.0,15015.0,3003.0,9.090909091,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Constitución, Ciudad Autónoma de Buenos Aires",47892.0,2.0,4.0,409.0,11973.0,117.0953545,204.5,BOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Flores, Ciudad Autónoma de Buenos Aires",160813.0,8.5,2.0,2.0,80406.5,80406.5,5.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Floresta, Ciudad Autónoma de Buenos Aires",39155.0,2.3,4.0,15.0,9788.75,2610.333333,6.52173913,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Liniers, Ciudad Autónoma de Buenos Aires",46114.0,4.3,2.0,6.0,23057.0,7685.666667,1.395348837,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Mataderos, Ciudad Autónoma de Buenos Aires",67330.0,7.3,10.0,110.0,6733.0,612.0909091,15.06849315,BOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Monserrat, Ciudad Autónoma de Buenos Aires",43339.0,2.2,7.0,39.0,6191.285714,1111.25641,17.72727273,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Monte Castro, Ciudad Autónoma de Buenos Aires",35037.0,2.6,2.0,8.0,17518.5,4379.625,3.076923077,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Nueva Pompeya, Ciudad Autónoma de Buenos Aires",44846.0,5.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Nuñez, Ciudad Autónoma de Buenos Aires",59373.0,4.3,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Palermo, Ciudad Autónoma de Buenos Aires",248635.0,16.0,8.0,168.0,31079.375,1479.970238,10.5,BOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Parque Avellaneda, Ciudad Autónoma de Buenos Aires",55619.0,5.0,1.0,1.0,55619.0,55619.0,0.2,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Parque Chacabuco, Ciudad Autónoma de Buenos Aires",55083.0,3.8,1.0,8.0,55083.0,6885.375,2.105263158,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Parque Chas, Ciudad Autónoma de Buenos Aires",16929.0,1.3,2.0,17.0,8464.5,995.8235294,13.07692308,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Parque Patricios, Ciudad Autónoma de Buenos Aires",43050.0,4.0,1.0,10.0,43050.0,4305.0,2.5,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Paternal, Ciudad Autónoma de Buenos Aires",21262.0,2.0,3.0,17.0,7087.333333,1250.705882,8.5,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Puerto Madero, Ciudad Autónoma de Buenos Aires",7303.0,5.0,1.0,1.0,7303.0,7303.0,0.2,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Recoleta, Ciudad Autónoma de Buenos Aires",161645.0,6.0,3.0,5.0,53881.66667,32329.0,0.8333333333,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Retiro, Ciudad Autónoma de Buenos Aires",71026.0,5.5,1.0,2.0,71026.0,35513.0,0.3636363636,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Saavedra, Ciudad Autónoma de Buenos Aires",59537.0,5.5,4.0,11.0,14884.25,5412.454545,2.0,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"San Cristobal, Ciudad Autónoma de Buenos Aires",50867.0,2.0,1.0,4.0,50867.0,12716.75,2.0,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"San Nicolas, Ciudad Autónoma de Buenos Aires",31785.0,2.2,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"San Telmo, Ciudad Autónoma de Buenos Aires",22208.0,1.2,6.0,132.0,3701.333333,168.2424242,110.0,BOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Velez Sarsfield, Ciudad Autónoma de Buenos Aires",36556.0,2.4,1.0,3.0,36556.0,12185.33333,1.25,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Versalles, Ciudad Autónoma de Buenos Aires",14403.0,1.4,2.0,3.0,7201.5,4801.0,2.142857143,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Crespo, Ciudad Autónoma de Buenos Aires",88379.0,3.6,4.0,32.0,22094.75,2761.84375,8.888888889,SEMIBOSQUE
+argentina,Ciudad Autónoma de Buenos Aires,"Villa del Parque, Ciudad Autónoma de Buenos Aires",35918.0,3.3,3.0,7.0,11972.66667,5131.142857,2.121212121,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Devoto, Ciudad Autónoma de Buenos Aires",59573.0,6.4,4.0,15.0,14893.25,3971.533333,2.34375,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa General Mitre, Ciudad Autónoma de Buenos Aires",71696.0,2.0,2.0,5.0,35848.0,14339.2,2.5,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Lugano, Ciudad Autónoma de Buenos Aires",137936.0,9.0,3.0,28.0,45978.66667,4926.285714,3.111111111,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Luro, Ciudad Autónoma de Buenos Aires",33869.0,2.5,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Ortuzar, Ciudad Autónoma de Buenos Aires",23439.0,1.8,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Pueyrredón, Ciudad Autónoma de Buenos Aires",46940.0,3.3,3.0,4.0,15646.66667,11735.0,0.825,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Real, Ciudad Autónoma de Buenos Aires",13983.0,1.0,1.0,1.0,13983.0,13983.0,1.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Riachuelo, Ciudad Autónoma de Buenos Aires",15373.0,4.2,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Santa Rita, Ciudad Autónoma de Buenos Aires",37414.0,2.0,1.0,2.0,37414.0,18707.0,1.0,DESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Soldati, Ciudad Autónoma de Buenos Aires",51059.0,8.6,2.0,9.0,25529.5,5673.222222,0.9555555556,SEMIDESIERTO
+argentina,Ciudad Autónoma de Buenos Aires,"Villa Urquiza, Ciudad Autónoma de Buenos Aires",108388.0,5.4,1.0,2.0,108388.0,54194.0,2.7,DESIERTO
+argentina,Córdoba (Norte),"Capital, Córdoba (Norte)",1505250.0,576.0,24.0,541.0,62718.75,2782.347505,1.064695009,BOSQUE
+argentina,Córdoba (Norte),"Colón, Córdoba (Norte)",295725.0,2368.0,7.0,19.0,42246.42857,15564.47368,124.6315789,SEMIDESIERTO
+argentina,Córdoba (Norte),"Cruz del Eje, Córdoba (Norte)",67112.0,6653.0,8.0,25.0,8389.0,2684.48,266.12,DESIERTO
+argentina,Córdoba (Norte),"Ischilín, Córdoba (Norte)",36074.0,5044.0,10.0,16.0,3607.4,2254.625,315.25,DESIERTO
+argentina,Córdoba (Norte),"Punilla, Córdoba (Norte)",221273.0,2592.0,14.0,62.0,15805.0,3568.0,41.80645161,BOSQUE
+argentina,Córdoba (Norte),"Río Seco, Córdoba (Norte)",15302.0,6824.0,3.0,23.0,5100.666667,665.3043478,296.6956522,DESIERTO
+argentina,Córdoba (Norte),"Santa María, Córdoba (Norte)",144829.0,3252.0,13.0,53.0,11140.69231,2732.622642,61.4,BOSQUE
+argentina,Córdoba (Norte),"Sobremonte, Córdoba (Norte)",4503.0,3307.0,2.0,7.0,2251.5,643.2857143,472.4285714,DESIERTO
+argentina,Córdoba (Norte),"Totoral, Córdoba (Norte)",22495.0,3050.0,2.0,16.0,11247.5,1405.9375,190.625,DESIERTO
+argentina,Córdoba (Norte),"Tulumba, Córdoba (Norte)",14134.0,10164.0,3.0,6.0,4711.333333,2355.666667,1694.0,DESIERTO
+argentina,Córdoba (Sur),"Calamuchita, Córdoba (Sur)",75911.0,4693.0,7.0,28.0,10844.42857,2711.107143,167.6071429,SEMIBOSQUE
+argentina,Córdoba (Sur),"General Roca, Córdoba (Sur)",36242.0,12642.0,11.0,25.0,3294.727273,1449.68,505.68,SEMIDESIERTO
+argentina,Córdoba (Sur),"General San Martín, Córdoba (Sur)",154269.0,4991.0,11.0,63.0,14024.45455,2448.714286,79.22222222,BOSQUE
+argentina,Córdoba (Sur),"Juárez Celman, Córdoba (Sur)",68631.0,7929.0,12.0,37.0,5719.25,1854.891892,214.2972973,SEMIBOSQUE
+argentina,Córdoba (Sur),"Marcos Juárez, Córdoba (Sur)",107764.0,9204.0,13.0,52.0,8289.538462,2072.384615,177.0,BOSQUE
+argentina,Córdoba (Sur),"Minas, Córdoba (Sur)",4870.0,3571.0,3.0,5.0,1623.333333,974.0,714.2,DESIERTO
+argentina,Córdoba (Sur),"Pocho, Córdoba (Sur)",5123.0,3068.0,2.0,8.0,2561.5,640.375,383.5,DESIERTO
+argentina,Córdoba (Sur),"Presidente Roque Sáenz Peña, Córdoba (Sur)",37726.0,8238.0,9.0,26.0,4191.777778,1451.0,316.8461538,SEMIDESIERTO
+argentina,Córdoba (Sur),"Río Cuarto, Córdoba (Sur)",279923.0,18587.0,12.0,71.0,23326.91667,3942.577465,261.7887324,BOSQUE
+argentina,Córdoba (Sur),"Río Primero, Córdoba (Sur)",58428.0,6730.0,7.0,16.0,8346.857143,3651.75,420.625,SEMIDESIERTO
+argentina,Córdoba (Sur),"Río Segundo, Córdoba (Sur)",113950.0,5152.0,14.0,43.0,8139.285714,2650.0,119.8139535,SEMIBOSQUE
+argentina,Córdoba (Sur),"San Alberto, Córdoba (Sur)",42166.0,3390.0,7.0,17.0,6023.714286,2480.352941,199.4117647,SEMIDESIERTO
+argentina,Córdoba (Sur),"San Javier, Córdoba (Sur)",63377.0,1544.0,7.0,28.0,9053.857143,2263.464286,55.14285714,SEMIDESIERTO
+argentina,Córdoba (Sur),"San Justo, Córdoba (Sur)",230339.0,15560.0,13.0,63.0,12805.62559,3656.174603,246.984127,BOSQUE
+argentina,Córdoba (Sur),"Tercero Arriba, Córdoba (Sur)",120918.0,5139.0,12.0,49.0,10076.5,2467.714286,104.877551,SEMIBOSQUE
+argentina,Córdoba (Sur),"Unión, Córdoba (Sur)",114571.0,10889.0,12.0,34.0,9547.583333,3369.735294,3369.735294,SEMIBOSQUE
+argentina,Corrientes,"Bella Vista, Corrientes",44406.0,1778.0,4.0,22.0,11101.5,2018.454545,80.81818182,SEMIDESIERTO
+argentina,Corrientes,"Berón de Astrada, Corrientes",2826.0,852.0,1.0,1.0,0.0,0.0,0.0,DESIERTO
+argentina,Corrientes,"Concepción, Corrientes",26282.0,5282.0,6.0,13.0,4380.333333,2021.692308,406.3076923,SEMIDESIERTO
+argentina,Corrientes,"Corrientes, Corrientes",439270.0,556.0,27.0,289.0,16269.25926,1519.965398,1.923875433,SEMIBOSQUE
+argentina,Corrientes,"Curuzú Cuatiá, Corrientes",51532.0,8316.0,7.0,24.0,7361.714286,2147.166667,346.5,SEMIDESIERTO
+argentina,Corrientes,"Empedrado, Corrientes",17968.0,1963.0,3.0,7.0,5989.333333,2566.857143,1.0,DESIERTO
+argentina,Corrientes,"Esquina, Corrientes",39185.0,3928.0,11.0,32.0,3562.272727,1224.53125,122.75,SEMIBOSQUE
+argentina,Corrientes,"General Alvear, Corrientes",9145.0,1948.0,4.0,12.0,2286.25,762.0833333,162.3333333,SEMIDESIERTO
+argentina,Corrientes,"General Paz, Corrientes",17020.0,2610.0,4.0,5.0,4255.0,3404.0,522.0,DESIERTO
+argentina,Corrientes,"Goya, Corrientes",106371.0,4785.0,15.0,65.0,7091.4,1636.476923,2.0,SEMIBOSQUE
+argentina,Corrientes,"Itatí, Corrientes",12010.0,871.0,4.0,5.0,3002.5,2402.0,174.2,DESIERTO
+argentina,Corrientes,"Ituzaingó, Corrientes",38837.0,9671.0,7.0,15.0,5548.142857,2589.133333,644.7333333,SEMIDESIERTO
+argentina,Corrientes,"Lavalle, Corrientes",40448.0,1493.0,3.0,3.0,13482.66667,13482.66667,497.6666667,DESIERTO
+argentina,Corrientes,"Mburucuyá, Corrientes",11568.0,999.0,2.0,3.0,5784.0,3856.0,3.0,DESIERTO
+argentina,Corrientes,"Mercedes, Corrientes",49882.0,9745.0,7.0,25.0,7126.0,1995.28,389.8,SEMIDESIERTO
+argentina,Corrientes,"Monte Caseros, Corrientes",45670.0,2705.0,9.0,26.0,5074.444444,1756.538462,104.0384615,SEMIDESIERTO
+argentina,Corrientes,"Paso de los Libres, Corrientes",56989.0,4893.0,3.0,9.0,18996.33333,6332.111111,543.6666667,DESIERTO
+argentina,Corrientes,"Saladas, Corrientes",29198.0,1920.0,9.0,28.0,3244.222222,1042.785714,4.0,SEMIDESIERTO
+argentina,Corrientes,"San Cosme, Corrientes",19706.0,592.0,5.0,10.0,3941.2,1970.6,59.2,SEMIDESIERTO
+argentina,Corrientes,"San Luis del Palmar, Corrientes",21459.0,2575.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Corrientes,"San Martín, Corrientes",15187.0,6653.0,7.0,20.0,2169.571429,759.35,332.65,SEMIDESIERTO
+argentina,Corrientes,"San Miguel, Corrientes",12713.0,3061.0,2.0,2.0,6356.5,6356.5,5.0,DESIERTO
+argentina,Corrientes,"San Roque, Corrientes",22715.0,2428.0,5.0,14.0,4543.0,1622.5,173.4285714,SEMIDESIERTO
+argentina,Corrientes,"Santo Tomé, Corrientes",71927.0,7006.0,10.0,24.0,7192.7,2996.958333,291.9166667,SEMIDESIERTO
+argentina,Corrientes,"Sauce, Corrientes",10382.0,2493.0,3.0,7.0,3460.666667,1483.142857,356.1428571,DESIERTO
+argentina,Entre Ríos,"Colón, Entre Ríos",75305.0,2760.9,8.0,22.0,9413.125,3422.954545,14288.81818,SEMIDESIERTO
+argentina,Entre Ríos,"Concordia, Entre Ríos",198802.0,3277.6,6.0,24.0,33133.66667,8283.416667,20962.20833,SEMIBOSQUE
+argentina,Entre Ríos,"Diamante, Entre Ríos",53595.0,2678.3,7.0,37.0,7656.428571,1448.513514,7681.621622,SEMIDESIERTO
+argentina,Entre Ríos,"Federación, Entre Ríos",78691.0,3771.4,5.0,26.0,15738.2,3026.576923,26286.96154,SEMIDESIERTO
+argentina,Entre Ríos,"Federal, Entre Ríos",29667.0,5212.2,2.0,6.0,14833.5,4944.5,201619.3333,DESIERTO
+argentina,Entre Ríos,"Feliciano, Entre Ríos",16803.0,3171.3,4.0,6.0,4200.75,2800.5,77380.66667,DESIERTO
+argentina,Entre Ríos,"Gualeguay, Entre Ríos",57303.0,6610.1,4.0,11.0,14325.75,5209.363636,156390.3636,SEMIDESIERTO
+argentina,Entre Ríos,"Gualeguaychú, Entre Ríos",126147.0,7530.9,4.0,17.0,31536.75,7420.411765,120974.1176,SEMIBOSQUE
+argentina,Entre Ríos,"Islas, Entre Ríos",14000.0,4930.5,3.0,4.0,4666.666667,3500.0,276701.75,DESIERTO
+argentina,Entre Ríos,"La Paz, Entre Ríos",75407.0,6636.3,9.0,13.0,8378.555556,5800.538462,133065.3846,SEMIDESIERTO
+argentina,Entre Ríos,"Nogoyá, Entre Ríos",43195.0,4378.6,7.0,31.0,6170.714286,1393.387097,29200.77419,SEMIDESIERTO
+argentina,Entre Ríos,"Paraná, Entre Ríos",391696.0,5107.7,12.0,164.0,32641.33333,2388.390244,7143.384146,BOSQUE
+argentina,Entre Ríos,"San Salvador, Entre Ríos",20854.0,1330.8,4.0,10.0,5213.5,2085.4,-20797.4,SEMIDESIERTO
+argentina,Entre Ríos,"Tala, Entre Ríos",31309.0,2643.2,7.0,15.0,4472.714286,2087.266667,18093.86667,SEMIDESIERTO
+argentina,Entre Ríos,"Uruguay, Entre Ríos",116356.0,5126.8,6.0,36.0,19392.66667,3232.111111,32735.72222,SEMIBOSQUE
+argentina,Entre Ríos,"Victoria, Entre Ríos",40652.0,6638.9,1.0,3.0,40652.0,13550.66667,576921.3333,DESIERTO
+argentina,Entre Ríos,"Villaguay, Entre Ríos",55796.0,6578.3,6.0,16.0,9299.333333,3487.25,106791.625,SEMIDESIERTO
+argentina,Formosa,"Bermejo, Formosa",15644.0,13874.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Formosa,"Formosa, Formosa",269589.0,6503.0,24.0,116.0,11232.875,2324.043103,56.06034483,SEMIDESIERTO
+argentina,Formosa,"Laishí, Formosa",19303.0,3586.0,2.0,6.0,9651.5,3217.166667,597.6666667,DESIERTO
+argentina,Formosa,"Matacos, Formosa",17032.0,4058.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Formosa,"Patiño, Formosa",81819.0,26218.0,9.0,23.0,9091.0,3557.347826,1139.913043,DESIERTO
+argentina,Formosa,"Pilagás, Formosa",19116.0,3427.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Formosa,"Pilcomayo, Formosa",94383.0,5350.0,14.0,36.0,6741.642857,2621.75,148.6111111,SEMIDESIERTO
+argentina,Formosa,"Pirané, Formosa",72804.0,8630.0,2.0,10.0,36402.0,7280.4,863.0,DESIERTO
+argentina,Formosa,"Ramón Lista, Formosa",17729.0,3842.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Jujuy,"Cochinoca, Jujuy",15054.0,7837.0,3.0,8.0,5018.0,1881.75,979.625,DESIERTO
+argentina,Jujuy,"Dr. Manuel Belgrano, Jujuy",320990.0,1917.0,15.0,133.0,21399.33333,2413.458647,14.41353383,SEMIDESIERTO
+argentina,Jujuy,"El Carmen, Jujuy",122366.0,912.0,11.0,48.0,11124.18182,2549.291667,19.0,SEMIDESIERTO
+argentina,Jujuy,"Humahuaca, Jujuy",20914.0,3792.0,3.0,14.0,6971.333333,1493.857143,270.8571429,DESIERTO
+argentina,Jujuy,"Ledesma, Jujuy",94252.0,3249.0,14.0,36.0,6732.285714,2618.111111,90.25,SEMIDESIERTO
+argentina,Jujuy,"Palpalá, Jujuy",65541.0,467.0,2.0,10.0,32770.5,6554.1,46.7,DESIERTO
+argentina,Jujuy,"Rinconada, Jujuy",1802.0,6407.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Jujuy,"San Antonio, Jujuy",6729.0,690.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Jujuy,"San Pedro, Jujuy",88241.0,2150.0,10.0,38.0,8824.1,2322.131579,56.57894737,SEMIDESIERTO
+argentina,Jujuy,"Santa Bárbara, Jujuy",20499.0,4448.0,3.0,6.0,6833.0,3416.5,741.3333333,DESIERTO
+argentina,Jujuy,"Santa Catalina, Jujuy",2646.0,2960.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Jujuy,"Susques, Jujuy",4098.0,9199.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Jujuy,"Tilcara, Jujuy",14721.0,1845.0,3.0,7.0,4907.0,2103.0,263.5714286,DESIERTO
+argentina,Jujuy,"Tumbaya, Jujuy",5381.0,3442.0,2.0,3.0,2690.5,1793.666667,1147.333333,DESIERTO
+argentina,Jujuy,"Valle Grande, Jujuy",2509.0,962.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Jujuy,"Yavi, Jujuy",25868.0,2942.0,2.0,34.0,12934.0,760.8235294,86.52941176,SEMIDESIERTO
+argentina,La Pampa,"Atreucó, La Pampa",11138.0,3505.8,1.0,1.0,11138.0,11138.0,3505.8,DESIERTO
+argentina,La Pampa,"Caleu Caleu, La Pampa",2611.0,9108.6,2.0,8.0,1305.5,326.375,1138.575,SEMIDESIERTO
+argentina,La Pampa,"Capital, La Pampa",119632.0,2538.2,9.0,96.0,13292.44444,1246.166667,26.43958333,BOSQUE
+argentina,La Pampa,"Catriló, La Pampa",8235.0,2505.8,3.0,9.0,2745.0,915.0,278.4222222,DESIERTO
+argentina,La Pampa,"Chalileo, La Pampa",2885.0,8804.0,2.0,5.0,1442.5,577.0,1760.8,DESIERTO
+argentina,La Pampa,"Chapaleufú, La Pampa",12334.0,2524.5,4.0,10.0,3083.5,1233.4,252.45,SEMIDESIERTO
+argentina,La Pampa,"Chical Có, La Pampa",1466.0,9020.1,2.0,6.0,733.0,244.3333333,1503.35,DESIERTO
+argentina,La Pampa,"Conhelo, La Pampa",15186.0,5127.6,4.0,10.0,3796.5,1518.6,512.76,SEMIDESIERTO
+argentina,La Pampa,"Curacó, La Pampa",1116.0,13513.7,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,La Pampa,"Guatraché, La Pampa",9517.0,3505.0,3.0,9.0,3172.333333,1057.444444,389.4444444,SEMIDESIERTO
+argentina,La Pampa,"Hucal, La Pampa",7787.0,6013.2,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,La Pampa,"Lihuel Calel, La Pampa",443.0,12478.1,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,La Pampa,"Limay Mahuida, La Pampa",423.0,10012.5,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,La Pampa,"Loventué, La Pampa",9322.0,9127.7,3.0,5.0,3107.333333,1864.4,1825.54,DESIERTO
+argentina,La Pampa,"Maracó, La Pampa",69514.0,2506.8,5.0,30.0,13902.8,2317.133333,83.56,SEMIBOSQUE
+argentina,La Pampa,"Puelén, La Pampa",11654.0,13106.2,2.0,8.0,5827.0,1456.75,1638.275,DESIERTO
+argentina,La Pampa,"Quemú Quemú , La Pampa",8460.0,2506.6,2.0,4.0,4230.0,2115.0,626.65,DESIERTO
+argentina,La Pampa,"Rancul , La Pampa",11133.0,5119.2,4.0,10.0,2783.25,1113.3,511.92,SEMIDESIERTO
+argentina,La Pampa,"Realicó, La Pampa",17470.0,2494.1,6.0,24.0,2911.666667,727.9166667,103.9208333,SEMIBOSQUE
+argentina,La Pampa,"Toay, La Pampa",18029.0,5089.7,2.0,10.0,9014.5,1802.9,508.97,SEMIDESIERTO
+argentina,La Pampa,"Trenel, La Pampa",5702.0,2003.9,2.0,14.0,2851.0,407.2857143,143.1357143,SEMIDESIERTO
+argentina,La Pampa,"Utracán, La Pampa",17802.0,12881.2,3.0,10.0,5934.0,1780.2,1288.12,SEMIDESIERTO
+argentina,La Rioja,"Arauco, La Rioja",16257.0,2525.0,4.0,11.0,4064.25,1477.909091,229.5454545,DESIERTO
+argentina,La Rioja,"Castro Barros, La Rioja",5810.0,1528.0,2.0,2.0,2905.0,2905.0,764.0,DESIERTO
+argentina,La Rioja,"Chamical, La Rioja",15666.0,5512.0,2.0,7.0,7833.0,2238.0,787.4285714,DESIERTO
+argentina,La Rioja,"Chilecito, La Rioja",58798.0,5243.0,8.0,46.0,7349.75,1278.217391,113.9782609,SEMIBOSQUE
+argentina,La Rioja,"Famatina, La Rioja",7002.0,4170.0,6.0,12.0,1167.0,583.5,347.5,SEMIDESIERTO
+argentina,La Rioja,"General Ángel Vicente Peñaloza, La Rioja",3185.0,3127.0,1.0,4.0,3185.0,796.25,781.75,DESIERTO
+argentina,La Rioja,"General Belgrano, La Rioja",7618.0,2821.0,2.0,4.0,3809.0,1904.5,705.25,DESIERTO
+argentina,La Rioja,"General Felipe Varela, La Rioja",11372.0,8275.0,1.0,3.0,11372.0,3790.666667,2758.333333,DESIERTO
+argentina,La Rioja,"General Juan Facundo Quiroga, La Rioja",4017.0,4311.0,2.0,7.0,2008.5,573.8571429,615.8571429,DESIERTO
+argentina,La Rioja,"General Lamadrid, La Rioja",1886.0,6133.0,1.0,3.0,1886.0,628.6666667,2044.333333,DESIERTO
+argentina,La Rioja,"General Ortiz de Ocampo, La Rioja",7349.0,3738.0,2.0,6.0,3674.5,1224.833333,623.0,DESIERTO
+argentina,La Rioja,"General San Martín, La Rioja",5019.0,4476.0,2.0,10.0,2509.5,501.9,447.6,DESIERTO
+argentina,La Rioja,"Independencia, La Rioja",2401.0,7025.0,1.0,2.0,2401.0,1200.5,3512.5,DESIERTO
+argentina,La Rioja,"La Rioja (Capital), La Rioja",211651.0,13432.0,24.0,209.0,8818.791667,1012.684211,64.26794258,SEMIBOSQUE
+argentina,La Rioja,"Rosario Vera Peñaloza, La Rioja",15783.0,5027.0,4.0,23.0,3945.75,686.2173913,218.5652174,SEMIDESIERTO
+argentina,La Rioja,"San Blas de los Sauces, La Rioja",4314.0,1439.0,2.0,9.0,2157.0,479.3333333,159.8888889,DESIERTO
+argentina,La Rioja,"Sanagasta, La Rioja",3038.0,1304.0,2.0,8.0,1519.0,379.75,163.0,DESIERTO
+argentina,La Rioja,"Vinchina, La Rioja",2699.0,11409.0,2.0,15.0,1349.5,179.9333333,760.6,DESIERTO
+argentina,Mendoza,"Ciudad de Mendoza, Mendoza",127160.0,53.0,25.0,372.0,5086.4,341.827957,0.1424731183,BOSQUE
+argentina,Mendoza,"General Alvear, Mendoza",52584.0,14722.0,11.0,34.0,4780.363636,1546.588235,433.0,SEMIBOSQUE
+argentina,Mendoza,"Godoy Cruz, Mendoza",195159.0,79.0,3.0,32.0,65053.0,6098.71875,2.46875,SEMIBOSQUE
+argentina,Mendoza,"Guaymallén, Mendoza",321966.0,162.0,1.0,2.0,321966.0,160983.0,81.0,SEMIDESIERTO
+argentina,Mendoza,"Junín, Mendoza",46604.0,272.0,1.0,2.0,46604.0,23302.0,136.0,DESIERTO
+argentina,Mendoza,"La Paz, Mendoza",12086.0,7534.0,4.0,15.0,3021.5,805.7333333,502.2666667,DESIERTO
+argentina,Mendoza,"Las Heras, Mendoza",234401.0,8910.0,5.0,155.0,46880.2,1512.264516,57.48387097,SEMIBOSQUE
+argentina,Mendoza,"Lavalle, Mendoza",47167.0,10108.0,9.0,35.0,5240.777778,1347.628571,288.8,SEMIDESIERTO
+argentina,Mendoza,"Luján de Cuyo, Mendoza",175056.0,4821.0,6.0,17.0,29176.0,10297.41176,283.5882353,SEMIBOSQUE
+argentina,Mendoza,"Maipú, Mendoza",219402.0,623.0,3.0,12.0,73134.0,18283.5,51.91666667,SEMIDESIERTO
+argentina,Mendoza,"Malargüe, Mendoza",32717.0,40547.0,6.0,17.0,5452.833333,1924.529412,2385.117647,SEMIDESIERTO
+argentina,Mendoza,"Rivadavia, Mendoza",63724.0,2108.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Mendoza,"San Carlos, Mendoza",39869.0,11563.0,4.0,11.0,9967.25,3624.454545,1051.181818,SEMIDESIERTO
+argentina,Mendoza,"San Martín, Mendoza",139792.0,1507.0,10.0,32.0,13979.2,4368.5,47.09375,SEMIBOSQUE
+argentina,Mendoza,"San Rafael, Mendoza",215020.0,31379.0,7.0,39.0,30717.14286,5513.333333,804.5897436,SEMIBOSQUE
+argentina,Mendoza,"Santa Rosa, Mendoza",19382.0,8845.0,6.0,18.0,3230.333333,1076.777778,491.3888889,SEMIDESIERTO
+argentina,Mendoza,"Tunuyán, Mendoza",60171.0,3381.0,6.0,19.0,10028.5,3166.894737,177.9473684,SEMIBOSQUE
+argentina,Mendoza,"Tupungato, Mendoza",41280.0,2455.0,5.0,17.0,8256.0,2428.235294,144.4117647,SEMIDESIERTO
+argentina,Misiones,"Apóstoles, Misiones",50597.0,1068.0,7.0,69.0,7228.142857,733.2898551,15.47826087,SEMIDESIERTO
+argentina,Misiones,"Cainguás, Misiones",59953.0,1608.0,1.0,5.0,59953.0,11990.6,321.6,DESIERTO
+argentina,Misiones,"Candelaria, Misiones",35318.0,875.0,2.0,8.0,17659.0,4414.75,109.375,DESIERTO
+argentina,Misiones,"Capital (Posadas), Misiones",392919.0,965.0,26.0,137.0,15112.26923,2868.021898,7.04379562,BOSQUE
+argentina,Misiones,"Concepción, Misiones",10348.0,726.0,1.0,7.0,10348.0,1478.285714,103.7142857,DESIERTO
+argentina,Misiones,"Eldorado, Misiones",91728.0,1960.0,3.0,19.0,30576.0,4827.789474,103.1578947,SEMIDESIERTO
+argentina,Misiones,"General Manuel Belgrano, Misiones",45570.0,3275.0,1.0,2.0,45570.0,22785.0,1637.5,DESIERTO
+argentina,Misiones,"Guaraní, Misiones",77160.0,3314.0,3.0,9.0,25720.0,8573.333333,368.2222222,DESIERTO
+argentina,Misiones,"Iguazú, Misiones",100096.0,2769.0,5.0,13.0,20019.2,7699.692308,213.0,SEMIDESIERTO
+argentina,Misiones,"Leandro N. Alem, Misiones",49797.0,1185.0,2.0,23.0,24898.5,2165.086957,51.52173913,SEMIDESIERTO
+argentina,Misiones,"Libertador General San Martín, Misiones",52428.0,1524.0,3.0,8.0,17476.0,6553.5,190.5,DESIERTO
+argentina,Misiones,"Montecarlo, Misiones",38669.0,1723.0,1.0,3.0,38669.0,12889.66667,574.3333333,DESIERTO
+argentina,Misiones,"Oberá, Misiones",121701.0,1620.0,10.0,52.0,12170.1,2340.403846,31.15384615,SEMIBOSQUE
+argentina,Misiones,"San Ignacio, Misiones",63394.0,1607.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Misiones,"San Javier, Misiones",23503.0,536.0,1.0,4.0,23503.0,5875.75,134.0,DESIERTO
+argentina,Misiones,"San Pedro, Misiones",34801.0,3407.0,1.0,2.0,34801.0,17400.5,1703.5,DESIERTO
+argentina,Misiones,"25 de Mayo, Misiones",30891.0,1639.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Neuquén,"Aluminé, Neuquén",10244.0,4739.0,5.0,10.0,2048.8,1024.4,473.9,SEMIDESIERTO
+argentina,Neuquén,"Añelo, Neuquén",18166.0,12115.0,3.0,14.0,6055.333333,1297.571429,865.3571429,DESIERTO
+argentina,Neuquén,"Catán Lil, Neuquén",2676.0,5503.0,1.0,4.0,2676.0,669.0,1375.75,DESIERTO
+argentina,Neuquén,"Chos Malal, Neuquén",18368.0,4578.0,6.0,21.0,3061.333333,874.6666667,218.0,SEMIBOSQUE
+argentina,Neuquén,"Collón Curá, Neuquén",4835.0,5767.0,2.0,5.0,2417.5,967.0,1153.4,DESIERTO
+argentina,Neuquén,"Confluencia, Neuquén",468794.0,7203.0,23.0,187.0,20382.34783,2506.919786,38.51871658,BOSQUE
+argentina,Neuquén,"Huiliches, Neuquén",20973.0,4027.0,1.0,3.0,20973.0,6991.0,1342.333333,DESIERTO
+argentina,Neuquén,"Lácar, Neuquén",39596.0,4972.0,7.0,29.0,5656.571429,1365.37931,171.4482759,SEMIBOSQUE
+argentina,Neuquén,"Loncopué, Neuquén",7698.0,5505.0,2.0,4.0,3849.0,1924.5,1376.25,DESIERTO
+argentina,Neuquén,"Los Lagos, Neuquén",15555.0,4213.0,4.0,12.0,3888.75,1296.25,351.0833333,SEMIBOSQUE
+argentina,Neuquén,"Minas, Neuquén",9267.0,6053.0,5.0,17.0,1853.4,545.1176471,356.0588235,SEMIBOSQUE
+argentina,Neuquén,"Ñorquín, Neuquén",5609.0,5555.0,3.0,8.0,1869.666667,701.125,694.375,DESIERTO
+argentina,Neuquén,"Pehuenches, Neuquén",29753.0,8335.0,5.0,10.0,5950.6,2975.3,833.5,DESIERTO
+argentina,Neuquén,"Picún Leufú, Neuquén",5087.0,4595.0,1.0,3.0,5087.0,1695.666667,1531.666667,DESIERTO
+argentina,Neuquén,"Picunches, Neuquén",8495.0,6044.0,2.0,15.0,4247.5,566.3333333,402.9333333,DESIERTO
+argentina,Neuquén,"Zapala, Neuquén",45698.0,5219.0,2.0,7.0,22849.0,6528.285714,745.5714286,DESIERTO
+argentina,Río Negro,"25 de Mayo, Río Negro",16718.0,27643.0,10.0,25.0,1671.8,668.72,1105.72,SEMIDESIERTO
+argentina,Río Negro,"9 de Julio, Río Negro",3719.0,24066.0,5.0,17.0,743.8,218.7647059,1415.647059,SEMIDESIERTO
+argentina,Río Negro,"Adolfo Alsina, Río Negro",64482.0,8952.0,9.0,36.0,7164.666667,1791.166667,248.6666667,SEMIBOSQUE
+argentina,Río Negro,"Avellaneda, Río Negro",41352.0,19845.0,9.0,29.0,4594.666667,1425.931034,684.3103448,SEMIBOSQUE
+argentina,Río Negro,"Bariloche, Río Negro",162088.0,5422.0,13.0,76.0,12468.30769,2132.736842,71.34210526,BOSQUE
+argentina,Río Negro,"Conesa, Río Negro",7429.0,9790.0,2.0,6.0,3714.5,1238.166667,1631.666667,DESIERTO
+argentina,Río Negro,"El Cuy, Río Negro",6960.0,21522.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Río Negro,"General Roca, Río Negro",380525.0,14559.0,40.0,328.0,9513.125,1160.137195,44.38719512,BOSQUE
+argentina,Río Negro,"Ñorquincó, Río Negro",1452.0,8243.0,1.0,3.0,1452.0,484.0,2747.666667,DESIERTO
+argentina,Río Negro,"Pichi Mahuida, Río Negro",16551.0,15671.0,5.0,18.0,3310.2,919.5,870.6111111,SEMIDESIERTO
+argentina,Río Negro,"Pilcaniyeu, Río Negro",9373.0,10984.0,2.0,6.0,4686.5,1562.166667,1830.666667,DESIERTO
+argentina,Río Negro,"San Antonio, Río Negro",35800.0,14337.0,8.0,30.0,4475.0,1193.333333,477.9,SEMIBOSQUE
+argentina,Río Negro,"Valcheta, Río Negro",4319.0,21135.0,1.0,1.0,4319.0,4319.0,21135.0,DESIERTO
+argentina,Salta,"Anta, Salta",70170.0,22487.3,6.0,18.0,11695.0,3898.333333,1249.294444,SEMIDESIERTO
+argentina,Salta,"Cachi, Salta",8948.0,2847.0,4.0,10.0,2237.0,894.8,284.7,SEMIDESIERTO
+argentina,Salta,"Cafayate, Salta",17829.0,1550.9,4.0,14.0,4457.25,1273.5,110.7785714,SEMIBOSQUE
+argentina,Salta,"Capital, Salta",627704.0,1716.1,12.0,229.0,52308.66667,2741.065502,7.493886463,BOSQUE
+argentina,Salta,"Cerrillos, Salta",55949.0,540.4,3.0,12.0,18649.66667,4662.416667,45.03333333,SEMIDESIERTO
+argentina,Salta,"Chicoana, Salta",24729.0,1053.6,3.0,10.0,8243.0,2472.9,105.36,DESIERTO
+argentina,Salta,"General Güemes, Salta",56166.0,2193.9,4.0,14.0,14041.5,4011.857143,156.7071429,SEMIBOSQUE
+argentina,Salta,"General José de San Martín, Salta",178004.0,16108.3,8.0,31.0,22250.5,5742.064516,519.6225806,BOSQUE
+argentina,Salta,"Guachipas, Salta",3491.0,2789.7,1.0,1.0,3491.0,3491.0,2789.7,DESIERTO
+argentina,Salta,"Iruya, Salta",6118.0,3531.3,1.0,2.0,6118.0,3059.0,1765.65,DESIERTO
+argentina,Salta,"La Caldera, Salta",12299.0,1091.9,2.0,4.0,6149.5,3074.75,272.975,SEMIDESIERTO
+argentina,Salta,"La Candelaria, Salta",7205.0,1347.4,3.0,6.0,2401.666667,1200.833333,224.5666667,DESIERTO
+argentina,Salta,"La Poma, Salta",1789.0,4003.9,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Salta,"La Viña, Salta",8900.0,2004.5,1.0,2.0,8900.0,4450.0,1002.25,DESIERTO
+argentina,Salta,"Los Andes, Salta",7182.0,25111.7,3.0,9.0,2394.0,798.0,2790.188889,SEMIDESIERTO
+argentina,Salta,"Metán, Salta",48245.0,5262.2,6.0,30.0,8040.833333,1608.166667,175.4066667,SEMIBOSQUE
+argentina,Salta,"Molinos, Salta",5820.0,3716.4,1.0,1.0,5820.0,5820.0,3716.4,DESIERTO
+argentina,Salta,"Orán, Salta",160642.0,11638.3,8.0,50.0,20080.25,3212.84,232.766,BOSQUE
+argentina,Salta,"Rivadavia, Salta",38113.0,26185.3,4.0,9.0,9528.25,4234.777778,2909.477778,DESIERTO
+argentina,Salta,"Rosario de la Frontera, Salta",33809.0,5443.0,6.0,40.0,5634.833333,845.225,136.075,SEMIBOSQUE
+argentina,Salta,"Rosario de Lerma, Salta",51028.0,5136.5,5.0,11.0,10205.6,4638.909091,466.9545455,SEMIDESIERTO
+argentina,Salta,"San Carlos, Salta",7798.0,5532.0,2.0,3.0,3899.0,2599.333333,1844.0,SEMIDESIERTO
+argentina,Salta,"Santa Victoria, Salta",9413.0,4049.0,2.0,4.0,4706.5,2353.25,1012.25,DESIERTO
+argentina,San Juan,"25 de Mayo, San Juan",20824.0,4210.0,1.0,2.0,20824.0,10412.0,2105.0,DESIERTO
+argentina,San Juan,"9 de Julio, San Juan",12514.0,153.6,3.0,10.0,4171.333333,1251.4,15.36,DESIERTO
+argentina,San Juan,"Albardón, San Juan",31284.0,1014.0,4.0,14.0,7821.0,2234.571429,72.42857143,SEMIDESIERTO
+argentina,San Juan,"Angaco, San Juan",10176.0,2556.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,San Juan,"Calingasta, San Juan",11034.0,22697.3,2.0,10.0,5517.0,1103.4,2269.73,DESIERTO
+argentina,San Juan,"Capital, San Juan",115390.0,26.7,9.0,111.0,12821.11111,1039.54955,0.2405405405,SEMIBOSQUE
+argentina,San Juan,"Caucete, San Juan",44047.0,7558.3,3.0,9.0,14682.33333,4894.111111,839.8111111,SEMIDESIERTO
+argentina,San Juan,"Chimbas, San Juan",105627.0,66.9,3.0,11.0,35209.0,9602.454545,6.081818182,DESIERTO
+argentina,San Juan,"Iglesia, San Juan",8845.0,19149.1,3.0,6.0,2948.333333,1474.166667,3191.516667,SEMIDESIERTO
+argentina,San Juan,"Jáchal, San Juan",25297.0,14340.9,3.0,12.0,8432.333333,2108.083333,1195.075,SEMIDESIERTO
+argentina,San Juan,"Pocito, San Juan",72915.0,573.8,4.0,12.0,18228.75,6076.25,47.81666667,SEMIDESIERTO
+argentina,San Juan,"Rawson, San Juan",136617.0,285.7,2.0,6.0,68308.5,22769.5,47.61666667,DESIERTO
+argentina,San Juan,"Rivadavia, San Juan",101666.0,120.4,3.0,17.0,33888.66667,5980.352941,7.082352941,SEMIDESIERTO
+argentina,San Juan,"San Martín, San Juan",15037.0,551.1,2.0,5.0,7518.5,3007.4,110.22,DESIERTO
+argentina,San Juan,"Santa Lucía, San Juan",62729.0,54.1,1.0,2.0,62729.0,31364.5,27.05,DESIERTO
+argentina,San Juan,"Sarmiento, San Juan",27188.0,2823.6,5.0,16.0,5437.6,1699.25,176.475,SEMIDESIERTO
+argentina,San Juan,"Ullum, San Juan",6454.0,4478.5,2.0,13.0,3227.0,496.4615385,344.5,DESIERTO
+argentina,San Juan,"Valle Fértil, San Juan",8526.0,5217.4,2.0,6.0,4263.0,1421.0,869.5666667,DESIERTO
+argentina,San Juan,"Zonda, San Juan",6683.0,2419.0,2.0,4.0,3341.5,1670.75,604.75,DESIERTO
+argentina,San Luis,"Ayacucho, San Luis",23913.0,8178.4,2.0,4.0,11956.5,5978.25,2044.6,DESIERTO
+argentina,San Luis,"Belgrano, San Luis",5583.0,8105.6,1.0,1.0,5583.0,5583.0,8105.6,DESIERTO
+argentina,San Luis,"Chacabuco, San Luis",26557.0,2416.7,4.0,14.0,6639.25,1896.928571,172.6214286,SEMIDESIERTO
+argentina,San Luis,"Coronel Pringles, San Luis",16049.0,3854.1,2.0,10.0,8024.5,1604.9,385.41,DESIERTO
+argentina,San Luis,"General Pedernera, San Luis",148875.0,14768.0,10.0,46.0,14887.5,3236.413043,321.0434783,SEMIBOSQUE
+argentina,San Luis,"Gobernador Dupuy, San Luis",14343.0,18323.7,2.0,4.0,7171.5,3585.75,4580.925,DESIERTO
+argentina,San Luis,"Juan M. de Pueyrredón, San Luis",261697.0,13569.0,13.0,122.0,20130.53846,2145.057377,111.2213115,SEMIBOSQUE
+argentina,San Luis,"Junín, San Luis",40361.0,2655.6,5.0,9.0,8072.2,4484.555556,295.0666667,SEMIDESIERTO
+argentina,San Luis,"Libertador General San Martín, San Luis",4691.0,3476.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santa Cruz,"Corpen Aike, Santa Cruz",15171.0,26251.0,4.0,13.0,3792.75,1167.0,2019.307692,DESIERTO
+argentina,Santa Cruz,"Deseado, Santa Cruz",126743.0,63133.0,26.0,133.0,4874.730769,952.9548872,474.6842105,SEMIBOSQUE
+argentina,Santa Cruz,"Güer Aike, Santa Cruz",137895.0,33650.0,16.0,103.0,8618.4375,1338.786408,326.6990291,BOSQUE
+argentina,Santa Cruz,"Lago Argentino, Santa Cruz",25586.0,38595.0,7.0,20.0,3655.142857,1279.3,1929.75,SEMIBOSQUE
+argentina,Santa Cruz,"Lago Buenos Aires, Santa Cruz",12606.0,28539.0,5.0,25.0,2521.2,504.24,1141.56,SEMIDESIERTO
+argentina,Santa Cruz,"Magallanes, Santa Cruz",12911.0,20323.0,3.0,10.0,4303.666667,1291.1,2032.3,SEMIDESIERTO
+argentina,Santa Cruz,"Río Chico, Santa Cruz",6314.0,33967.0,6.0,34.0,1052.333333,185.7058824,999.0294118,SEMIDESIERTO
+argentina,Santa Fe (Centro-Sur),"Belgrano, Santa Fe (Centro-Sur)",48781.0,2448.3,3.0,20.0,16260.33333,2439.05,122.415,DESIERTO
+argentina,Santa Fe (Centro-Sur),"Caseros, Santa Fe (Centro-Sur)",86912.0,3474.4,6.0,13.0,14485.33333,6685.538462,267.2615385,DESIERTO
+argentina,Santa Fe (Centro-Sur),"Constitución, Santa Fe (Centro-Sur)",93441.0,3226.9,6.0,22.0,15573.5,4247.318182,146.6772727,SEMIDESIERTO
+argentina,Santa Fe (Centro-Sur),"General López, Santa Fe (Centro-Sur)",201574.0,11458.0,12.0,47.0,16797.83333,4288.808511,243.787234,SEMIBOSQUE
+argentina,Santa Fe (Centro-Sur),"Iriondo, Santa Fe (Centro-Sur)",74504.0,3220.3,5.0,14.0,14900.8,5321.714286,230.0214286,DESIERTO
+argentina,Santa Fe (Centro-Sur),"Rosario, Santa Fe (Centro-Sur)",1348725.0,1867.3,13.0,355.0,103748.0769,3799.225352,5.26,BOSQUE
+argentina,Santa Fe (Centro-Sur),"San Jerónimo, Santa Fe (Centro-Sur)",87307.0,4436.2,9.0,107.0,9700.777778,815.953271,41.45981308,SEMIDESIERTO
+argentina,Santa Fe (Centro-Sur),"San Lorenzo, Santa Fe (Centro-Sur)",194580.0,2006.0,11.0,41.0,17689.09091,4745.853659,48.92682927,SEMIBOSQUE
+argentina,Santa Fe (Centro-Sur),"San Martín, Santa Fe (Centro-Sur)",67827.0,4934.8,7.0,23.0,9689.571429,2949.0,214.5565217,SEMIDESIERTO
+argentina,Santa Fe (Norte),"9 de Julio, Santa Fe (Norte)",30995.0,17310.5,4.0,18.0,7748.75,1721.944444,961.6944444,DESIERTO
+argentina,Santa Fe (Norte),"Castellanos, Santa Fe (Norte)",190577.0,6723.6,12.0,135.0,15881.41667,1411.681481,49.80444444,SEMIBOSQUE
+argentina,Santa Fe (Norte),"Garay, Santa Fe (Norte)",24927.0,4058.6,2.0,3.0,12463.5,8309.0,1352.866667,DESIERTO
+argentina,Santa Fe (Norte),"General Obligado, Santa Fe (Norte)",197986.0,11100.3,13.0,73.0,15229.69231,2712.136986,152.0589041,SEMIBOSQUE
+argentina,Santa Fe (Norte),"La Capital, Santa Fe (Norte)",572265.0,2977.2,16.0,517.0,35766.5625,1106.895551,5.75860735,BOSQUE
+argentina,Santa Fe (Norte),"Las Colonias, Santa Fe (Norte)",115740.0,6301.2,14.0,79.0,8267.142857,1465.063291,79.76202532,SEMIDESIERTO
+argentina,Santa Fe (Norte),"San Cristóbal, Santa Fe (Norte)",72801.0,14665.2,13.0,59.0,5600.076923,1233.915254,248.5627119,SEMIDESIERTO
+argentina,Santa Fe (Norte),"San Javier, Santa Fe (Norte)",33274.0,6694.3,10.0,27.0,3327.4,1232.37037,247.937037,SEMIDESIERTO
+argentina,Santa Fe (Norte),"San Justo, Santa Fe (Norte)",46665.0,5612.0,8.0,22.0,5833.125,2121.136364,255.0909091,SEMIDESIERTO
+argentina,Santa Fe (Norte),"Vera, Santa Fe (Norte)",56027.0,20734.0,6.0,11.0,9337.833333,5093.363636,1884.909091,DESIERTO
+argentina,Santiago del Estero,"Aguirre, Santiago del Estero",8970.0,4100.0,1.0,1.0,8970.0,8970.0,4100.0,DESIERTO
+argentina,Santiago del Estero,"Alberdi, Santiago del Estero",20104.0,12899.0,2.0,5.0,10052.0,4020.8,2579.8,DESIERTO
+argentina,Santiago del Estero,"Atamisqui, Santiago del Estero",14903.0,2416.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santiago del Estero,"Avellaneda, Santiago del Estero",25476.0,3812.0,1.0,1.0,25476.0,25476.0,3812.0,DESIERTO
+argentina,Santiago del Estero,"Banda, Santiago del Estero",170651.0,3461.0,4.0,11.0,42662.75,15513.72727,314.6363636,SEMIDESIERTO
+argentina,Santiago del Estero,"Belgrano, Santiago del Estero",10813.0,3338.0,2.0,7.0,5406.5,1544.714286,476.8571429,SEMIDESIERTO
+argentina,Santiago del Estero,"Capital, Santiago del Estero",330244.0,2125.0,21.0,227.0,15725.90476,1454.819383,9.36123348,SEMIBOSQUE
+argentina,Santiago del Estero,"Choya, Santiago del Estero",43692.0,6197.0,3.0,14.0,14564.0,3120.857143,442.6428571,SEMIDESIERTO
+argentina,Santiago del Estero,"Copo, Santiago del Estero",35653.0,13059.0,2.0,2.0,17826.5,17826.5,6529.5,DESIERTO
+argentina,Santiago del Estero,"Figueroa, Santiago del Estero",20270.0,7116.0,1.0,1.0,20270.0,20270.0,7116.0,DESIERTO
+argentina,Santiago del Estero,"General Taboada, Santiago del Estero",46508.0,6057.0,2.0,6.0,23254.0,7751.333333,1009.5,SEMIDESIERTO
+argentina,Santiago del Estero,"Guasayán, Santiago del Estero",9255.0,2663.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santiago del Estero,"Jiménez, Santiago del Estero",18625.0,5580.0,1.0,2.0,18625.0,9312.5,2790.0,DESIERTO
+argentina,Santiago del Estero,"Juan F. Ibarra, Santiago del Estero",20589.0,9253.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santiago del Estero,"Loreto, Santiago del Estero",24060.0,3117.0,2.0,9.0,12030.0,2673.333333,346.3333333,SEMIDESIERTO
+argentina,Santiago del Estero,"Mitre, Santiago del Estero",1440.0,3391.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santiago del Estero,"Moreno, Santiago del Estero",40460.0,16424.0,2.0,4.0,20230.0,10115.0,4106.0,DESIERTO
+argentina,Santiago del Estero,"Ojo de Agua, Santiago del Estero",15116.0,6400.0,1.0,6.0,15116.0,2519.333333,1066.666667,DESIERTO
+argentina,Santiago del Estero,"Pellegrini, Santiago del Estero",26193.0,6927.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santiago del Estero,"Quebrachos, Santiago del Estero",12354.0,3955.0,4.0,9.0,3088.5,1372.666667,439.4444444,SEMIDESIERTO
+argentina,Santiago del Estero,"Río Hondo, Santiago del Estero",66761.0,2048.0,3.0,10.0,22253.66667,6676.1,204.8,SEMIDESIERTO
+argentina,Santiago del Estero,"Rivadavia, Santiago del Estero",5315.0,3364.0,1.0,2.0,5315.0,2657.5,1682.0,DESIERTO
+argentina,Santiago del Estero,"Robles, Santiago del Estero",54015.0,1355.0,2.0,7.0,27007.5,7716.428571,193.5714286,DESIERTO
+argentina,Santiago del Estero,"Salavina, Santiago del Estero",12787.0,3172.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santiago del Estero,"San Martín, Santiago del Estero",11848.0,1793.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Santiago del Estero,"Sarmiento, Santiago del Estero",5038.0,1684.0,1.0,3.0,5038.0,1679.333333,561.3333333,DESIERTO
+argentina,Santiago del Estero,"Silípica, Santiago del Estero",9766.0,1231.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Tierra del Fuego,"Río Grande, Tierra del Fuego",99241.0,6567.8,25.0,78.0,3969.64,1272.320513,84.2025641,SEMIBOSQUE
+argentina,Tierra del Fuego,"Tolhuin, Tierra del Fuego",6039.0,6442.4,2.0,3.0,3019.5,2013.0,2147.466667,DESIERTO
+argentina,Tierra del Fuego,"Ushuaia, Tierra del Fuego",80371.0,7688.1,14.0,74.0,5740.785714,1086.094595,103.8932432,SEMIDESIERTO
+argentina,Tucumán,"Burruyacú, Tucumán",45476.0,3631.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Tucumán,"Capital, Tucumán",590342.0,91.0,28.0,321.0,21083.64286,1839.071651,0.2834890966,BOSQUE
+argentina,Tucumán,"Chicligasta, Tucumán",92608.0,1293.0,3.0,6.0,30869.33333,15434.66667,215.5,DESIERTO
+argentina,Tucumán,"Cruz Alta, Tucumán",228077.0,1209.0,6.0,25.0,38012.83333,9123.08,48.36,DESIERTO
+argentina,Tucumán,"Famaillá, Tucumán",42702.0,460.0,4.0,9.0,10675.5,4744.666667,51.11111111,DESIERTO
+argentina,Tucumán,"Graneros, Tucumán",15540.0,1691.0,0.0,0.0,0.0,0.0,0.0,DESIERTO
+argentina,Tucumán,"Juan Bautista Alberdi, Tucumán",34766.0,737.0,2.0,8.0,17383.0,4345.75,92.125,DESIERTO
+argentina,Tucumán,"La Cocha, Tucumán",21218.0,956.0,3.0,14.0,7072.666667,1515.571429,68.28571429,DESIERTO
+argentina,Tucumán,"Leales, Tucumán",66392.0,1972.0,0.0,0.0,22130.66667,4742.285714,140.8571429,DESIERTO
+argentina,Tucumán,"Lules, Tucumán",93552.0,617.0,2.0,2.0,46776.0,46776.0,308.5,DESIERTO
+argentina,Tucumán,"Monteros, Tucumán",77551.0,1191.0,4.0,22.0,19387.75,3525.045455,54.13636364,SEMIDESIERTO
+argentina,Tucumán,"Río Chico, Tucumán",64962.0,612.0,1.0,5.0,64962.0,12992.4,122.4,DESIERTO
+argentina,Tucumán,"Simoca, Tucumán",36973.0,1338.0,2.0,2.0,18486.5,18486.5,669.0,DESIERTO
+argentina,Tucumán,"Tafí del Valle, Tucumán",22440.0,2454.0,3.0,15.0,7480.0,1496.0,163.6,DESIERTO
+argentina,Tucumán,"Tafí Viejo, Tucumán",172986.0,1175.1,10.0,40.0,17298.6,4324.65,29.3775,SEMIDESIERTO
+argentina,Tucumán,"Trancas, Tucumán",23494.0,3016.0,1.0,4.0,23494.0,5873.5,754.0,DESIERTO
+argentina,Tucumán,"Yerba Buena, Tucumán",102741.0,149.0,6.0,40.0,17123.5,2568.525,3.725,SEMIDESIERTO

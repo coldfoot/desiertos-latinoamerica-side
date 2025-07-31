@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualizador JSON + Diff por Campo (Limpando Tags)</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/diff-match-patch"></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2rem; background: #f9f9f9; }
+    select, button { padding: 0.5rem; margin: 1rem 0; }
+    textarea { width: 100%; height: 120px; margin-top: 0.5rem; }
+    .output { background: #fff; padding: 1rem; border: 1px solid #ccc; border-radius: 5px; margin-top: 1rem; }
+    pre { background: #eee; padding: 1rem; border-radius: 4px; white-space: pre-wrap; }
+    h4 { margin-top: 1rem; }
+    .diff-added { background-color: #026202; }
+    .diff-removed { background-color: #890000; text-decoration: line-through; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+
+<h2>Visualizador JSON - Diff por Campo (a partir de TITLE, ignorando HTML)</h2>
+
+<label for="keySelector">Seleciona uma unidade (País | Nome):</label>
+<select id="keySelector"></select>
+
+<div id="output" class="output"></div>
+
+<script>
+let dataRows = [];
+let currentKey = '';
+
+// Load data from data.json instead of CSV
+fetch("../../data.json").then(response => response.json()).then(function(data) {
+  // Transform the JSON structure to match the expected format
+  dataRows = transformJsonToRows(data);
+  populateSelector();
+}).catch(function(error) {
+  console.error("Erro ao carregar JSON:", error);
+});
+
+function transformJsonToRows(jsonData) {
+  const rows = [];
+  
+  // Process each country
+  Object.keys(jsonData).forEach(country => {
+    const countryData = jsonData[country];
+    
+    // Add country-level data
+    if (countryData.country && countryData.country[0]) {
+      const countryRow = countryData.country[0];
+      if (countryRow.NARRATIVE) {
+        rows.push({
+          LEVEL: 'country',
+          COUNTRY: country,
+          NAME: country,
+          PARENT: '',
+          KEY: country,
+          TITLE: countryRow.NARRATIVE.TITLE || '',
+          MEDIO: countryRow.NARRATIVE.MEDIO || '',
+          DATE: countryRow.NARRATIVE.DATE || '',
+          AUTHOR: countryRow.NARRATIVE.AUTHOR || '',
+          TEASER: countryRow.NARRATIVE.TEASER || '',
+          RELATO: countryRow.NARRATIVE.RELATO || ''
+        });
+      }
+    }
+    
+    // Add large units (provinces/states) data
+    if (countryData.large_units) {
+      countryData.large_units.forEach(unit => {
+        if (unit.NARRATIVE) {
+          rows.push({
+            LEVEL: 'large_unit',
+            COUNTRY: country,
+            NAME: unit.BASIC_INFO.NAME,
+            PARENT: unit.BASIC_INFO.PARENT || country,
+            KEY: unit.BASIC_INFO.KEY,
+            TITLE: unit.NARRATIVE.TITLE || '',
+            MEDIO: unit.NARRATIVE.MEDIO || '',
+            DATE: unit.NARRATIVE.DATE || '',
+            AUTHOR: unit.NARRATIVE.AUTHOR || '',
+            TEASER: unit.NARRATIVE.TEASER || '',
+            RELATO: unit.NARRATIVE.RELATO || ''
+          });
+        }
+      });
+    }
+    
+    // Add small units (municipalities/cities) data
+    if (countryData.small_units) {
+      countryData.small_units.forEach(unit => {
+        if (unit.NARRATIVE) {
+          rows.push({
+            LEVEL: 'small_unit',
+            COUNTRY: country,
+            NAME: unit.BASIC_INFO.NAME,
+            PARENT: unit.BASIC_INFO.PARENT || '',
+            KEY: unit.BASIC_INFO.KEY,
+            TITLE: unit.NARRATIVE.TITLE || '',
+            MEDIO: unit.NARRATIVE.MEDIO || '',
+            DATE: unit.NARRATIVE.DATE || '',
+            AUTHOR: unit.NARRATIVE.AUTHOR || '',
+            TEASER: unit.NARRATIVE.TEASER || '',
+            RELATO: unit.NARRATIVE.RELATO || ''
+          });
+        }
+      });
+    }
+  });
+  
+  return rows;
+}
+
+function populateSelector() {
+  const selector = document.getElementById('keySelector');
+  selector.innerHTML = '';
+
+  // Cria uma lista de opções baseadas em (COUNTRY, NAME)
+  const options = dataRows.map(row => {
+    return {
+      key: `${row.COUNTRY} | ${row.NAME}`,
+      country: row.COUNTRY,
+      name: row.NAME
+    }
+  });
+
+  // Remove duplicatas
+  const uniqueOptions = Array.from(new Set(options.map(o => o.key)))
+    .sort((a, b) => a.localeCompare(b));
+
+  uniqueOptions.forEach(opt => {
+    const option = document.createElement('option');
+    option.value = opt;
+    option.textContent = opt;
+    selector.appendChild(option);
+  });
+
+  selector.addEventListener('change', renderSelected);
+  if (uniqueOptions.length > 0) {
+    selector.selectedIndex = 0;
+    renderSelected();
+  }
+}
+
+function renderSelected() {
+  currentKey = document.getElementById('keySelector').value;
+  // Extrai país e nome da chave composta
+  const [country, name] = currentKey.split(' | ');
+  
+  // Encontra a linha correspondente
+  const row = dataRows.find(r => 
+    r.COUNTRY === country && r.NAME === name
+  );
+
+  const output = document.getElementById('output');
+  output.innerHTML = '';
+
+  if (!row) {
+    output.innerHTML = '<p>Não achei dados para essa unidade.</p>';
+    return;
+  }
+
+  let startDiff = false;
+
+  for (const field in row) {
+    if (field.trim() === 'TITLE') startDiff = true;
+    if (!startDiff) continue;
+
+    const fieldValue = row[field] || '';
+    const fieldId = `diff_input_${field}`;
+    const hiddenId = `hidden_original_${field}`;
+
+    output.innerHTML += `
+      <h4>${field}:</h4>
+      ${field === 'RELATO' || field === 'TEASER' || field === 'MEDIO' ? 
+        `<div>${fieldValue}</div>` : 
+        `<pre>${fieldValue}</pre>`
+      }
+
+      <textarea id="${fieldId}" placeholder="Cola aqui tua versão para '${field}'..."></textarea>
+      <br>
+      <button onclick="runDiff('${field}')">Comparar '${field}'</button>
+      <div id="diff_result_${field}" class="output"></div>
+      <div id="${hiddenId}" class="hidden">${fieldValue.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</div>
+    `;
+  }
+}
+
+function stripHTML(html) {
+  const tmp = document.createElement("div");
+  tmp.innerHTML = html;
+  return tmp.textContent || tmp.innerText || "";
+}
+
+function runDiff(fieldName) {
+  const inputId = `diff_input_${fieldName}`;
+  const hiddenId = `hidden_original_${fieldName}`;
+  const userText = document.getElementById(inputId).value.trim();
+  const originalHTML = document.getElementById(hiddenId).innerHTML.replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+  const originalText = stripHTML(originalHTML).trim();
+
+  const dmp = new diff_match_patch();
+  const diffs = dmp.diff_main(originalText, userText);
+  dmp.diff_cleanupSemantic(diffs);
+
+  let diffHtml = `<h3>Diff para campo: ${fieldName}</h3><div style="white-space:pre-wrap;">`;
+  diffs.forEach(([op, text]) => {
+    const safeText = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    if (op === 1) {
+      diffHtml += `<span class="diff-added">${safeText}</span>`;
+    } else if (op === -1) {
+      diffHtml += `<span class="diff-removed">${safeText}</span>`;
+    } else {
+      diffHtml += safeText;
+    }
+  });
+  diffHtml += '</div>';
+
+  document.getElementById('diff_result_' + fieldName).innerHTML = diffHtml;
+}
+</script>
+
+</body>
+</html> 

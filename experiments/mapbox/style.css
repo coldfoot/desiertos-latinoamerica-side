@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+select#countries {
+
+    position: fixed;
+    top: 1em;
+    left: 1em;
+
+}
+
+.container {
+    border: 3px solid green;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items:stretch;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container > div {
+
+    flex: 0 0 50%;
+
+    border: 2px solid tomato;
+
+}
+
+.map {
+
+    background-color: cornsilk;
+}
+
+.text-container {
+
+    background-color: khaki;
+    position: relative;
+}
+
+.container-nav {
+
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 60%;
+    transform: translateY(-50%);
+    margin: 0;
+
+}
+
+.nav-item {
+
+    padding: 1em;
+    list-style: none;
+    background-color: #333;
+    font-size: 1.5rem;
+    color: white;
+
+}
+
+.nav-item + .nav-item {
+
+    margin-top: 1em;
+
+}

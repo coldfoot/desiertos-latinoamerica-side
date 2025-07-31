@@ -41,68 +41,69 @@ console.log(countries);
 const basic_output_dir = './static/';
 
 // loop through countries
-countries.forEach(country => {
+(async () => {
+    countries.forEach(country => {
 
-    let output_dir = basic_output_dir + country;
-    if (!fs.existsSync(output_dir)) fs.mkdirSync(output_dir);
+        let output_dir = basic_output_dir + country;
+        if (!fs.existsSync(output_dir)) fs.mkdirSync(output_dir);
 
-    console.log(country, output_dir);
+        console.log(country, output_dir);
 
-    const mini_data = data[country].large_units;
+        const mini_data = data[country].large_units;
 
-    // loop through provincias
-    mini_data.forEach( (provincia_data, i) => {
+        // loop through provincias
+        mini_data.forEach( (provincia_data, i) => {
 
-        if (i > 2) return
+            if (i > 2) return
 
-        const name = provincia_data.BASIC_INFO.NAME;
-        const key = provincia_data.BASIC_INFO.KEY;
-        const narrative = provincia_data.NARRATIVE;
+            const name = provincia_data.BASIC_INFO.NAME;
+            const key = provincia_data.BASIC_INFO.KEY;
+            const narrative = provincia_data.NARRATIVE;
 
-        const dom = new JSDOM(template);
-        const document = dom.window.document;
+            const dom = new JSDOM(template);
+            const document = dom.window.document;
 
-        const tags = document.querySelectorAll("[data-relato-modal-campo]");
+            const tags = document.querySelectorAll("[data-relato-modal-campo]");
 
-        // fills main tags
-        tags.forEach(tag => {
+            // fills main tags
+            tags.forEach(tag => {
 
-            const field = tag.dataset.relatoModalCampo;
-            console.log(field);
+                const field = tag.dataset.relatoModalCampo;
+                console.log(field);
 
-            tag.innerHTML = narrative[field];        
-        });
+                tag.innerHTML = narrative[field];        
+            });
 
-        // fills place title
-        document.querySelector(".static-page-place-name").innerHTML = name;
+            // fills place title
+            document.querySelector(".static-page-place-name").innerHTML = name;
 
-        // creates the directory
-        const dir_name = slugify(name);
-        const unit_dir = path.join(output_dir, dir_name);
-        console.log(unit_dir);
-        if (!fs.existsSync(unit_dir)) fs.mkdirSync(unit_dir);
+            // creates the directory
+            const dir_name = slugify(name);
+            const unit_dir = path.join(output_dir, dir_name);
+            console.log(unit_dir);
+            if (!fs.existsSync(unit_dir)) fs.mkdirSync(unit_dir);
 
-        // defines the url
-        const basic_url = "https://desiertosinformativos.fundaciongabo.org/static/";
+            // defines the url
+            const basic_url = "https://desiertosinformativos.fundaciongabo.org/static/";
 
-        const url = basic_url + country + '/' + dir_name;
-        console.log(url);
+            const url = basic_url + country + '/' + dir_name;
+            console.log(url);
 
-        // updates meta tags
-        document.querySelector("title").innerHTML = "Desiertos de Noticias Locales &mdash; " + name;
-        document.querySelector("[property='og:title']").setAttribute("title", "Desiertos de Noticias Locales &mdash; " + name);
+            // updates meta tags
+            document.querySelector("title").innerHTML = "Desiertos de Noticias Locales &mdash; " + name;
+            document.querySelector("[property='og:title']").setAttribute("title", "Desiertos de Noticias Locales &mdash; " + name);
 
-        document.querySelector("[name='description']").innerHTML = `${name} (${country_names[country]}): ${narrative.TITLE}`;
-        document.querySelector("[property='og:description']").setAttribute("content", `${name} (${country_names[country]}): ${narrative.TITLE}`);
+            document.querySelector("[name='description']").innerHTML = `${name} (${country_names[country]}): ${narrative.TITLE}`;
+            document.querySelector("[property='og:description']").setAttribute("content", `${name} (${country_names[country]}): ${narrative.TITLE}`);
 
-        document.querySelector("[property='og:url']").setAttribute("content", url);
+            document.querySelector("[property='og:url']").setAttribute("content", url);
 
-        // writes the HTML file.
-        const output_path = path.join(unit_dir, "index.html");
-        fs.writeFileSync(output_path, dom.serialize(), 'utf-8');
-        console.log(`Generated ${output_path}`);
+            // writes the HTML file.
+            const output_path = path.join(unit_dir, "index.html");
+            fs.writeFileSync(output_path, dom.serialize(), 'utf-8');
+            console.log(`Generated ${output_path}`);
+
+        })
 
     })
-
-
-})
+})();

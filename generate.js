@@ -40,7 +40,7 @@ function slugify(name) {
         .replace(/\s+/g, "_")               // replace whitespace with underscores
         .replace(/[^a-zA-Z0-9_]/g, "")      // remove all other special characters
         .toLowerCase();                     // lowercase
-    }
+}
 
 // Load JSON data
 const data = JSON.parse(fs.readFileSync('data.json', 'utf-8'));
@@ -124,7 +124,9 @@ countries.forEach(country => {
         img_url += `&setfilter=%5B%22==%22,%22KEY%22,%22${provincia_data.BASIC_INFO.KEY}%22%5D`;
         img_url += `&layer_id=${country}-provincia-border`;
 
-        console.log(img_url);
+        // Populate link to dashboard
+        const dashboard_link = "../../../dashboard/index.html?ubicacion=" + key;
+        document.querySelector(".link-to-dashboard").setAttribute("href", dashboard_link);
 
         //  Save map image in folder
         const image_path = path.join(unit_dir, "map.png");

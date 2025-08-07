@@ -3,7 +3,7 @@ library(jsonlite)
 library(sf)
 library(geojsonsf)
 
-argentina <- st_read("argentina-large-units.geojson")
+argentina <- st_read("./data-prep/argentina-small-units.geojson")
 
 provincias_buenos_aires <- c("Buenos-Aires-Conurbano__argentina", "Buenos-Aires-Zona-2__argentina", "Buenos-Aires-Zona-3__argentina")
 

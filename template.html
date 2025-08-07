@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="../../../style.css">
 
 </head>
-<body class="secondary-pages-wrapper">
+<body class="secondary-pages-wrapper static-pages">
 
     <header class="top-bar-secondary-pages">
 
@@ -49,22 +49,53 @@
 
     </header>
 
+    <div class="map-wrapper-full-bleed">
+        <img src="map.png" alt="Mapa de la provincia" class="static-page-map">
+    </div>
+
     <div class="container-relato-static">
 
         <div class="modal-relato-wrapper-text">
 
-            <h2 class="static-page-place-name">Place name</h2>
+            <div class="menu-tipo-paisage-wrapper">
+                <div class="menu-tipo-paisage"> <!--tipo-paisage-has-selection-->
+                    <div data-tipo-paisage="desierto"> <!--class="tipo-paisage-selected"-->
+                        <div class="img-paisage-container">
+                            <img src="../../../img/icon-desierto.svg" alt="" data-icone="desierto">
+                        </div>
+                        <p class="description-tipo-paisage">Desiertos</p>
+                    </div>
+                    <div data-tipo-paisage="semidesierto">
+                        <div class="img-paisage-container">
+                            <img src="../../../img/icon-semidesierto.svg" alt="" data-icone="semidesierto">
+                        </div>
+                        <p class="description-tipo-paisage">Semidesiertos</p>
+                    </div>
+                    <div data-tipo-paisage="semibosque">
+                        <div class="img-paisage-container">
+                            <img src="../../../img/icon-semibosque.svg" alt="" data-icone="semibosque">
+                        </div>
+                        <p class="description-tipo-paisage">Semibosques</p>
+                    </div>
+                    <div data-tipo-paisage="bosque">
+                        <div class="img-paisage-container">
+                            <img src="../../../img/icon-bosque.svg" alt="" data-icone="bosque">
+                        </div>
+                        <p class="description-tipo-paisage">Bosques</p>
+                    </div>
+                </div>
+            </div>
 
-            <img src="map.png" alt="Mapa de la provincia" class="static-page-map">
+            <h2 class="static-page-place-name">Place name</h2>
 
             <h4 class="chapeu-relato">Informe | 
                 <span class="chapeu-relato-author" data-relato-modal-campo="AUTHOR">Author</span></h4>
             <h3 data-relato-modal-campo="TITLE">Informe</h3>
             <!-- <h3 data-relato-modal-campo="TITLE">Relato de investigación</h3> -->
-            <p data-relato-modal-campo="TEASER">Teaser</p>
+            <div data-relato-modal-campo="MEDIO">Medio</div>
             <div data-relato-modal-campo="RELATO" class="relato-modal-content">Relato</div>
 
-            <a class="link-to-dashboard" href="">Ver en el mapa interactivo!</a>
+            <a class="link-to-dashboard" href="">Ver en el mapa interactivo</a>
 
             <div class="logo-wrapper-modal">
                 <img src="../../../img/logo-gabo.png" alt="Logo de Fundación Gabo" class="logo">

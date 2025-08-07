@@ -320,3 +320,6 @@ mapbox://styles/tiagombp/cmdrid0x700jq01qp87mp2zap
 
 https://api.mapbox.com/styles/v1/tiagombp/cmdq1xmlj00kf01s275sy99eq/static/%5B-69.095264,-30.119602,-64.780965,-25.168313%5D/600x600?padding=50&access_token=pk.eyJ1IjoidGlhZ29tYnAiLCJhIjoiY2thdjJmajYzMHR1YzJ5b2huM2pscjdreCJ9.oT7nAiasQnIMjhUB-VFvmw&setfilter=[%22==%22,%22KEY%22,%22Catamarca__argentina%22]&layer_id=argentina-provincia-border
 
+
+
+vou me orgulhar da ideia de por um [data-view] e um [data-country] no body do HTML, pq fica super fácil de controlar o que aparece e o que some em cada nível / país. Só especificar no css, o código só precisa se preocupar em setar o view e o country direito.

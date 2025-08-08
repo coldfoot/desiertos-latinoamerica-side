@@ -21,7 +21,8 @@ const countries_layers = {
     "argentina" : "tiagombp/cmdrid0x700jq01qp87mp2zap",
     "chile" : "tiagombp/cmdrie7bu00qp01s2cv7k0ru8",
     "mexico" : "tiagombp/cmdrikfj7004101rscaf65mph",
-    "peru" : "tiagombp/cmdrifo7j003201s801gnetgs"
+    "peru" : "tiagombp/cmdrifo7j003201s801gnetgs",
+    "colombia" : ""
 }
 
 const country_names = {
@@ -61,7 +62,10 @@ countries.forEach(country => {
 
     console.log(country, output_dir);
 
-    const mini_data = data[country].large_units;
+    let mini_data;
+    
+    if (country == "colombia") mini_data = data[country].small_units;
+    else mini_data = data[country].large_units;
 
     // loop through provincias
     mini_data.forEach(async (provincia_data, i) => {
@@ -74,6 +78,9 @@ countries.forEach(country => {
 
         const dom = new JSDOM(template);
         const document = dom.window.document;
+
+        //adds country to data attribute
+        document.querySelector("body").dataset.country = country;
 
         const tags = document.querySelectorAll("[data-relato-modal-campo]");
 
@@ -111,30 +118,41 @@ countries.forEach(country => {
         document.querySelector("[property='og:url']").setAttribute("content", url);
         document.querySelector("[property='og:image']").setAttribute("content", url + '/map.png');
 
-        // builds URL to fetch map from Mapbox Image API
-
-        // #[lon(min),lat(min),lon(max),lat(max)]
-        const img_bbox = `%5B${provincia_data.BBOX.minx},${provincia_data.BBOX.miny},${provincia_data.BBOX.maxx},${provincia_data.BBOX.maxy}%5D`;
-
-        let img_url = "https://api.mapbox.com/styles/v1/";
-
-        img_url += countries_layers[country] + "/static/";
-        img_url += img_bbox;
-        img_url += "/600x600/?padding=25&access_token=pk.eyJ1IjoidGlhZ29tYnAiLCJhIjoiY2thdjJmajYzMHR1YzJ5b2huM2pscjdreCJ9.oT7nAiasQnIMjhUB-VFvmw";
-        img_url += `&setfilter=%5B%22==%22,%22KEY%22,%22${provincia_data.BASIC_INFO.KEY}%22%5D`;
-        img_url += `&layer_id=${country}-provincia-border`;
-
         // Populate link to dashboard
         const dashboard_link = "../../../dashboard/index.html?ubicacion=" + key;
         document.querySelector(".link-to-dashboard").setAttribute("href", dashboard_link);
 
-        //  Save map image in folder
-        const image_path = path.join(unit_dir, "map.png");
-        try {
-            await download_image(img_url, image_path);
-            console.log(`Downloaded map for ${provincia_data.BASIC_INFO.KEY}`);
-        } catch (err) {
-            console.error(`Failed to get map for ${provincia_data.BASIC_INFO.KEY}:`, err.message);
+        if (country != "colombia") {
+
+            // builds URL to fetch map from Mapbox Image API
+
+            // #[lon(min),lat(min),lon(max),lat(max)]
+            
+            const img_bbox = `%5B${provincia_data.BBOX.minx},${provincia_data.BBOX.miny},${provincia_data.BBOX.maxx},${provincia_data.BBOX.maxy}%5D`;
+
+            let img_url = "https://api.mapbox.com/styles/v1/";
+
+            img_url += countries_layers[country] + "/static/";
+            img_url += img_bbox;
+            img_url += "/600x600/?padding=25&access_token=pk.eyJ1IjoidGlhZ29tYnAiLCJhIjoiY2thdjJmajYzMHR1YzJ5b2huM2pscjdreCJ9.oT7nAiasQnIMjhUB-VFvmw";
+            img_url += `&setfilter=%5B%22==%22,%22KEY%22,%22${provincia_data.BASIC_INFO.KEY}%22%5D`;
+            img_url += `&layer_id=${country}-provincia-border`;
+
+            //  Save map image in folder
+            const image_path = path.join(unit_dir, "map.png");
+            try {
+                await download_image(img_url, image_path);
+                console.log(`Downloaded map for ${provincia_data.BASIC_INFO.KEY}`);
+            } catch (err) {
+                console.error(`Failed to get map for ${provincia_data.BASIC_INFO.KEY}:`, err.message);
+            }
+
+        } else {
+
+            document.querySelector("img.static-page-map").setAttribute("src", "");
+
+            console.log("No maps for Colombia.");
+
         }
         
         // writes the HTML file.

@@ -127,36 +127,39 @@ Gooey Effect: https://css-tricks.com/gooey-effect/
 
 Deixar key, xc, yc, bbox?
 
+[ ] fazer scrolly funcionar para colombia
+[ ] páginas estáticas das províncias com múltiplos relatos (Argentina)
+[ ] search bar, popular direito. não pesquisar no nome da Província?
+
 [ ] Marcadores para ilhas do Chile
-[ ] Mapas estáticos para relatos
-[ ] Rótulos da viz para textos longos... (Buenos Aires)
+[x] Mapas estáticos para relatos
+[x] Rótulos da viz para textos longos... (Buenos Aires)
 [x] fazer menu paisage funcionar com Colombia.
 [x] Estilizar scrolly,
 [x] Atualizar texto do scrolly
 [x] icones colombia
 [x] Mapa Mexico
 [x] Formatar número pop scrolly
-[ ] fazer scrolly funcionar para colombia
 [x] Parametrizar "provincia" / "estado" no scroller
 [x] Fazer a página sempre voltar pro alto
 [x] Mobile
 [x] Completar "topics"
 [x] Ajeitar relato
 [x] Estilizar "datos"
-[ ] Download CSV
+[x] Download CSV
 [ ] Download PNG
 [x] Não Subtítulos programáticos na visualização?
 [x] btn_leer_mas_colombia precisa de um listener diferente?
 [x] popular dados da colombia no search
 [x] corrigir search da colombia
-[ ] dados anteriores argentina
+[x] dados anteriores argentina
 
 [x] Definit opacity, stroke-width no próprio svg com d3?
 
 [x] Visualizações!
 [x] Trocar bolhas por símbolos.
 [x] Modal Relato
-[ ] Refinar CSS Dash
+[x] Refinar CSS Dash
 [x] Incluir caixas informativas.
 [x] Ajustes no design, para aproximar
 [x] visao inicial latam, pq esse zoom ridículo?

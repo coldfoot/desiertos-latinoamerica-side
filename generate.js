@@ -9,7 +9,7 @@ async function download_image(img_url, filepath) {
         throw new Error(`Failed to fetch image: ${response.statusText}`);
     }
 
-    console.log(response);
+    //console.log(response);
 
     const arrayBuffer = await response.arrayBuffer();
     const buffer = Buffer.from(arrayBuffer);
@@ -19,18 +19,18 @@ async function download_image(img_url, filepath) {
 
 const countries_layers = {
     "argentina" : "tiagombp/cmdrid0x700jq01qp87mp2zap",
-    "chile" : "tiagombp/cmdrie7bu00qp01s2cv7k0ru8",
-    "mexico" : "tiagombp/cmdrikfj7004101rscaf65mph",
-    "peru" : "tiagombp/cmdrifo7j003201s801gnetgs",
-    "colombia" : ""
+    //"chile" : "tiagombp/cmdrie7bu00qp01s2cv7k0ru8",
+    //"mexico" : "tiagombp/cmdrikfj7004101rscaf65mph",
+    //"peru" : "tiagombp/cmdrifo7j003201s801gnetgs",
+    //"colombia" : ""
 }
 
 const country_names = {
     "argentina" : "Argentina",
-    "chile" : "Chile",
-    "colombia" : "Colombia",
-    "mexico" : "México",
-    "peru" : "Perú"
+    //"chile" : "Chile",
+    //"colombia" : "Colombia",
+    //"mexico" : "México",
+    //"peru" : "Perú"
 }
 
 function slugify(name) {
@@ -50,7 +50,6 @@ const data = JSON.parse(fs.readFileSync('data.json', 'utf-8'));
 const template = fs.readFileSync('template.html', 'utf-8');
 
 const countries = Object.keys(countries_layers);
-console.log(countries);
 
 const basic_output_dir = './static/';
 
@@ -60,17 +59,50 @@ countries.forEach(country => {
     let output_dir = basic_output_dir + country;
     if (!fs.existsSync(output_dir)) fs.mkdirSync(output_dir);
 
-    console.log(country, output_dir);
-
     let mini_data;
     
     if (country == "colombia") mini_data = data[country].small_units;
     else mini_data = data[country].large_units;
 
+    if (country == "argentina") {
+
+        const provincias_problematicas = mini_data.filter(d => ["Buenos Aires", "Córdoba", "Santa Fe"].includes(d.BASIC_INFO.NAME));
+
+        console.log(provincias_problematicas.length);
+
+        mini_data = mini_data.filter(d => !["Buenos Aires", "Córdoba", "Santa Fe"].includes(d.BASIC_INFO.NAME));
+
+        console.log(mini_data.length);
+
+        provincias_problematicas.forEach(provincia_problematica => {
+
+            const nomes_subprovincias = Object.keys(provincia_problematica.NARRATIVE);
+
+            console.log(nomes_subprovincias);
+
+            nomes_subprovincias.forEach(subprovincia => {
+                // Clone BASIC_INFO to avoid mutating the original object
+                const new_data = {
+                    BASIC_INFO: { ...provincia_problematica.BASIC_INFO, NAME: subprovincia },
+                    BBOX: provincia_problematica.BBOX,
+                    NARRATIVE: provincia_problematica.NARRATIVE[subprovincia]
+                };
+
+                console.log(subprovincia, new_data.BASIC_INFO);
+
+                mini_data.push(new_data);
+            });
+
+        })
+    
+    } 
+
+    console.log(mini_data.length);
+
     // loop through provincias
     mini_data.forEach(async (provincia_data, i) => {
 
-        if (i > 2) return
+        //if (i > 2) return
 
         const name = provincia_data.BASIC_INFO.NAME;
         const key = provincia_data.BASIC_INFO.KEY;
@@ -88,7 +120,6 @@ countries.forEach(country => {
         tags.forEach(tag => {
 
             const field = tag.dataset.relatoModalCampo;
-            console.log(field);
 
             tag.innerHTML = narrative[field];        
         });
@@ -99,14 +130,14 @@ countries.forEach(country => {
         // creates the directory
         const dir_name = slugify(name);
         const unit_dir = path.join(output_dir, dir_name);
-        console.log(unit_dir);
+        console.log(name, key, unit_dir);
         if (!fs.existsSync(unit_dir)) fs.mkdirSync(unit_dir);
 
         // defines the url
         const basic_url = "https://desiertosinformativos.fundaciongabo.org/static/";
 
         const url = basic_url + country + '/' + dir_name;
-        console.log(url);
+        //console.log(url);
 
         // updates meta tags
         document.querySelector("title").innerHTML = "Desiertos de Noticias Locales &mdash; " + name;

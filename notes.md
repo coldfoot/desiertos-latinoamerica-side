@@ -128,7 +128,7 @@ Gooey Effect: https://css-tricks.com/gooey-effect/
 Deixar key, xc, yc, bbox?
 
 [ ] fazer scrolly funcionar para colombia
-[ ] páginas estáticas das províncias com múltiplos relatos (Argentina)
+[x] páginas estáticas das províncias com múltiplos relatos (Argentina)
 [ ] search bar, popular direito. não pesquisar no nome da Província?
 
 [ ] Marcadores para ilhas do Chile

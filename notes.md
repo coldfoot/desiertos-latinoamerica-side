@@ -125,11 +125,11 @@ Gooey Effect: https://css-tricks.com/gooey-effect/
 
 # To-do
 
-Deixar key, xc, yc, bbox?
+[ ] Tratar resizes. Tratar padding tamanho de tela intermediário.
 
-[ ] fazer scrolly funcionar para colombia
+[x] fazer scrolly funcionar para colombia
 [x] páginas estáticas das províncias com múltiplos relatos (Argentina)
-[ ] search bar, popular direito. não pesquisar no nome da Província?
+[x] search bar, popular direito. não pesquisar no nome da Província?
 
 [ ] Marcadores para ilhas do Chile
 [x] Mapas estáticos para relatos

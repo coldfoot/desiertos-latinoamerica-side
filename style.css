@@ -50,6 +50,7 @@
     --color-map: #e7e7e8;
     --bege-escuro: #F6E9CD;
     --bege-fundo: #F9F1E3;
+    --bege-mapa: #f9ebd2;
     --preto: #4c4c4c;
     --red: #EA4A26;
     --bg-box-mobile: #FFFFFFCF;
@@ -262,9 +263,15 @@ header.show-menu .btn-menu-content {
     width: 100%;
     height: 100vh;
     position: relative;
-    scroll-snap-align: start;
     color: var(--color-text);
+}
 
+.text-slide {
+    scroll-snap-align: start;
+}
+
+.text-slide#country-selection {
+    scroll-snap-type: none;
 }
 
 /***** Opening *****/
@@ -304,6 +311,21 @@ header.show-menu .btn-menu-content {
     padding: 1rem 2rem;
     filter: url('#goo');
     color: var(--color-bg);
+}
+
+@media screen and (min-width: 900px) and (max-height: 720px) {
+  [data-slide="opening"] h1.goo {
+    padding: .5rem 1rem;
+    font-size: 56px;
+  }
+
+  [data-slide="opening"] h1.goo br {
+    display: none;
+  }
+
+  [data-slide="opening"] * + * {
+    margin-top: 16px;   
+  }
 }
 
 [data-slide="opening"] .subtitle, 
@@ -509,6 +531,19 @@ span.highlight {
     text-decoration: inherit;
 }
 
+/* story colombia */
+.colombia {
+    display: none;
+}
+
+[data-flag="colombia"] .colombia {
+    display: block;
+}
+
+[data-flag="colombia"] .exceto-colombia {
+    display: none;
+}
+
 
 /******* DASHBOARD *********/
 
@@ -567,7 +602,7 @@ div.title-wrapper a {
 }
 
 .logo-wrapper .logo {
-    height: 2rem;
+    height: 2.2rem;
     display: block;
 }
 
@@ -791,21 +826,39 @@ p.description-tipo-paisage {
 }
 
 .place-paisage-composition-argentina-2021,
-button.argentina-ver-datos-2021 {
+.argentina-barchart-title {
     display: none;
+}
+
+.argentina-barchart-title {
+    margin-bottom: 2px;
+    margin-top: 8px;
+    font-family: nagel;
+    font-weight: bold;
+}
+
+.argentina-barchart-title:first-of-type {
+    margin-top: 0;
 }
 
 .place-paisage-composition-argentina-2021 {
     margin-top: 5px;
-    opacity: .8;
+    /*opacity: .8;*/
 }
 
-[data-country="argentina"] .toggle-year-for-argentina,
-[data-country="argentina"] button.argentina-ver-datos-2021.btn-barchart-active {
+[data-country="argentina"] .toggle-year-for-argentina {
     display: initial;
 }
 
-button.argentina-ver-datos-2021 {
+[data-country="argentina"] p.argentina-barchart-title {
+    display: block;
+}
+
+[data-country="argentina"] h4.chapeu-barras {
+    display: none;
+}
+
+p.argentina-barchart-tile {
     height: 1.5rem;
     text-transform: uppercase;
     font-family: nagel;
@@ -1084,11 +1137,15 @@ span[data-resumen-tipo-classificacao] {
     font-weight: 500;
 }
 
+[data-country="colombia"] [data-summary-field="NEWS_ORG_COUNT"] strong::after {
+    content: " IDENTIFICADOS"
+}
+
 
 /* BARCHART PAISAGE COMPOSITION */
 
 [data-country="colombia"] .place-paisage-composition-wrapper,
-/*[data-country="colombia"] .wrapper-btns-nav,*/
+[data-country="colombia"] .wrapper-btns-nav,
 [data-country="colombia"] .resumen-wrapper,
 [data-country="colombia"] .leer-provincia-wrapper,
 [data-country="colombia"] .content-divider {
@@ -1096,7 +1153,7 @@ span[data-resumen-tipo-classificacao] {
 }
 
 .place-paisage-composition,
-[data-country="argentina"] .place-paisage-composition-argentina-2021.barchart-active {
+[data-country="argentina"] .place-paisage-composition-argentina-2021 {
     display: flex;
     flex-direction: row;
     font-family: nagel;
@@ -1238,6 +1295,11 @@ p.teaser {  /******** ARRUMAR ISSO NOS DADOS, TIRAR AS TAGAS ***/
     font-size: 1.2rem;
 }
 
+/* NOME DA UT MENOR */
+[data-texto-ut-menor]::after { content: "esta región"; }
+[data-country="argentina"] [data-texto-ut-menor]::after { content: "esta provincia"; }
+[data-country="mexico"] [data-texto-ut-menor]::after { content: "este estado"; }
+
 .text-panel-container .conteudo .leer-mas,
 .text-panel-container .conteudo .leer-mas-desplegable,
 .leer-mas-informe-regional {
@@ -1307,7 +1369,7 @@ div.content-divider.bar-divider {
     margin: 0;
 }
 
-[data-relato-campo="MEDIO"], [data-relato-colombia-campo="MEDIO"] {
+[data-relato-campo="MEDIO"] {
 
     /* padding-top: .5rem; */
     /*border-top: 1px solid currentColor;*/
@@ -1315,7 +1377,6 @@ div.content-divider.bar-divider {
 }
 
 [data-relato-campo="TITLE"], 
-[data-relato-colombia-campo="TITLE"], 
 [data-relato-campo-desplegable="TITLE"],
 .modal-relato-regional-title {
     font-size: 1.3em;
@@ -1325,7 +1386,6 @@ div.content-divider.bar-divider {
 }
 
 [data-relato-campo="AUTHOR"], 
-[data-relato-colombia-campo="AUTHOR"],
 [data-relato-campo-desplegable="AUTHOR"] {
     font-size: 0.8rem;
 }
@@ -1356,11 +1416,6 @@ div.content-divider.bar-divider {
     filter: grayscale(100%);
     color: var(--strips); */
 }
-
-.relato-colombia-localidad.expandido [data-relato-colombia-campo="AUTHOR"] { display: none; }
-.relato-colombia-localidad.expandido [data-relato-colombia-campo="RELATO"] { display: initial; }
-.relato-colombia-localidad.recolhido [data-relato-colombia-campo="AUTHOR"] { display: initial; }
-.relato-colombia-localidad.recolhido [data-relato-colombia-campo="RELATO"] { display: none; }
 
 .leer-mas-wrapper {
     margin-top: 1rem;
@@ -2358,6 +2413,26 @@ table.informe-regional td {
 }
 
 [data-relato-modal-campo="RELATO"] table th,
+[data-relato-modal-campo="RELATO"] table td,
+table.informe-regional th,
+table.informe-regional td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #e0e0e0;
+    vertical-align: top;
+}
+
+[data-relato-modal-campo="RELATO"] table th,
+[data-relato-modal-campo="RELATO"] table td,
+table.informe-regional th,
+table.informe-regional td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #e0e0e0;
+    vertical-align: top;
+}
+
+[data-relato-modal-campo="RELATO"] table th,
 table.informe-regional th {
     background-color: var(--bege-claro);
     font-family: nagel;
@@ -2416,11 +2491,12 @@ details.metodologia {
   ul.metodologia.numbered {
     list-style: decimal;
   }
-  li.metodologia {
+  li.metodologia, ul.conclusiones {
     margin-bottom: 0.6em;
     font-size: 1.2em;
     line-height: 1.2;
   }
+
 
   ul.metodologia.localidades {
     font-size: .9em;
@@ -2456,14 +2532,359 @@ details.metodologia details.metodologia details.metodologia details.metodologia 
     font-size: 0.9em;
 }
 
+/* Recomendaciones classes - duplicate of metodologia styling */
+details.recomendaciones {
+    margin-bottom: 1.2em;
+    padding: 0.5em 1em;
+  }
+  
+  summary.recomendaciones {
+    font-family: nagel;
+    font-weight: 600;
+    font-size: 1.2em;
+    cursor: pointer;
+    outline: none;
+    padding: 0.3em 0;
+  }
+  ul.recomendaciones {
+    margin: 0.5em 0 0 1.2em;
+    padding: 0;
+    font-weight: lighter;
+  }
+
+  ul.recomendaciones.numbered {
+    list-style: decimal;
+  }
+  li.recomendaciones {
+    margin-bottom: 0.6em;
+    font-size: 1.2em;
+    line-height: 1.2;
+  }
+
+  ul.recomendaciones.localidades {
+    font-size: .9em;
+    line-height: 1.2;
+}
+
+  li.recomendaciones strong {
+    font-weight: bold !important;
+}
+
+/* Nested collapsible summaries - progressively lighter */
+details.recomendaciones details.recomendaciones {
+    margin-left: 1em;
+}
+
+details.recomendaciones details.recomendaciones summary.recomendaciones {
+    font-size: 1.1em;
+}
+
+details.recomendaciones details.recomendaciones details.recomendaciones {
+    margin-left: 1.5em;
+}
+
+details.recomendaciones details.recomendaciones details.recomendaciones summary.recomendaciones {
+    font-size: 1em;
+}
+
+details.recomendaciones details.recomendaciones details.recomendaciones details.recomendaciones {
+    margin-left: 2em;
+}
+
+details.recomendaciones details.recomendaciones details.recomendaciones details.recomendaciones summary.recomendaciones {
+    font-size: 0.9em;
+}
+
+/* Footer for secondary pages */
+.footer-secondary-pages {
+    background-color: var(--bege-escuro);
+    color: var(--color-text);
+    padding: 3rem 0 1rem 0;
+    border-top: 1px solid var(--color-accent);
+}
+
+/* Logos section above footer for main secondary pages */
+.logos-section {
+    background-color: var(--bege-escuro);
+    border-top: 1px solid var(--color-accent);
+    margin-top: 4rem;
+    padding: 3rem 0;
+}
+
+.logos-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.logos-left {
+    flex: 0 0 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.logos-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.logos-label {
+    font-family: nagel;
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 2rem;
+    color: var(--color-text);
+    text-transform: uppercase;
+}
+
+.logos-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.logos-grid > a {
+    flex: 0 0 100px;
+}
+
+.logos-grid a[href="https://pregrado.upc.edu.pe/facultad-de-comunicaciones/"] {
+    order: 5;
+    align-self: center;
+    height: 120px;
+}
+
+.logos-grid img {
+    width: 100%;
+    transition: opacity 0.3s ease;
+}
+
+.logos-grid img:hover {
+    opacity: 0.7;
+}
+
+.logo-gabo-single img {
+    width: 100%;
+}
+
+.logo-gabo-single {
+    height: 120px;
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 841px) {
+    .logo-gabo-single {
+        align-items: flex-start;
+    }
+
+}
+
+
+/*
+.logo-upc { 
+    height: 150px; 
+    max-width: 200px; 
+}
+.logo-fopea { 
+    height: 150px; 
+    max-width: 180px; 
+}
+.logo-flip { 
+    height: 55px; 
+    width: 120px; 
+    object-fit: fill; /* stretches to fill exactly */
+/*}
+.logo-cip-udp { 
+    height: 60px; 
+    width: 140px; 
+}
+.logo-quinto-elemento { 
+    height: 150px; 
+    width: 160px; 
+}*/
+
+/*
+@media (max-width: 768px) {
+    .logos-container {
+        flex-direction: column;
+        gap: 2rem;
+        padding: 0 1rem;
+    }
+    
+    .logos-left {
+        flex: none;
+    }
+    
+    .logos-right {
+        flex: none;
+    }
+    
+    .logos-grid {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .logos-grid img {
+        height: 50px;
+    }
+    
+    .logo-gabo-single img {
+        height: 40px;
+    }
+    
+    .logos-section {
+        padding: 2rem 0;
+        margin-top: 2rem;
+    }
+}*/
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.footer-section h2.block-title,
+.footer-section h3 {
+    font-family: nagel;
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 1rem;
+    color: var(--color-text);
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-section li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-section a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-family: buendia;
+    font-size: 0.95em;
+    transition: color 0.3s ease;
+}
+
+.footer-section a:hover {
+    color: var(--color-accent);
+}
+
+.footer-section p {
+    font-family: buendia;
+    font-size: 0.95em;
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+}
+
+.btn-donate {
+    display: inline-block;
+    background-color: var(--color-accent);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: nagel;
+    font-weight: 600;
+    font-size: 0.9em;
+    transition: background-color 0.3s ease;
+    margin-top: 0.5rem;
+}
+
+.btn-donate:hover {
+    background-color: var(--bege-escuro);
+    color: var(--color-text);
+}
+
+/* Social media icons */
+.redes-sociales {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1rem 0;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.redes-sociales li {
+    margin: 0;
+}
+
+.redes-sociales a {
+    display: inline-block;
+    transition: opacity 0.3s ease;
+}
+
+.redes-sociales a:hover {
+    opacity: 0.7;
+}
+
+.redes-sociales img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.logo-fundacion {
+    width: 77px;
+    height: 75px;
+    flex-shrink: 0;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--bege-claro);
+}
+
+.footer-bottom p {
+    font-family: buendia;
+    font-size: 0.85em;
+    color: var(--color-text);
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding: 0 1rem;
+    }
+    
+    .footer-secondary-pages {
+        padding: 2rem 0 1rem 0;
+        margin-top: 2rem;
+    }
+}
+
 /* Scope note on the data pannel */
-.star-note {
+.star-note,
+.dagger-note-bosques {
     font-size: 0.8em;
     font-style: italic;
     vertical-align: super;
 }
 
-.star-note-explanation {
+.star-note-explanation,
+.dagger-note-explanation-bosques {
     font-size: 0.7em;
     font-family: nagel;
     font-weight: lighter;
@@ -2471,8 +2892,18 @@ details.metodologia details.metodologia details.metodologia details.metodologia 
     margin-bottom: 0px;
 }
 
+.dagger-note-bosques, .dagger-note-explanation-bosques {
+    display: none;
+}
+
+[data-classification-localidad="bosque"] .dagger-note-bosques,
+[data-classification-localidad="bosque"] .dagger-note-explanation-bosques {
+    display: inline;
+}
+
 @media (max-width: 900px) {
-    .star-note-explanation {
+    .dagger-note-bosques,
+    .dagger-note-explanation-bosques {
         font-size: 0.95em;
     }
 }
@@ -2532,24 +2963,47 @@ p.nota-metodologica {
     display: initial;
 }*/
 
-/* Hide Colombia buttons on main page */
+/* Hide Colombia buttons on main page 
 .menu-paises li[data-pais="colombia"] {
     display: none;
 }
 
-/* Hide Colombia buttons on dashboard */
+/* Hide Colombia buttons on dashboard
 .menu-pais-dash div[data-pais="colombia"] {
     display: none;
-}
+} */
 
 
 /* STATIC PAGES */
+
+.static-pages {
+    --color-accent: var(--red);
+}
 
 .container-relato-static {
     
     padding: 10px;
 
 }
+
+.static-pages .scope-warning-container { 
+
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 0 5px;
+
+}
+
+.static-pages .scope-warning {
+
+    background-color: var(--color-bg);
+
+}
+
+.container-relato-static .menu-tipo-paisage {
+    pointer-events: none;
+}
+
 .container-relato-static [data-relato-modal-campo="MEDIO"] {
     border-bottom: 1px solid var(--color-accent);
     padding-bottom: 1rem;
@@ -2563,7 +3017,23 @@ p.nota-metodologica {
 }
 
 .map-wrapper-full-bleed {
-    background-color: var(--bege-escuro);
+    background-color: var(--bege-mapa);
+    padding-top: 2rem;
+}
+
+.map-wrapper-full-bleed a {
+    text-decoration: none;
+}
+
+.map-wrapper-full-bleed a:hover .scope-warning {
+    box-shadow: 0px 0px 10px var(--color-accent);
+    border-color: var(--color-accent);
+}
+
+.map-wrapper-full-bleed a:hover .scope-warning-icon {
+    background-color: var(--color-accent);
+    border-color: var(--color-accent);
+
 }
 
 h2.static-page-place-name {
@@ -2574,6 +3044,7 @@ h2.static-page-place-name {
     margin: 0;
     line-height: 1;
     margin-top: 1rem;
+    margin-bottom: .5rem;
     font-weight: normal;
 }
 
@@ -2584,12 +3055,20 @@ img.static-page-map {
     margin: 0 auto 1rem;
 }
 
-a.link-to-dashboard,
-a.link-to-static-url {
+[data-country="colombia"] img.static-page-map,
+[data-country="colombia"] .menu-tipo-paisage {
+    display: none;
+}
+
+[data-country="colombia"] .map-wrapper-full-bleed {
+    background-color: transparent;
+}
+
+a.link-to-dashboard {
 
     background-color: var(--color-accent);
     color: var(--color-bg);
-    padding: 0 .25em;
+    padding: .1em .5em;
     font-size: 1.5em;
     border-radius: 6px;
     margin: 1rem auto;
@@ -2600,9 +3079,60 @@ a.link-to-static-url {
 
 }
 
+/* This link is on the dashboard's modal window for the report */
+
+.link-to-static-url {
+    font-size: 1em;
+    font-family: nagel;
+    text-transform: uppercase;
+    text-decoration: underline;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .25em;
+    color: var(--color-accent);
+}
+
+.link-to-static-url svg {
+    height: 1.2em;
+    width: 1.2em;
+}
+
 /*shows only on provincia and city view */
-[data-view="pais"] a.link-to-static-url,
-[data-view="latam"] a.link-to-static-url {
+[data-view="pais"] .link-to-static-url,
+[data-view="latam"] .link-to-static-url {
     display: none;
 }
+
+.link-to-static-url .enlace-copiado {
+    display: none;
+}
+
+.link-to-static-url.clicked > .text-link-to-static-url {
+    display: none;
+}
+
+.link-to-static-url.clicked .enlace-copiado {
+    display: initial;
+    animation: shine 3s;
+
+}
+
+@keyframes shine {
+
+    0% {
+        text-shadow: 0 0 0px #EC722E;
+    }
+
+    50% {
+        text-shadow: 0 0 10px #EC722E;
+    }
+    
+    100% {
+        text-shadow: 0 0 0px #EC722E;
+    }
+
+}
+
+
 

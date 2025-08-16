@@ -18,19 +18,19 @@ async function download_image(img_url, filepath) {
 }
 
 const countries_layers = {
-    "argentina" : "tiagombp/cmdrid0x700jq01qp87mp2zap",
-    //"chile" : "tiagombp/cmdrie7bu00qp01s2cv7k0ru8",
-    //"mexico" : "tiagombp/cmdrikfj7004101rscaf65mph",
-    //"peru" : "tiagombp/cmdrifo7j003201s801gnetgs",
-    //"colombia" : ""
+    //"argentina" : "tiagombp/cmdrid0x700jq01qp87mp2zap",
+    "chile" : "tiagombp/cmdrie7bu00qp01s2cv7k0ru8",
+    "mexico" : "tiagombp/cmdrikfj7004101rscaf65mph",
+    "peru" : "tiagombp/cmdrifo7j003201s801gnetgs",
+    "colombia" : ""
 }
 
 const country_names = {
-    "argentina" : "Argentina",
-    //"chile" : "Chile",
-    //"colombia" : "Colombia",
-    //"mexico" : "México",
-    //"peru" : "Perú"
+    //"argentina" : "Argentina",
+    "chile" : "Chile",
+    "colombia" : "Colombia",
+    "mexico" : "México",
+    "peru" : "Perú"
 }
 
 function slugify(name) {
